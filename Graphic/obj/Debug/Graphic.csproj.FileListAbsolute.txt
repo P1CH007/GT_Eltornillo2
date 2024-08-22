@@ -1,0 +1,1332 @@
+C:\Users\samio\source\repos\GemsTech\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GemsTech\Graphic\obj\Debug\Graphic.LogIn.resources
+C:\Users\samio\source\repos\GemsTech\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\samio\source\repos\GemsTech\Graphic\obj\Debug\Graphic.SignIn.resources
+C:\Users\samio\source\repos\GemsTech\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\samio\source\repos\GemsTech\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GemsTech\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\samio\source\repos\GemsTech\Graphic\bin\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech\Graphic\bin\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\samio\source\repos\GemsTech\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\samio\source\repos\GemsTech\Graphic\obj\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech\Graphic\obj\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\Samiel\source\repos\GemsTech\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\Samiel\source\repos\GemsTech\Graphic\bin\Debug\Graphic.exe
+C:\Users\Samiel\source\repos\GemsTech\Graphic\bin\Debug\Graphic.pdb
+C:\Users\Samiel\source\repos\GemsTech\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\Samiel\source\repos\GemsTech\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\Samiel\source\repos\GemsTech\Graphic\obj\Debug\Graphic.LogIn.resources
+C:\Users\Samiel\source\repos\GemsTech\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\Samiel\source\repos\GemsTech\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\Samiel\source\repos\GemsTech\Graphic\obj\Debug\Graphic.SignIn.resources
+C:\Users\Samiel\source\repos\GemsTech\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\Samiel\source\repos\GemsTech\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\Samiel\source\repos\GemsTech\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\Samiel\source\repos\GemsTech\Graphic\obj\Debug\Graphic.exe
+C:\Users\Samiel\source\repos\GemsTech\Graphic\obj\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v1.0.0\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\samio\source\repos\GemsTech v1.0.0\Graphic\bin\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v1.0.0\Graphic\bin\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v1.0.0\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\samio\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.LogIn.resources
+C:\Users\samio\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\samio\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\samio\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\samio\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\samio\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.Products.resources
+C:\Users\samio\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.Sales.resources
+C:\Users\samio\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.Dashboard.resources
+C:\Users\samio\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.Shopping.resources
+C:\Users\samio\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.Workers.resources
+C:\Users\samio\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\Samiel\source\repos\GemsTech v1.0.0\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\Samiel\source\repos\GemsTech v1.0.0\Graphic\bin\Debug\Graphic.exe
+C:\Users\Samiel\source\repos\GemsTech v1.0.0\Graphic\bin\Debug\Graphic.pdb
+C:\Users\Samiel\source\repos\GemsTech v1.0.0\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\Samiel\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\Samiel\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\Samiel\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.Dashboard.resources
+C:\Users\Samiel\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.LogIn.resources
+C:\Users\Samiel\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\Samiel\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.Products.resources
+C:\Users\Samiel\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\Samiel\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.Sales.resources
+C:\Users\Samiel\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.Shopping.resources
+C:\Users\Samiel\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.Workers.resources
+C:\Users\Samiel\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\Samiel\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\Samiel\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\Samiel\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.exe
+C:\Users\Samiel\source\repos\GemsTech v1.0.0\Graphic\obj\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v1.3.2\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\samio\source\repos\GemsTech v1.3.2\Graphic\bin\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v1.3.2\Graphic\bin\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v1.3.2\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\samio\source\repos\GemsTech v1.3.2\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GemsTech v1.3.2\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\samio\source\repos\GemsTech v1.3.2\Graphic\obj\Debug\Graphic.Dashboard.resources
+C:\Users\samio\source\repos\GemsTech v1.3.2\Graphic\obj\Debug\Graphic.LogIn.resources
+C:\Users\samio\source\repos\GemsTech v1.3.2\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\samio\source\repos\GemsTech v1.3.2\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\samio\source\repos\GemsTech v1.3.2\Graphic\obj\Debug\Graphic.Sales.resources
+C:\Users\samio\source\repos\GemsTech v1.3.2\Graphic\obj\Debug\Graphic.Shopping.resources
+C:\Users\samio\source\repos\GemsTech v1.3.2\Graphic\obj\Debug\Graphic.Workers.resources
+C:\Users\samio\source\repos\GemsTech v1.3.2\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\samio\source\repos\GemsTech v1.3.2\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GemsTech v1.3.2\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\samio\source\repos\GemsTech v1.3.2\Graphic\obj\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v1.3.2\Graphic\obj\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v1.3.2\Graphic\obj\Debug\Graphic.Products.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.7\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\Samiel\source\repos\GemsTech v1.3.7\Graphic\bin\Debug\Graphic.exe
+C:\Users\Samiel\source\repos\GemsTech v1.3.7\Graphic\bin\Debug\Graphic.pdb
+C:\Users\Samiel\source\repos\GemsTech v1.3.7\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\Samiel\source\repos\GemsTech v1.3.7\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\Samiel\source\repos\GemsTech v1.3.7\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.7\Graphic\obj\Debug\Graphic.Dashboard.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.7\Graphic\obj\Debug\Graphic.LogIn.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.7\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.7\Graphic\obj\Debug\Graphic.Products.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.7\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.7\Graphic\obj\Debug\Graphic.Sales.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.7\Graphic\obj\Debug\Graphic.Shopping.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.7\Graphic\obj\Debug\Graphic.Workers.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.7\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\Samiel\source\repos\GemsTech v1.3.7\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\Samiel\source\repos\GemsTech v1.3.7\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\Samiel\source\repos\GemsTech v1.3.7\Graphic\obj\Debug\Graphic.exe
+C:\Users\Samiel\source\repos\GemsTech v1.3.7\Graphic\obj\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v1.3.8\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\samio\source\repos\GemsTech v1.3.8\Graphic\bin\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v1.3.8\Graphic\bin\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v1.3.8\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\samio\source\repos\GemsTech v1.3.8\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GemsTech v1.3.8\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\samio\source\repos\GemsTech v1.3.8\Graphic\obj\Debug\Graphic.Dashboard.resources
+C:\Users\samio\source\repos\GemsTech v1.3.8\Graphic\obj\Debug\Graphic.LogIn.resources
+C:\Users\samio\source\repos\GemsTech v1.3.8\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\samio\source\repos\GemsTech v1.3.8\Graphic\obj\Debug\Graphic.Products.resources
+C:\Users\samio\source\repos\GemsTech v1.3.8\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\samio\source\repos\GemsTech v1.3.8\Graphic\obj\Debug\Graphic.Sales.resources
+C:\Users\samio\source\repos\GemsTech v1.3.8\Graphic\obj\Debug\Graphic.Shopping.resources
+C:\Users\samio\source\repos\GemsTech v1.3.8\Graphic\obj\Debug\Graphic.Workers.resources
+C:\Users\samio\source\repos\GemsTech v1.3.8\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\samio\source\repos\GemsTech v1.3.8\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GemsTech v1.3.8\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\samio\source\repos\GemsTech v1.3.8\Graphic\obj\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v1.3.8\Graphic\obj\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v1.3.9\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\samio\source\repos\GemsTech v1.3.9\Graphic\bin\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v1.3.9\Graphic\bin\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v1.3.9\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\samio\source\repos\GemsTech v1.3.9\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GemsTech v1.3.9\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\samio\source\repos\GemsTech v1.3.9\Graphic\obj\Debug\Graphic.Dashboard.resources
+C:\Users\samio\source\repos\GemsTech v1.3.9\Graphic\obj\Debug\Graphic.LogIn.resources
+C:\Users\samio\source\repos\GemsTech v1.3.9\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\samio\source\repos\GemsTech v1.3.9\Graphic\obj\Debug\Graphic.Products.resources
+C:\Users\samio\source\repos\GemsTech v1.3.9\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\samio\source\repos\GemsTech v1.3.9\Graphic\obj\Debug\Graphic.Sales.resources
+C:\Users\samio\source\repos\GemsTech v1.3.9\Graphic\obj\Debug\Graphic.Shopping.resources
+C:\Users\samio\source\repos\GemsTech v1.3.9\Graphic\obj\Debug\Graphic.Workers.resources
+C:\Users\samio\source\repos\GemsTech v1.3.9\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\samio\source\repos\GemsTech v1.3.9\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GemsTech v1.3.9\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\samio\source\repos\GemsTech v1.3.9\Graphic\obj\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v1.3.9\Graphic\obj\Debug\Graphic.pdb
+C:\Users\Samiel\source\repos\GemsTech v1.3.10b\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\Samiel\source\repos\GemsTech v1.3.10b\Graphic\bin\Debug\Graphic.exe
+C:\Users\Samiel\source\repos\GemsTech v1.3.10b\Graphic\bin\Debug\Graphic.pdb
+C:\Users\Samiel\source\repos\GemsTech v1.3.10b\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\Samiel\source\repos\GemsTech v1.3.10b\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\Samiel\source\repos\GemsTech v1.3.10b\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.10b\Graphic\obj\Debug\Graphic.Dashboard.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.10b\Graphic\obj\Debug\Graphic.LogIn.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.10b\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.10b\Graphic\obj\Debug\Graphic.Products.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.10b\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.10b\Graphic\obj\Debug\Graphic.Sales.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.10b\Graphic\obj\Debug\Graphic.Shopping.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.10b\Graphic\obj\Debug\Graphic.Workers.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.10b\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\Samiel\source\repos\GemsTech v1.3.10b\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\Samiel\source\repos\GemsTech v1.3.10b\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\Samiel\source\repos\GemsTech v1.3.10b\Graphic\obj\Debug\Graphic.exe
+C:\Users\Samiel\source\repos\GemsTech v1.3.10b\Graphic\obj\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v1.3.10\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\samio\source\repos\GemsTech v1.3.10\Graphic\bin\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v1.3.10\Graphic\bin\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v1.3.10\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\samio\source\repos\GemsTech v1.3.10\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GemsTech v1.3.10\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\samio\source\repos\GemsTech v1.3.10\Graphic\obj\Debug\Graphic.Dashboard.resources
+C:\Users\samio\source\repos\GemsTech v1.3.10\Graphic\obj\Debug\Graphic.LogIn.resources
+C:\Users\samio\source\repos\GemsTech v1.3.10\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\samio\source\repos\GemsTech v1.3.10\Graphic\obj\Debug\Graphic.Products.resources
+C:\Users\samio\source\repos\GemsTech v1.3.10\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\samio\source\repos\GemsTech v1.3.10\Graphic\obj\Debug\Graphic.Sales.resources
+C:\Users\samio\source\repos\GemsTech v1.3.10\Graphic\obj\Debug\Graphic.Shopping.resources
+C:\Users\samio\source\repos\GemsTech v1.3.10\Graphic\obj\Debug\Graphic.Workers.resources
+C:\Users\samio\source\repos\GemsTech v1.3.10\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\samio\source\repos\GemsTech v1.3.10\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GemsTech v1.3.10\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\samio\source\repos\GemsTech v1.3.10\Graphic\obj\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v1.3.10\Graphic\obj\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v1.3.10\Graphic\obj\Debug\Graphic.StartScreen.resources
+C:\Users\samio\source\repos\GemsTech v1.3.13\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\samio\source\repos\GemsTech v1.3.13\Graphic\bin\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v1.3.13\Graphic\bin\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v1.3.13\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\samio\source\repos\GemsTech v1.3.13\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GemsTech v1.3.13\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\samio\source\repos\GemsTech v1.3.13\Graphic\obj\Debug\Graphic.Dashboard.resources
+C:\Users\samio\source\repos\GemsTech v1.3.13\Graphic\obj\Debug\Graphic.LogIn.resources
+C:\Users\samio\source\repos\GemsTech v1.3.13\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\samio\source\repos\GemsTech v1.3.13\Graphic\obj\Debug\Graphic.Products.resources
+C:\Users\samio\source\repos\GemsTech v1.3.13\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\samio\source\repos\GemsTech v1.3.13\Graphic\obj\Debug\Graphic.Sales.resources
+C:\Users\samio\source\repos\GemsTech v1.3.13\Graphic\obj\Debug\Graphic.Shopping.resources
+C:\Users\samio\source\repos\GemsTech v1.3.13\Graphic\obj\Debug\Graphic.StartScreen.resources
+C:\Users\samio\source\repos\GemsTech v1.3.13\Graphic\obj\Debug\Graphic.Workers.resources
+C:\Users\samio\source\repos\GemsTech v1.3.13\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\samio\source\repos\GemsTech v1.3.13\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GemsTech v1.3.13\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\samio\source\repos\GemsTech v1.3.13\Graphic\obj\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v1.3.13\Graphic\obj\Debug\Graphic.pdb
+C:\Users\Samiel\source\repos\GemsTech v1.3.14\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\Samiel\source\repos\GemsTech v1.3.14\Graphic\bin\Debug\Graphic.exe
+C:\Users\Samiel\source\repos\GemsTech v1.3.14\Graphic\bin\Debug\Graphic.pdb
+C:\Users\Samiel\source\repos\GemsTech v1.3.14\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\Samiel\source\repos\GemsTech v1.3.14\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\Samiel\source\repos\GemsTech v1.3.14\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.14\Graphic\obj\Debug\Graphic.Dashboard.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.14\Graphic\obj\Debug\Graphic.LogIn.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.14\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.14\Graphic\obj\Debug\Graphic.Products.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.14\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.14\Graphic\obj\Debug\Graphic.Sales.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.14\Graphic\obj\Debug\Graphic.Shopping.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.14\Graphic\obj\Debug\Graphic.StartScreen.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.14\Graphic\obj\Debug\Graphic.Workers.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.14\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\Samiel\source\repos\GemsTech v1.3.14\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\Samiel\source\repos\GemsTech v1.3.14\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\Samiel\source\repos\GemsTech v1.3.14\Graphic\obj\Debug\Graphic.exe
+C:\Users\Samiel\source\repos\GemsTech v1.3.14\Graphic\obj\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v1.3.15b\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GemsTech v1.3.15b\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\samio\source\repos\GemsTech v1.3.15b\Graphic\obj\Debug\Graphic.Dashboard.resources
+C:\Users\samio\source\repos\GemsTech v1.3.15b\Graphic\obj\Debug\Graphic.LogIn.resources
+C:\Users\samio\source\repos\GemsTech v1.3.15b\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\samio\source\repos\GemsTech v1.3.15b\Graphic\obj\Debug\Graphic.Products.resources
+C:\Users\samio\source\repos\GemsTech v1.3.15b\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\samio\source\repos\GemsTech v1.3.15b\Graphic\obj\Debug\Graphic.Sales.resources
+C:\Users\samio\source\repos\GemsTech v1.3.15b\Graphic\obj\Debug\Graphic.Shopping.resources
+C:\Users\samio\source\repos\GemsTech v1.3.15b\Graphic\obj\Debug\Graphic.StartScreen.resources
+C:\Users\samio\source\repos\GemsTech v1.3.15b\Graphic\obj\Debug\Graphic.Workers.resources
+C:\Users\samio\source\repos\GemsTech v1.3.15b\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\samio\source\repos\GemsTech v1.3.15b\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GemsTech v1.3.15b\Graphic\obj\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v1.3.15b\Graphic\obj\Debug\Graphic.pdb
+C:\Users\Samiel\source\repos\GemsTech v1.3.16b\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\Samiel\source\repos\GemsTech v1.3.16b\Graphic\bin\Debug\Graphic.exe
+C:\Users\Samiel\source\repos\GemsTech v1.3.16b\Graphic\bin\Debug\Graphic.pdb
+C:\Users\Samiel\source\repos\GemsTech v1.3.16b\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\Samiel\source\repos\GemsTech v1.3.16b\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\Samiel\source\repos\GemsTech v1.3.16b\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.16b\Graphic\obj\Debug\Graphic.Dashboard.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.16b\Graphic\obj\Debug\Graphic.LogIn.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.16b\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.16b\Graphic\obj\Debug\Graphic.Products.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.16b\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.16b\Graphic\obj\Debug\Graphic.Sales.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.16b\Graphic\obj\Debug\Graphic.Shopping.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.16b\Graphic\obj\Debug\Graphic.StartScreen.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.16b\Graphic\obj\Debug\Graphic.Workers.resources
+C:\Users\Samiel\source\repos\GemsTech v1.3.16b\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\Samiel\source\repos\GemsTech v1.3.16b\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\Samiel\source\repos\GemsTech v1.3.16b\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\Samiel\source\repos\GemsTech v1.3.16b\Graphic\obj\Debug\Graphic.exe
+C:\Users\Samiel\source\repos\GemsTech v1.3.16b\Graphic\obj\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v1.3.16\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\samio\source\repos\GemsTech v1.3.16\Graphic\bin\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v1.3.16\Graphic\bin\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v1.3.16\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\samio\source\repos\GemsTech v1.3.16\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GemsTech v1.3.16\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\samio\source\repos\GemsTech v1.3.16\Graphic\obj\Debug\Graphic.Dashboard.resources
+C:\Users\samio\source\repos\GemsTech v1.3.16\Graphic\obj\Debug\Graphic.LogIn.resources
+C:\Users\samio\source\repos\GemsTech v1.3.16\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\samio\source\repos\GemsTech v1.3.16\Graphic\obj\Debug\Graphic.Products.resources
+C:\Users\samio\source\repos\GemsTech v1.3.16\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\samio\source\repos\GemsTech v1.3.16\Graphic\obj\Debug\Graphic.Sales.resources
+C:\Users\samio\source\repos\GemsTech v1.3.16\Graphic\obj\Debug\Graphic.Shopping.resources
+C:\Users\samio\source\repos\GemsTech v1.3.16\Graphic\obj\Debug\Graphic.StartScreen.resources
+C:\Users\samio\source\repos\GemsTech v1.3.16\Graphic\obj\Debug\Graphic.Workers.resources
+C:\Users\samio\source\repos\GemsTech v1.3.16\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\samio\source\repos\GemsTech v1.3.16\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GemsTech v1.3.16\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\samio\source\repos\GemsTech v1.3.16\Graphic\obj\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v1.3.16\Graphic\obj\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v1.3.18\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\samio\source\repos\GemsTech v1.3.18\Graphic\bin\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v1.3.18\Graphic\bin\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v1.3.18\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\samio\source\repos\GemsTech v1.3.18\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GemsTech v1.3.18\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\samio\source\repos\GemsTech v1.3.18\Graphic\obj\Debug\Graphic.Dashboard.resources
+C:\Users\samio\source\repos\GemsTech v1.3.18\Graphic\obj\Debug\Graphic.LogIn.resources
+C:\Users\samio\source\repos\GemsTech v1.3.18\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\samio\source\repos\GemsTech v1.3.18\Graphic\obj\Debug\Graphic.Products.resources
+C:\Users\samio\source\repos\GemsTech v1.3.18\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\samio\source\repos\GemsTech v1.3.18\Graphic\obj\Debug\Graphic.Sales.resources
+C:\Users\samio\source\repos\GemsTech v1.3.18\Graphic\obj\Debug\Graphic.Shopping.resources
+C:\Users\samio\source\repos\GemsTech v1.3.18\Graphic\obj\Debug\Graphic.StartScreen.resources
+C:\Users\samio\source\repos\GemsTech v1.3.18\Graphic\obj\Debug\Graphic.Workers.resources
+C:\Users\samio\source\repos\GemsTech v1.3.18\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\samio\source\repos\GemsTech v1.3.18\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GemsTech v1.3.18\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\samio\source\repos\GemsTech v1.3.18\Graphic\obj\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v1.3.18\Graphic\obj\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v2.7.29\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\samio\source\repos\GemsTech v2.7.29\Graphic\bin\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v2.7.29\Graphic\bin\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v2.7.29\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\samio\source\repos\GemsTech v2.7.29\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GemsTech v2.7.29\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\samio\source\repos\GemsTech v2.7.29\Graphic\obj\Debug\Graphic.Dashboard.resources
+C:\Users\samio\source\repos\GemsTech v2.7.29\Graphic\obj\Debug\Graphic.LogIn.resources
+C:\Users\samio\source\repos\GemsTech v2.7.29\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\samio\source\repos\GemsTech v2.7.29\Graphic\obj\Debug\Graphic.Products.resources
+C:\Users\samio\source\repos\GemsTech v2.7.29\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\samio\source\repos\GemsTech v2.7.29\Graphic\obj\Debug\Graphic.Sales.resources
+C:\Users\samio\source\repos\GemsTech v2.7.29\Graphic\obj\Debug\Graphic.Shopping.resources
+C:\Users\samio\source\repos\GemsTech v2.7.29\Graphic\obj\Debug\Graphic.StartScreen.resources
+C:\Users\samio\source\repos\GemsTech v2.7.29\Graphic\obj\Debug\Graphic.Workers.resources
+C:\Users\samio\source\repos\GemsTech v2.7.29\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\samio\source\repos\GemsTech v2.7.29\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GemsTech v2.7.29\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\samio\source\repos\GemsTech v2.7.29\Graphic\obj\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v2.7.29\Graphic\obj\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v2.7.31\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\samio\source\repos\GemsTech v2.7.31\Graphic\bin\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v2.7.31\Graphic\bin\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v2.7.31\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\samio\source\repos\GemsTech v2.7.31\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GemsTech v2.7.31\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\samio\source\repos\GemsTech v2.7.31\Graphic\obj\Debug\Graphic.Dashboard.resources
+C:\Users\samio\source\repos\GemsTech v2.7.31\Graphic\obj\Debug\Graphic.LogIn.resources
+C:\Users\samio\source\repos\GemsTech v2.7.31\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\samio\source\repos\GemsTech v2.7.31\Graphic\obj\Debug\Graphic.Products.resources
+C:\Users\samio\source\repos\GemsTech v2.7.31\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\samio\source\repos\GemsTech v2.7.31\Graphic\obj\Debug\Graphic.Sales.resources
+C:\Users\samio\source\repos\GemsTech v2.7.31\Graphic\obj\Debug\Graphic.Shopping.resources
+C:\Users\samio\source\repos\GemsTech v2.7.31\Graphic\obj\Debug\Graphic.StartScreen.resources
+C:\Users\samio\source\repos\GemsTech v2.7.31\Graphic\obj\Debug\Graphic.Workers.resources
+C:\Users\samio\source\repos\GemsTech v2.7.31\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\samio\source\repos\GemsTech v2.7.31\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GemsTech v2.7.31\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\samio\source\repos\GemsTech v2.7.31\Graphic\obj\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v2.7.31\Graphic\obj\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v2.7.31\Graphic\bin\Debug\Graphic.exe.manifest
+C:\Users\samio\source\repos\GemsTech v2.7.31\Graphic\bin\Debug\Graphic.application
+C:\Users\samio\source\repos\GemsTech v2.7.31\Graphic\obj\Debug\Graphic.exe.manifest
+C:\Users\samio\source\repos\GemsTech v2.7.31\Graphic\obj\Debug\Graphic.application
+C:\Users\samio\source\repos\GemsTech v2.7.40\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\samio\source\repos\GemsTech v2.7.40\Graphic\bin\Debug\Graphic.exe.manifest
+C:\Users\samio\source\repos\GemsTech v2.7.40\Graphic\bin\Debug\Graphic.application
+C:\Users\samio\source\repos\GemsTech v2.7.40\Graphic\bin\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v2.7.40\Graphic\bin\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v2.7.40\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\samio\source\repos\GemsTech v2.7.40\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GemsTech v2.7.40\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\samio\source\repos\GemsTech v2.7.40\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\samio\source\repos\GemsTech v2.7.40\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\samio\source\repos\GemsTech v2.7.40\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\samio\source\repos\GemsTech v2.7.40\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GemsTech v2.7.40\Graphic\obj\Debug\Graphic.exe.manifest
+C:\Users\samio\source\repos\GemsTech v2.7.40\Graphic\obj\Debug\Graphic.application
+C:\Users\samio\source\repos\GemsTech v2.7.40\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\samio\source\repos\GemsTech v2.7.40\Graphic\obj\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v2.7.40\Graphic\obj\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v2.7.40\Graphic\obj\Debug\Graphic.FrmDashboard.resources
+C:\Users\samio\source\repos\GemsTech v2.7.40\Graphic\obj\Debug\Graphic.FrmLogin.resources
+C:\Users\samio\source\repos\GemsTech v2.7.40\Graphic\obj\Debug\Graphic.FrmProducts.resources
+C:\Users\samio\source\repos\GemsTech v2.7.40\Graphic\obj\Debug\Graphic.FrmSales.resources
+C:\Users\samio\source\repos\GemsTech v2.7.40\Graphic\obj\Debug\Graphic.FrmShopping.resources
+C:\Users\samio\source\repos\GemsTech v2.7.40\Graphic\obj\Debug\Graphic.FrmStartScreen.resources
+C:\Users\samio\source\repos\GemsTech v2.7.40\Graphic\obj\Debug\Graphic.FrmWorkers.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000001\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\samio\source\repos\GemsTech v2.7.000001\Graphic\bin\Debug\Graphic.exe.manifest
+C:\Users\samio\source\repos\GemsTech v2.7.000001\Graphic\bin\Debug\Graphic.application
+C:\Users\samio\source\repos\GemsTech v2.7.000001\Graphic\bin\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v2.7.000001\Graphic\bin\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v2.7.000001\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\samio\source\repos\GemsTech v2.7.000001\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GemsTech v2.7.000001\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000001\Graphic\obj\Debug\Graphic.FrmDashboard.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000001\Graphic\obj\Debug\Graphic.FrmLogin.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000001\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000001\Graphic\obj\Debug\Graphic.FrmProducts.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000001\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000001\Graphic\obj\Debug\Graphic.FrmSales.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000001\Graphic\obj\Debug\Graphic.FrmShopping.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000001\Graphic\obj\Debug\Graphic.FrmStartScreen.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000001\Graphic\obj\Debug\Graphic.FrmWorkers.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000001\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\samio\source\repos\GemsTech v2.7.000001\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GemsTech v2.7.000001\Graphic\obj\Debug\Graphic.exe.manifest
+C:\Users\samio\source\repos\GemsTech v2.7.000001\Graphic\obj\Debug\Graphic.application
+C:\Users\samio\source\repos\GemsTech v2.7.000001\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\samio\source\repos\GemsTech v2.7.000001\Graphic\obj\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v2.7.000001\Graphic\obj\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v2.7.000001\Graphic\obj\Debug\Graphic.FrmTicket.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000002\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\samio\source\repos\GemsTech v2.7.000002\Graphic\bin\Debug\Graphic.exe.manifest
+C:\Users\samio\source\repos\GemsTech v2.7.000002\Graphic\bin\Debug\Graphic.application
+C:\Users\samio\source\repos\GemsTech v2.7.000002\Graphic\bin\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v2.7.000002\Graphic\bin\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v2.7.000002\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\samio\source\repos\GemsTech v2.7.000002\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GemsTech v2.7.000002\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000002\Graphic\obj\Debug\Graphic.FrmDashboard.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000002\Graphic\obj\Debug\Graphic.FrmLogin.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000002\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000002\Graphic\obj\Debug\Graphic.FrmProducts.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000002\Graphic\obj\Debug\Graphic.FrmTicket.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000002\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000002\Graphic\obj\Debug\Graphic.FrmSales.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000002\Graphic\obj\Debug\Graphic.FrmShopping.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000002\Graphic\obj\Debug\Graphic.FrmStartScreen.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000002\Graphic\obj\Debug\Graphic.FrmWorkers.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000002\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\samio\source\repos\GemsTech v2.7.000002\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GemsTech v2.7.000002\Graphic\obj\Debug\Graphic.exe.manifest
+C:\Users\samio\source\repos\GemsTech v2.7.000002\Graphic\obj\Debug\Graphic.application
+C:\Users\samio\source\repos\GemsTech v2.7.000002\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\samio\source\repos\GemsTech v2.7.000002\Graphic\obj\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v2.7.000002\Graphic\obj\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\bin\Debug\Graphic.exe.manifest
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\bin\Debug\Graphic.application
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\bin\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\bin\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\obj\Debug\Graphic.FrmDashboard.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\obj\Debug\Graphic.FrmLogin.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\obj\Debug\Graphic.FrmProducts.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\obj\Debug\Graphic.FrmTicket.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\obj\Debug\Graphic.FrmSales.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\obj\Debug\Graphic.FrmShopping.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\obj\Debug\Graphic.FrmStartScreen.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\obj\Debug\Graphic.FrmWorkers.resources
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\obj\Debug\Graphic.exe.manifest
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\obj\Debug\Graphic.application
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\obj\Debug\Graphic.exe
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\obj\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GemsTech v2.7.000003\Graphic\obj\Debug\Graphic.FrmErrorMSG.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Graphic.exe.manifest
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Graphic.application
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Graphic.exe
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmErrorMSG.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmDashboard.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmLogin.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmProducts.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmTicket.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmSales.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmShopping.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmStartScreen.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmWorkers.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.exe.manifest
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.application
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.exe
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.exe.config
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.exe
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Graphic.exe.config
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Graphic.exe.manifest
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Graphic.application
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Graphic.exe
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Graphic.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Entities.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Guna.UI2.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Logic.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Persistence.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\MySql.Data.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\netstandard.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Google.Protobuf.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\ZstdSharp.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Memory.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Security.Permissions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Security.Principal.Windows.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Text.Json.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Buffers.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\K4os.Compression.LZ4.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\K4os.Hash.xxHash.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Security.AccessControl.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Text.Encodings.Web.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Entities.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Logic.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Persistence.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Persistence.dll.config
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\MySql.Data.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Google.Protobuf.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Google.Protobuf.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Memory.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Security.Permissions.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Security.Principal.Windows.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Text.Json.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Buffers.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\K4os.Compression.LZ4.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\K4os.Hash.xxHash.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Security.AccessControl.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Text.Encodings.Web.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmErrorMSG.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.Config.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmDashboard.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmLogin.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.MainApplication.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmProducts.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmTicket.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmSales.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmShopping.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmStartScreen.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmWorkers.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.exe.manifest
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.application
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.exe.config
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmErrorMSG.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmDashboard.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmLogin.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmProducts.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmTicket.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmSales.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmShopping.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmStartScreen.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmWorkers.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.exe
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Graphic.exe.manifest
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Graphic.application
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Graphic.exe
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Entities.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Logic.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Persistence.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\MySql.Data.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\netstandard.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Google.Protobuf.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\ZstdSharp.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Memory.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Security.Permissions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Text.Json.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Buffers.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Security.AccessControl.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Entities.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Logic.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Persistence.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Persistence.dll.config
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\MySql.Data.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Google.Protobuf.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Google.Protobuf.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Memory.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Security.Permissions.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Text.Json.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Buffers.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Security.AccessControl.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.exe.manifest
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.application
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.MakeSale.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Graphic\obj\Debug\Graphic.FrmAddClient.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\Graphic.exe.manifest
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\Graphic.application
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\Graphic.exe
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\Entities.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\Logic.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\Persistence.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\MySql.Data.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\netstandard.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\Google.Protobuf.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\ZstdSharp.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Memory.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Security.Permissions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Text.Json.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Buffers.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Security.AccessControl.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\Entities.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\Logic.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\Persistence.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\Persistence.dll.config
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\MySql.Data.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\Google.Protobuf.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\Google.Protobuf.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Memory.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Security.Permissions.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Text.Json.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Buffers.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Security.AccessControl.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\obj\Debug\Graphic.exe.config
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\obj\Debug\Graphic.FrmAddClient.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\obj\Debug\Graphic.FrmErrorMSG.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\obj\Debug\Graphic.FrmDashboard.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\obj\Debug\Graphic.FrmLogin.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\obj\Debug\Graphic.FrmProducts.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\obj\Debug\Graphic.FrmTicket.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\obj\Debug\Graphic.FrmShopping.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\obj\Debug\Graphic.FrmStartScreen.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\obj\Debug\Graphic.FrmWorkers.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\obj\Debug\Graphic.exe.manifest
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\obj\Debug\Graphic.application
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\obj\Debug\Graphic.exe
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\obj\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Graphic\obj\Debug\Graphic.FrmMakeSale.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\obj\Debug\Graphic.exe
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\obj\Debug\Graphic.pdb
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\Graphic.exe.manifest
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\Graphic.application
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\Graphic.exe
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\Graphic.pdb
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\Entities.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\Logic.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Drawing.Common.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\Persistence.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\netstandard.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\MySql.Data.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\Google.Protobuf.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\ZstdSharp.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Memory.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Security.Permissions.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Text.Json.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Buffers.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\Entities.pdb
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\Logic.pdb
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\Logic.dll.config
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\Persistence.pdb
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\Persistence.dll.config
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\MySql.Data.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\Google.Protobuf.pdb
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\Google.Protobuf.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Memory.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Security.Permissions.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Text.Json.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Buffers.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\obj\Debug\Graphic.FrmAddClient.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\obj\Debug\Graphic.FrmErrorMSG.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\obj\Debug\Graphic.FrmDashboard.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\obj\Debug\Graphic.FrmLogin.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\obj\Debug\Graphic.FrmProducts.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\obj\Debug\Graphic.FrmTicket.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\obj\Debug\Graphic.FrmMakeSale.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\obj\Debug\Graphic.FrmShopping.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\obj\Debug\Graphic.FrmStartScreen.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\obj\Debug\Graphic.FrmWorkers.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\obj\Debug\Graphic.exe.manifest
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\obj\Debug\Graphic.application
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\obj\Debug\Graphic.FrmConfig.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\bin\Debug\System.Drawing.Common.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Graphic\obj\Debug\Graphic.FrmAddEmployee.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\obj\Debug\Graphic.FrmAddClient.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\obj\Debug\Graphic.FrmAddEmployee.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\obj\Debug\Graphic.FrmErrorMSG.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\obj\Debug\Graphic.FrmConfig.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\obj\Debug\Graphic.FrmDashboard.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\obj\Debug\Graphic.FrmLogin.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\obj\Debug\Graphic.FrmProducts.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\obj\Debug\Graphic.FrmTicket.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\obj\Debug\Graphic.FrmMakeSale.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\obj\Debug\Graphic.FrmShopping.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\obj\Debug\Graphic.FrmStartScreen.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\obj\Debug\Graphic.FrmWorkers.resources
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\obj\Debug\Graphic.exe
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\obj\Debug\Graphic.pdb
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\Graphic.exe.manifest
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\Graphic.application
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\Graphic.exe
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\Graphic.pdb
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\Entities.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\Logic.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\Persistence.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\MySql.Data.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\netstandard.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\Google.Protobuf.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\ZstdSharp.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Memory.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Security.Permissions.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Text.Json.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Buffers.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\Entities.pdb
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\Logic.pdb
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\Logic.dll.config
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\Persistence.pdb
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\Persistence.dll.config
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\MySql.Data.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\Google.Protobuf.pdb
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\Google.Protobuf.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Memory.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Security.Permissions.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Text.Json.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Buffers.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\obj\Debug\Graphic.exe.manifest
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\obj\Debug\Graphic.application
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\Graphic.exe.manifest
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\Graphic.application
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\Graphic.exe
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\Entities.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\Logic.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\Persistence.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\MySql.Data.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\netstandard.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\Google.Protobuf.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\ZstdSharp.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Memory.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Security.Permissions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Text.Json.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Buffers.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Security.AccessControl.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\Entities.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\Logic.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\Logic.dll.config
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\Persistence.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\Persistence.dll.config
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\MySql.Data.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\Google.Protobuf.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\Google.Protobuf.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Memory.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Security.Permissions.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Text.Json.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Buffers.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Security.AccessControl.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\obj\Debug\Graphic.FrmAddClient.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\obj\Debug\Graphic.FrmAddEmployee.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\obj\Debug\Graphic.FrmErrorMSG.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\obj\Debug\Graphic.FrmDashboard.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\obj\Debug\Graphic.FrmLogin.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\obj\Debug\Graphic.FrmProducts.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\obj\Debug\Graphic.FrmTicket.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\obj\Debug\Graphic.FrmMakeSale.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\obj\Debug\Graphic.FrmShopping.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\obj\Debug\Graphic.FrmStartScreen.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\obj\Debug\Graphic.exe.manifest
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\obj\Debug\Graphic.application
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\obj\Debug\Graphic.exe
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\obj\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5 logica\Graphic\obj\Debug\Graphic.FrmResources.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\Graphic.exe.manifest
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\Graphic.application
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\Graphic.exe
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\Entities.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\Logic.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\Persistence.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\MySql.Data.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\netstandard.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\Google.Protobuf.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\ZstdSharp.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Memory.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Security.Permissions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Text.Json.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Buffers.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Security.AccessControl.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\Entities.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\Logic.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\Logic.dll.config
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\Persistence.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\Persistence.dll.config
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\MySql.Data.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\Google.Protobuf.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\Google.Protobuf.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Memory.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Security.Permissions.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Text.Json.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Buffers.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Security.AccessControl.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\obj\Debug\Graphic.FrmAddClient.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\obj\Debug\Graphic.FrmAddEmployee.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\obj\Debug\Graphic.FrmErrorMSG.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\obj\Debug\Graphic.FrmDashboard.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\obj\Debug\Graphic.FrmLogin.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\obj\Debug\Graphic.FrmProducts.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\obj\Debug\Graphic.FrmTicket.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\obj\Debug\Graphic.FrmMakeSale.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\obj\Debug\Graphic.FrmShopping.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\obj\Debug\Graphic.FrmStartScreen.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\obj\Debug\Graphic.FrmResources.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\obj\Debug\Graphic.exe.manifest
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\obj\Debug\Graphic.application
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\obj\Debug\Graphic.exe
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.4 Logica y Diseño\Graphic\obj\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\Graphic.exe.manifest
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\Graphic.application
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\Graphic.exe
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\Entities.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\Logic.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\Persistence.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\MySql.Data.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\netstandard.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\Google.Protobuf.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\ZstdSharp.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Memory.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Security.Permissions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Text.Json.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Buffers.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Security.AccessControl.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\Entities.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\Logic.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\Logic.dll.config
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\Persistence.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\Persistence.dll.config
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\MySql.Data.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\Google.Protobuf.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\Google.Protobuf.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Memory.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Security.Permissions.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Text.Json.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Buffers.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Security.AccessControl.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\obj\Debug\Graphic.FrmAddClient.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\obj\Debug\Graphic.FrmErrorMSG.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\obj\Debug\Graphic.FrmDashboard.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\obj\Debug\Graphic.FrmLogin.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\obj\Debug\Graphic.FrmProducts.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\obj\Debug\Graphic.FrmTicket.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\obj\Debug\Graphic.FrmMakeSale.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\obj\Debug\Graphic.FrmShopping.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\obj\Debug\Graphic.FrmStartScreen.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\obj\Debug\Graphic.FrmResources.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\obj\Debug\Graphic.exe.manifest
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\obj\Debug\Graphic.application
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\obj\Debug\Graphic.exe
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\obj\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.5\Graphic\obj\Debug\Graphic.FrmABMResources.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\Graphic.exe.config
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\Graphic.exe.manifest
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\Graphic.application
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\Graphic.exe
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\Graphic.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\Entities.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\Guna.UI2.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\Logic.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\Persistence.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\MySql.Data.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\netstandard.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\Google.Protobuf.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\ZstdSharp.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Memory.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Security.Permissions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Security.Principal.Windows.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Text.Json.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Buffers.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\K4os.Compression.LZ4.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\K4os.Hash.xxHash.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Security.AccessControl.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Text.Encodings.Web.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\Entities.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\Logic.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\Logic.dll.config
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\Persistence.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\Persistence.dll.config
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\MySql.Data.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\Google.Protobuf.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\Google.Protobuf.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Memory.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Security.Permissions.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Security.Principal.Windows.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Text.Json.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Buffers.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\K4os.Compression.LZ4.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\K4os.Hash.xxHash.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Security.AccessControl.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\System.Text.Encodings.Web.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\obj\Debug\Graphic.FrmABMResources.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\obj\Debug\Graphic.FrmErrorMSG.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\obj\Debug\Graphic.Config.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\obj\Debug\Graphic.FrmDashboard.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\obj\Debug\Graphic.FrmLogin.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\obj\Debug\Graphic.MainApplication.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\obj\Debug\Graphic.FrmProducts.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\obj\Debug\Graphic.FrmTicket.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\obj\Debug\Graphic.FrmMakeSale.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\obj\Debug\Graphic.FrmShopping.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\obj\Debug\Graphic.FrmStartScreen.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\obj\Debug\Graphic.FrmResources.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\obj\Debug\Graphic.exe.manifest
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\obj\Debug\Graphic.application
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\obj\Debug\Graphic.exe
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Graphic\obj\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\Graphic.exe.config
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\Graphic.exe.manifest
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\Graphic.application
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\Graphic.exe
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\Graphic.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\Entities.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\Guna.UI2.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\Logic.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\Persistence.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\MySql.Data.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\netstandard.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\Google.Protobuf.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\ZstdSharp.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Memory.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Security.Permissions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Text.Json.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Buffers.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Security.AccessControl.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\Entities.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\Logic.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\Logic.dll.config
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\Persistence.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\Persistence.dll.config
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\MySql.Data.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\Google.Protobuf.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\Google.Protobuf.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Memory.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Security.Permissions.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Text.Json.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Buffers.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Security.AccessControl.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\obj\Debug\Graphic.FrmABMResources.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\obj\Debug\Graphic.FrmErrorMSG.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\obj\Debug\Graphic.Config.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\obj\Debug\Graphic.FrmDashboard.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\obj\Debug\Graphic.FrmLogin.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\obj\Debug\Graphic.MainApplication.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\obj\Debug\Graphic.FrmProducts.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\obj\Debug\Graphic.FrmTicket.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\obj\Debug\Graphic.FrmMakeSale.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\obj\Debug\Graphic.FrmShopping.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\obj\Debug\Graphic.FrmStartScreen.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\obj\Debug\Graphic.FrmResources.resources
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\obj\Debug\Graphic.exe.manifest
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\obj\Debug\Graphic.application
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\obj\Debug\Graphic.exe
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Graphic\obj\Debug\Graphic.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\Graphic.exe.config
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\Graphic.exe.manifest
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\Graphic.application
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\Graphic.exe
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\Graphic.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\Entities.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\Guna.UI2.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\Logic.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\Persistence.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\MySql.Data.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\netstandard.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\Google.Protobuf.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\ZstdSharp.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Memory.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Security.Permissions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Security.Principal.Windows.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Text.Json.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Buffers.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\K4os.Compression.LZ4.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\K4os.Hash.xxHash.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Security.AccessControl.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Text.Encodings.Web.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\Entities.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\Logic.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\Logic.dll.config
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\Persistence.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\Persistence.dll.config
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\MySql.Data.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\Google.Protobuf.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\Google.Protobuf.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Memory.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Security.Permissions.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Security.Principal.Windows.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Text.Json.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Buffers.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\K4os.Compression.LZ4.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\K4os.Hash.xxHash.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Security.AccessControl.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\System.Text.Encodings.Web.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\obj\Debug\Graphic.csprojAssemblyReference.cache
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\obj\Debug\Graphic.FrmABMResources.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\obj\Debug\Graphic.FrmErrorMSG.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\obj\Debug\Graphic.Config.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\obj\Debug\Graphic.FrmDashboard.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\obj\Debug\Graphic.FrmLogin.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\obj\Debug\Graphic.MainApplication.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\obj\Debug\Graphic.FrmProducts.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\obj\Debug\Graphic.FrmTicket.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\obj\Debug\Graphic.FrmMakeSale.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\obj\Debug\Graphic.Properties.Resources.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\obj\Debug\Graphic.FrmShopping.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\obj\Debug\Graphic.FrmStartScreen.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\obj\Debug\Graphic.FrmResources.resources
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\obj\Debug\Graphic.csproj.GenerateResource.cache
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\obj\Debug\Graphic.csproj.CoreCompileInputs.cache
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\obj\Debug\Graphic.exe.manifest
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\obj\Debug\Graphic.application
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\obj\Debug\Graphic.csproj.CopyComplete
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\obj\Debug\Graphic.exe
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\obj\Debug\Graphic.pdb
