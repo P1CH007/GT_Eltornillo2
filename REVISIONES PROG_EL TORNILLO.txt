@@ -1,0 +1,5 @@
+REVISIONES PROG_EL TORNILLO
+
+24/06 _ Creación de paquetes - Entities, Persistence, Logic.
+25-06_Conexión a la BD, ingreso al programa verificando Usuario, contraseña y tipo de usuario.
+26-06_Impacto en la BD, Altas de empleados y Alta de Clientes.

@@ -1,0 +1,1416 @@
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Persistence.dll.config
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Persistence.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Persistence.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\netstandard.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.AppContext.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Collections.Concurrent.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Collections.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Collections.NonGeneric.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Collections.Specialized.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.ComponentModel.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Console.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Data.Common.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Diagnostics.Debug.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Diagnostics.Process.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Diagnostics.Tools.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Drawing.Primitives.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Dynamic.Runtime.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Globalization.Calendars.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Globalization.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Globalization.Extensions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.Compression.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.FileSystem.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.Pipes.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Linq.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Linq.Expressions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Linq.Parallel.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Linq.Queryable.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Net.Http.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Net.NameResolution.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Net.NetworkInformation.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Net.Ping.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Net.Primitives.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Net.Requests.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Net.Security.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Net.Sockets.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Net.WebSockets.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.ObjectModel.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Reflection.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Reflection.Extensions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Reflection.Primitives.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Resources.Reader.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Resources.ResourceManager.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Resources.Writer.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.Extensions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.Handles.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.InteropServices.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.Numerics.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Claims.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Principal.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.SecureString.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Text.Encoding.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Text.RegularExpressions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Threading.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Threading.Overlapped.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Threading.Tasks.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Threading.Thread.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Threading.ThreadPool.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Threading.Timer.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.ValueTuple.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Xml.XDocument.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Xml.XmlDocument.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Xml.XPath.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Entities.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Google.Protobuf.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\K4os.Compression.LZ4.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\K4os.Hash.xxHash.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\MySql.Data.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\MySqlConnector.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Buffers.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.Pipelines.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Memory.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.Loader.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.AccessControl.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Permissions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Principal.Windows.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Text.Encodings.Web.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Text.Json.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\ZstdSharp.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Entities.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Google.Protobuf.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Google.Protobuf.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\K4os.Compression.LZ4.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\K4os.Hash.xxHash.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\MySql.Data.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\MySqlConnector.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Buffers.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.Pipelines.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Memory.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.AccessControl.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Permissions.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Principal.Windows.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Text.Encodings.Web.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Text.Json.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\obj\Debug\Persistence.csprojAssemblyReference.cache
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\obj\Debug\Persistence.csproj.CoreCompileInputs.cache
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\obj\Debug\Persistence.csproj.CopyComplete
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\obj\Debug\Persistence.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\obj\Debug\Persistence.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Persistence.dll.config
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Persistence.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Persistence.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\netstandard.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.AppContext.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Collections.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Collections.Specialized.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.ComponentModel.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Console.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Data.Common.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Globalization.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.Compression.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.FileSystem.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.Pipes.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Linq.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Linq.Expressions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Linq.Parallel.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Linq.Queryable.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Net.Http.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Net.NameResolution.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Net.Ping.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Net.Primitives.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Net.Requests.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Net.Security.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Net.Sockets.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Net.WebSockets.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.ObjectModel.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Reflection.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Resources.Reader.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Resources.Writer.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.Handles.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Claims.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Principal.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.SecureString.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Text.Encoding.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Threading.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Threading.Tasks.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Threading.Thread.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Threading.Timer.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.ValueTuple.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Xml.XDocument.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Xml.XPath.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Entities.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Google.Protobuf.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\MySql.Data.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\MySqlConnector.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Buffers.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.Pipelines.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Memory.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.Loader.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.AccessControl.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Permissions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Text.Json.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\ZstdSharp.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Entities.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Google.Protobuf.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Google.Protobuf.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\MySql.Data.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\MySqlConnector.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Buffers.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.IO.Pipelines.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Memory.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.AccessControl.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Permissions.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Text.Json.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\obj\Debug\Persistence.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\obj\Debug\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\obj\Debug\Persistence.csproj.CopyComplete
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\obj\Debug\Persistence.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - 1erEntrega\Persistence\obj\Debug\Persistence.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\Persistence.dll.config
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\Persistence.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\Persistence.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\netstandard.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.AppContext.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Collections.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Collections.Specialized.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.ComponentModel.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Console.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Data.Common.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Globalization.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.IO.Compression.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.IO.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.IO.FileSystem.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.IO.Pipes.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Linq.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Linq.Expressions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Linq.Parallel.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Linq.Queryable.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Net.Http.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Net.NameResolution.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Net.Ping.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Net.Primitives.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Net.Requests.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Net.Security.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Net.Sockets.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Net.WebSockets.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.ObjectModel.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Reflection.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Resources.Reader.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Resources.Writer.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Runtime.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Runtime.Handles.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Security.Claims.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Security.Principal.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Security.SecureString.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Text.Encoding.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Threading.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Threading.Tasks.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Threading.Thread.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Threading.Timer.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.ValueTuple.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Xml.XDocument.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Xml.XPath.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\Entities.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\Google.Protobuf.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\MySql.Data.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\MySqlConnector.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Buffers.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.IO.Pipelines.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Memory.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Runtime.Loader.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Security.AccessControl.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Security.Permissions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Text.Json.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\ZstdSharp.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\Entities.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\Google.Protobuf.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\Google.Protobuf.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\MySql.Data.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\MySqlConnector.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Buffers.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.IO.Pipelines.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Memory.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Security.AccessControl.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Security.Permissions.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Text.Json.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\obj\Debug\Persistence.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\obj\Debug\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\obj\Debug\Persistence.csproj.CopyComplete
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\obj\Debug\Persistence.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - 1erEntrega_v2\GT_ElTornillo v2.9.49 - v3\Persistence\obj\Debug\Persistence.pdb
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\Persistence.dll.config
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\Persistence.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\Persistence.pdb
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\netstandard.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.AppContext.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Collections.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.ComponentModel.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Console.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Data.Common.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Globalization.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.IO.Compression.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.IO.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.IO.Pipes.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Linq.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Net.Http.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Net.Ping.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Net.Primitives.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Net.Requests.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Net.Security.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Net.Sockets.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.ObjectModel.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Reflection.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Resources.Reader.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Resources.Writer.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Runtime.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Security.Claims.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Security.Principal.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Security.SecureString.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Text.Encoding.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Threading.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Threading.Thread.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Threading.Timer.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.ValueTuple.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Xml.XPath.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\Entities.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\Google.Protobuf.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\MySql.Data.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\MySqlConnector.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Buffers.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Drawing.Common.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Memory.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Runtime.Loader.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Security.Permissions.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Text.Json.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\ZstdSharp.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\Entities.pdb
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\Google.Protobuf.pdb
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\Google.Protobuf.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\MySql.Data.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\MySqlConnector.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Buffers.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Drawing.Common.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Memory.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Security.Permissions.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Text.Json.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\obj\Debug\Persistence.csprojAssemblyReference.cache
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\obj\Debug\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\obj\Debug\Persistence.csproj.CopyComplete
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\obj\Debug\Persistence.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v4\Persistence\obj\Debug\Persistence.pdb
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\obj\Debug\Persistence.csprojAssemblyReference.cache
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\obj\Debug\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\obj\Debug\Persistence.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\obj\Debug\Persistence.pdb
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\Persistence.dll.config
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\Persistence.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\Persistence.pdb
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\netstandard.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.AppContext.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Collections.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.ComponentModel.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Console.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Data.Common.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Globalization.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.IO.Compression.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.IO.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.IO.Pipes.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Linq.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Net.Http.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Net.Ping.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Net.Primitives.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Net.Requests.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Net.Security.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Net.Sockets.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.ObjectModel.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Reflection.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Resources.Reader.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Resources.Writer.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Runtime.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Security.Claims.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Security.Principal.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Security.SecureString.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Text.Encoding.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Threading.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Threading.Thread.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Threading.Timer.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.ValueTuple.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Xml.XPath.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\Entities.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\Google.Protobuf.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\MySql.Data.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\MySqlConnector.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Buffers.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Memory.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Runtime.Loader.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Security.Permissions.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Text.Json.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\ZstdSharp.dll
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\Entities.pdb
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\Google.Protobuf.pdb
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\Google.Protobuf.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\MySql.Data.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\MySqlConnector.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Buffers.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Memory.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Security.Permissions.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Text.Json.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mauricio\Desktop\GT_ElTornillo v2.9.49 - v5\GT_ElTornillo v2.9.49 - v4\GT_ElTornillo v2.9.49 - v5\Persistence\obj\Debug\Persistence.csproj.CopyComplete
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\Persistence.dll.config
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\Persistence.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\Persistence.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\netstandard.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.AppContext.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Collections.Concurrent.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Collections.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Collections.NonGeneric.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Collections.Specialized.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.ComponentModel.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Console.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Data.Common.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Diagnostics.Debug.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Diagnostics.Process.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Diagnostics.Tools.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Drawing.Primitives.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Dynamic.Runtime.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Globalization.Calendars.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Globalization.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Globalization.Extensions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.IO.Compression.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.IO.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.IO.FileSystem.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.IO.Pipes.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Linq.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Linq.Expressions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Linq.Parallel.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Linq.Queryable.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Net.Http.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Net.NameResolution.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Net.NetworkInformation.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Net.Ping.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Net.Primitives.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Net.Requests.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Net.Security.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Net.Sockets.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Net.WebSockets.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.ObjectModel.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Reflection.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Reflection.Extensions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Reflection.Primitives.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Resources.Reader.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Resources.ResourceManager.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Resources.Writer.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Runtime.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Runtime.Extensions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Runtime.Handles.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Runtime.InteropServices.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Runtime.Numerics.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Security.Claims.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Security.Principal.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Security.SecureString.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Text.Encoding.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Text.RegularExpressions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Threading.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Threading.Overlapped.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Threading.Tasks.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Threading.Thread.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Threading.ThreadPool.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Threading.Timer.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.ValueTuple.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Xml.XDocument.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Xml.XmlDocument.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Xml.XPath.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\Entities.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\Google.Protobuf.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\K4os.Compression.LZ4.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\K4os.Hash.xxHash.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\MySql.Data.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\MySqlConnector.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Buffers.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.IO.Pipelines.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Memory.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Runtime.Loader.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Security.AccessControl.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Security.Permissions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Security.Principal.Windows.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Text.Encodings.Web.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Text.Json.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\ZstdSharp.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\Entities.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\Google.Protobuf.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\Google.Protobuf.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\K4os.Compression.LZ4.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\K4os.Hash.xxHash.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\MySql.Data.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\MySqlConnector.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Buffers.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.IO.Pipelines.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Memory.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Security.AccessControl.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Security.Permissions.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Security.Principal.Windows.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Text.Encodings.Web.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Text.Json.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\obj\Debug\Persistence.csprojAssemblyReference.cache
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\obj\Debug\Persistence.csproj.CoreCompileInputs.cache
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\obj\Debug\Persistence.csproj.CopyComplete
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\obj\Debug\Persistence.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.6\GT_ElTornillo v2.9.49 - v5.6\Persistence\obj\Debug\Persistence.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\Persistence.dll.config
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\Persistence.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\Persistence.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\netstandard.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.AppContext.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Collections.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Collections.Specialized.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.ComponentModel.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Console.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Data.Common.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Globalization.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.IO.Compression.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.IO.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.IO.FileSystem.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.IO.Pipes.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Linq.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Linq.Expressions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Linq.Parallel.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Linq.Queryable.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Net.Http.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Net.NameResolution.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Net.Ping.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Net.Primitives.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Net.Requests.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Net.Security.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Net.Sockets.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Net.WebSockets.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.ObjectModel.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Reflection.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Resources.Reader.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Resources.Writer.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Runtime.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Runtime.Handles.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Security.Claims.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Security.Principal.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Security.SecureString.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Text.Encoding.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Threading.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Threading.Tasks.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Threading.Thread.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Threading.Timer.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.ValueTuple.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Xml.XDocument.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Xml.XPath.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\Entities.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\Google.Protobuf.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\MySql.Data.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\MySqlConnector.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Buffers.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.IO.Pipelines.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Memory.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Runtime.Loader.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Security.AccessControl.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Security.Permissions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Text.Json.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\ZstdSharp.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\Entities.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\Google.Protobuf.pdb
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\Google.Protobuf.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\MySql.Data.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\MySqlConnector.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Buffers.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.IO.Pipelines.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Memory.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Security.AccessControl.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Security.Permissions.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Text.Json.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\obj\Debug\Persistence.csprojAssemblyReference.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\obj\Debug\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\obj\Debug\Persistence.csproj.CopyComplete
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\obj\Debug\Persistence.dll
+C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.9\Persistence\obj\Debug\Persistence.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\Persistence.dll.config
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\Persistence.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\Persistence.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\netstandard.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.AppContext.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Collections.Concurrent.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Collections.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Collections.NonGeneric.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Collections.Specialized.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.ComponentModel.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Console.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Data.Common.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Diagnostics.Debug.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Diagnostics.Process.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Diagnostics.Tools.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Drawing.Primitives.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Dynamic.Runtime.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Globalization.Calendars.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Globalization.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Globalization.Extensions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.IO.Compression.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.IO.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.IO.FileSystem.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.IO.Pipes.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Linq.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Linq.Expressions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Linq.Parallel.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Linq.Queryable.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Net.Http.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Net.NameResolution.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Net.NetworkInformation.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Net.Ping.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Net.Primitives.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Net.Requests.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Net.Security.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Net.Sockets.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Net.WebSockets.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.ObjectModel.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Reflection.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Reflection.Extensions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Reflection.Primitives.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Resources.Reader.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Resources.ResourceManager.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Resources.Writer.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Runtime.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Runtime.Extensions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Runtime.Handles.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Runtime.InteropServices.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Runtime.Numerics.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Security.Claims.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Security.Principal.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Security.SecureString.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Text.Encoding.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Text.RegularExpressions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Threading.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Threading.Overlapped.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Threading.Tasks.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Threading.Thread.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Threading.ThreadPool.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Threading.Timer.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.ValueTuple.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Xml.XDocument.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Xml.XmlDocument.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Xml.XPath.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\Entities.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\Google.Protobuf.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\K4os.Compression.LZ4.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\K4os.Hash.xxHash.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\MySql.Data.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\MySqlConnector.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Buffers.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.IO.Pipelines.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Memory.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Runtime.Loader.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Security.AccessControl.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Security.Permissions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Security.Principal.Windows.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Text.Encodings.Web.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Text.Json.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\ZstdSharp.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\Entities.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\Google.Protobuf.pdb
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\Google.Protobuf.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\K4os.Compression.LZ4.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\K4os.Hash.xxHash.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\MySql.Data.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\MySqlConnector.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Buffers.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.IO.Pipelines.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Memory.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Security.AccessControl.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Security.Permissions.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Security.Principal.Windows.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Text.Encodings.Web.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Text.Json.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\obj\Debug\Persistence.csprojAssemblyReference.cache
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\obj\Debug\Persistence.csproj.CoreCompileInputs.cache
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\obj\Debug\Persistence.csproj.CopyComplete
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\obj\Debug\Persistence.dll
+D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Persistence\obj\Debug\Persistence.pdb
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\Persistence.dll.config
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\Persistence.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\Persistence.pdb
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\netstandard.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.AppContext.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Collections.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.ComponentModel.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Console.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Data.Common.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Globalization.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.IO.Compression.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.IO.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.IO.Pipes.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Linq.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Net.Http.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Net.Ping.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Net.Primitives.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Net.Requests.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Net.Security.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Net.Sockets.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.ObjectModel.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Reflection.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Resources.Reader.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Resources.Writer.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Runtime.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Security.Claims.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Security.Principal.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Security.SecureString.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Text.Encoding.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Threading.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Threading.Thread.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Threading.Timer.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.ValueTuple.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Xml.XPath.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\Entities.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\Google.Protobuf.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\MySql.Data.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\MySqlConnector.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Buffers.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Memory.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Runtime.Loader.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Security.Permissions.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Text.Json.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\ZstdSharp.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\Entities.pdb
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\Google.Protobuf.pdb
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\Google.Protobuf.xml
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\MySql.Data.xml
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\MySqlConnector.xml
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Buffers.xml
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Memory.xml
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Security.Permissions.xml
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Text.Json.xml
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\obj\Debug\Persistence.csprojAssemblyReference.cache
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\obj\Debug\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\obj\Debug\Persistence.csproj.CopyComplete
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\obj\Debug\Persistence.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Persistence\obj\Debug\Persistence.pdb
