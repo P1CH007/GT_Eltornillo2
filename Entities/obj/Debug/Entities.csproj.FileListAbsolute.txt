@@ -140,3 +140,9 @@ C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Entities\obj
 C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
 C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Entities\obj\Debug\Entities.dll
 C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Entities\obj\Debug\Entities.pdb
+C:\Users\Mauricio\Desktop\ProyectosGit\GT_ElTornillo\Entities\bin\Debug\Entities.dll
+C:\Users\Mauricio\Desktop\ProyectosGit\GT_ElTornillo\Entities\bin\Debug\Entities.pdb
+C:\Users\Mauricio\Desktop\ProyectosGit\GT_ElTornillo\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\Mauricio\Desktop\ProyectosGit\GT_ElTornillo\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\ProyectosGit\GT_ElTornillo\Entities\obj\Debug\Entities.dll
+C:\Users\Mauricio\Desktop\ProyectosGit\GT_ElTornillo\Entities\obj\Debug\Entities.pdb
