@@ -30,18 +30,15 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainApplication));
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
             this.pnlBackground = new Guna.UI2.WinForms.Guna2Panel();
             this.pnlTopPanel = new Guna.UI2.WinForms.Guna2Panel();
             this.picBoxMin = new Guna.UI2.WinForms.Guna2PictureBox();
             this.picBoxClose = new Guna.UI2.WinForms.Guna2PictureBox();
             this.picBoxMax = new Guna.UI2.WinForms.Guna2PictureBox();
             this.picBoxSMin = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.guna2Panel3 = new Guna.UI2.WinForms.Guna2Panel();
-            this.picBoxCloseVerticalPanel = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.picBoxOpenVerticalPanel = new Guna.UI2.WinForms.Guna2PictureBox();
             this.pnlCenterPanel = new Guna.UI2.WinForms.Guna2Panel();
             this.pnlTitle = new Guna.UI2.WinForms.Guna2Panel();
             this.guna2PictureBox2 = new Guna.UI2.WinForms.Guna2PictureBox();
@@ -58,23 +55,21 @@
             this.btnDashboardCenter = new Guna.UI2.WinForms.Guna2Button();
             this.btnWorkersCenter = new Guna.UI2.WinForms.Guna2Button();
             this.pnlStockConteiner = new Guna.UI2.WinForms.Guna2Panel();
-            this.lblDate = new System.Windows.Forms.Label();
-            this.lblTime = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
             this.pnlTopList = new Guna.UI2.WinForms.Guna2Panel();
-            this.label10 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
-            this.pnlList = new Guna.UI2.WinForms.Guna2Panel();
             this.dataGridStock = new Guna.UI2.WinForms.Guna2DataGridView();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.label10 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.lblDate = new System.Windows.Forms.Label();
+            this.lblTime = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.pnlVerticalPanel = new Guna.UI2.WinForms.Guna2Panel();
+            this.pnlVerticalConteiner = new Guna.UI2.WinForms.Guna2Panel();
             this.btnConfigLeft = new Guna.UI2.WinForms.Guna2Button();
             this.btnConfigBottom = new Guna.UI2.WinForms.Guna2Button();
-            this.btnExitLeft = new Guna.UI2.WinForms.Guna2Button();
-            this.btnExitBottom = new Guna.UI2.WinForms.Guna2Button();
             this.pnlButtonsConteiner = new Guna.UI2.WinForms.Guna2Panel();
             this.btnWorkers = new Guna.UI2.WinForms.Guna2Button();
             this.btnShopping = new Guna.UI2.WinForms.Guna2Button();
@@ -82,9 +77,13 @@
             this.btnCalendar = new Guna.UI2.WinForms.Guna2Button();
             this.btnProducts = new Guna.UI2.WinForms.Guna2Button();
             this.btnSales = new Guna.UI2.WinForms.Guna2Button();
+            this.btnExitLeft = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Panel2 = new Guna.UI2.WinForms.Guna2Panel();
             this.picBNameLogo = new System.Windows.Forms.PictureBox();
             this.picBlogo = new Guna.UI2.WinForms.Guna2CirclePictureBox();
+            this.guna2Panel3 = new Guna.UI2.WinForms.Guna2Panel();
+            this.picBChangeSizeVerticalPanel = new Guna.UI2.WinForms.Guna2PictureBox();
+            this.btnExitBottom = new Guna.UI2.WinForms.Guna2Button();
             this.dataTimer = new System.Windows.Forms.Timer(this.components);
             this.pnlBackground.SuspendLayout();
             this.pnlTopPanel.SuspendLayout();
@@ -92,26 +91,26 @@
             ((System.ComponentModel.ISupportInitialize)(this.picBoxClose)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBoxMax)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBoxSMin)).BeginInit();
-            this.guna2Panel3.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.picBoxCloseVerticalPanel)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picBoxOpenVerticalPanel)).BeginInit();
             this.pnlCenterPanel.SuspendLayout();
             this.pnlTitle.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox2)).BeginInit();
             this.pnlPanelConteiner.SuspendLayout();
             this.pnlStockConteiner.SuspendLayout();
             this.pnlTopList.SuspendLayout();
-            this.pnlList.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridStock)).BeginInit();
             this.pnlVerticalPanel.SuspendLayout();
+            this.pnlVerticalConteiner.SuspendLayout();
             this.pnlButtonsConteiner.SuspendLayout();
             this.guna2Panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picBNameLogo)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBlogo)).BeginInit();
+            this.guna2Panel3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.picBChangeSizeVerticalPanel)).BeginInit();
             this.SuspendLayout();
             // 
             // pnlBackground
             // 
+            this.pnlBackground.BackColor = System.Drawing.Color.Transparent;
             this.pnlBackground.Controls.Add(this.pnlTopPanel);
             this.pnlBackground.Controls.Add(this.pnlCenterPanel);
             this.pnlBackground.Controls.Add(this.pnlVerticalPanel);
@@ -127,21 +126,18 @@
             // 
             this.pnlTopPanel.BackColor = System.Drawing.Color.Transparent;
             this.pnlTopPanel.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.pnlTopPanel.BorderRadius = 10;
+            this.pnlTopPanel.BorderRadius = 25;
             this.pnlTopPanel.Controls.Add(this.picBoxMin);
             this.pnlTopPanel.Controls.Add(this.picBoxClose);
-            this.pnlTopPanel.Controls.Add(this.guna2Panel3);
             this.pnlTopPanel.Controls.Add(this.picBoxMax);
             this.pnlTopPanel.Controls.Add(this.picBoxSMin);
-            this.pnlTopPanel.CustomizableEdges.BottomLeft = false;
-            this.pnlTopPanel.CustomizableEdges.BottomRight = false;
             this.pnlTopPanel.CustomizableEdges.TopLeft = false;
             this.pnlTopPanel.CustomizableEdges.TopRight = false;
             this.pnlTopPanel.Dock = System.Windows.Forms.DockStyle.Top;
             this.pnlTopPanel.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.pnlTopPanel.Location = new System.Drawing.Point(240, 0);
+            this.pnlTopPanel.Location = new System.Drawing.Point(252, 0);
             this.pnlTopPanel.Name = "pnlTopPanel";
-            this.pnlTopPanel.Size = new System.Drawing.Size(1028, 27);
+            this.pnlTopPanel.Size = new System.Drawing.Size(1016, 27);
             this.pnlTopPanel.TabIndex = 18;
             this.pnlTopPanel.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pnlTopPanel_MouseDown);
             // 
@@ -150,7 +146,7 @@
             this.picBoxMin.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.picBoxMin.Image = ((System.Drawing.Image)(resources.GetObject("picBoxMin.Image")));
             this.picBoxMin.ImageRotate = 0F;
-            this.picBoxMin.Location = new System.Drawing.Point(933, 2);
+            this.picBoxMin.Location = new System.Drawing.Point(907, 2);
             this.picBoxMin.Name = "picBoxMin";
             this.picBoxMin.Size = new System.Drawing.Size(25, 23);
             this.picBoxMin.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -163,7 +159,7 @@
             this.picBoxClose.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.picBoxClose.Image = ((System.Drawing.Image)(resources.GetObject("picBoxClose.Image")));
             this.picBoxClose.ImageRotate = 0F;
-            this.picBoxClose.Location = new System.Drawing.Point(1000, 3);
+            this.picBoxClose.Location = new System.Drawing.Point(974, 3);
             this.picBoxClose.Name = "picBoxClose";
             this.picBoxClose.Size = new System.Drawing.Size(25, 20);
             this.picBoxClose.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -176,7 +172,7 @@
             this.picBoxMax.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.picBoxMax.Image = ((System.Drawing.Image)(resources.GetObject("picBoxMax.Image")));
             this.picBoxMax.ImageRotate = 0F;
-            this.picBoxMax.Location = new System.Drawing.Point(964, 1);
+            this.picBoxMax.Location = new System.Drawing.Point(938, 2);
             this.picBoxMax.Name = "picBoxMax";
             this.picBoxMax.Size = new System.Drawing.Size(30, 22);
             this.picBoxMax.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -190,55 +186,13 @@
             this.picBoxSMin.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.picBoxSMin.Image = ((System.Drawing.Image)(resources.GetObject("picBoxSMin.Image")));
             this.picBoxSMin.ImageRotate = 0F;
-            this.picBoxSMin.Location = new System.Drawing.Point(964, 0);
+            this.picBoxSMin.Location = new System.Drawing.Point(938, 1);
             this.picBoxSMin.Name = "picBoxSMin";
             this.picBoxSMin.Size = new System.Drawing.Size(30, 23);
             this.picBoxSMin.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picBoxSMin.TabIndex = 5;
             this.picBoxSMin.TabStop = false;
             this.picBoxSMin.Click += new System.EventHandler(this.picBoxSMin_Click);
-            // 
-            // guna2Panel3
-            // 
-            this.guna2Panel3.BorderRadius = 10;
-            this.guna2Panel3.Controls.Add(this.picBoxCloseVerticalPanel);
-            this.guna2Panel3.Controls.Add(this.picBoxOpenVerticalPanel);
-            this.guna2Panel3.CustomizableEdges.BottomLeft = false;
-            this.guna2Panel3.CustomizableEdges.TopLeft = false;
-            this.guna2Panel3.FillColor = System.Drawing.Color.White;
-            this.guna2Panel3.Location = new System.Drawing.Point(0, 0);
-            this.guna2Panel3.Name = "guna2Panel3";
-            this.guna2Panel3.Size = new System.Drawing.Size(25, 22);
-            this.guna2Panel3.TabIndex = 8;
-            // 
-            // picBoxCloseVerticalPanel
-            // 
-            this.picBoxCloseVerticalPanel.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.picBoxCloseVerticalPanel.Image = ((System.Drawing.Image)(resources.GetObject("picBoxCloseVerticalPanel.Image")));
-            this.picBoxCloseVerticalPanel.ImageRotate = 0F;
-            this.picBoxCloseVerticalPanel.Location = new System.Drawing.Point(-2, 0);
-            this.picBoxCloseVerticalPanel.Name = "picBoxCloseVerticalPanel";
-            this.picBoxCloseVerticalPanel.Size = new System.Drawing.Size(22, 22);
-            this.picBoxCloseVerticalPanel.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.picBoxCloseVerticalPanel.TabIndex = 3;
-            this.picBoxCloseVerticalPanel.TabStop = false;
-            this.picBoxCloseVerticalPanel.Click += new System.EventHandler(this.picBoxCloseVeticalPanel);
-            // 
-            // picBoxOpenVerticalPanel
-            // 
-            this.picBoxOpenVerticalPanel.BackColor = System.Drawing.Color.Transparent;
-            this.picBoxOpenVerticalPanel.BorderRadius = 10;
-            this.picBoxOpenVerticalPanel.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.picBoxOpenVerticalPanel.Image = ((System.Drawing.Image)(resources.GetObject("picBoxOpenVerticalPanel.Image")));
-            this.picBoxOpenVerticalPanel.ImageRotate = 0F;
-            this.picBoxOpenVerticalPanel.Location = new System.Drawing.Point(1, 0);
-            this.picBoxOpenVerticalPanel.Name = "picBoxOpenVerticalPanel";
-            this.picBoxOpenVerticalPanel.Size = new System.Drawing.Size(22, 22);
-            this.picBoxOpenVerticalPanel.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.picBoxOpenVerticalPanel.TabIndex = 7;
-            this.picBoxOpenVerticalPanel.TabStop = false;
-            this.picBoxOpenVerticalPanel.Visible = false;
-            this.picBoxOpenVerticalPanel.Click += new System.EventHandler(this.picBoxOpenVerticalPanel_Click);
             // 
             // pnlCenterPanel
             // 
@@ -253,21 +207,22 @@
             this.pnlCenterPanel.Controls.Add(this.pnlStockConteiner);
             this.pnlCenterPanel.CustomizableEdges.BottomLeft = false;
             this.pnlCenterPanel.CustomizableEdges.TopRight = false;
-            this.pnlCenterPanel.FillColor = System.Drawing.Color.Gray;
-            this.pnlCenterPanel.Location = new System.Drawing.Point(240, 27);
+            this.pnlCenterPanel.FillColor = System.Drawing.Color.Transparent;
+            this.pnlCenterPanel.Location = new System.Drawing.Point(253, 27);
             this.pnlCenterPanel.Name = "pnlCenterPanel";
-            this.pnlCenterPanel.Size = new System.Drawing.Size(1028, 634);
+            this.pnlCenterPanel.Size = new System.Drawing.Size(1015, 634);
             this.pnlCenterPanel.TabIndex = 19;
             // 
             // pnlTitle
             // 
             this.pnlTitle.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.pnlTitle.BorderRadius = 20;
+            this.pnlTitle.AutoRoundedCorners = true;
+            this.pnlTitle.BorderRadius = 39;
             this.pnlTitle.Controls.Add(this.guna2PictureBox2);
             this.pnlTitle.FillColor = System.Drawing.Color.White;
-            this.pnlTitle.Location = new System.Drawing.Point(238, 2);
+            this.pnlTitle.Location = new System.Drawing.Point(288, 14);
             this.pnlTitle.Name = "pnlTitle";
-            this.pnlTitle.Size = new System.Drawing.Size(539, 80);
+            this.pnlTitle.Size = new System.Drawing.Size(438, 80);
             this.pnlTitle.TabIndex = 6;
             // 
             // guna2PictureBox2
@@ -275,9 +230,9 @@
             this.guna2PictureBox2.FillColor = System.Drawing.Color.Transparent;
             this.guna2PictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("guna2PictureBox2.Image")));
             this.guna2PictureBox2.ImageRotate = 0F;
-            this.guna2PictureBox2.Location = new System.Drawing.Point(17, 3);
+            this.guna2PictureBox2.Location = new System.Drawing.Point(34, 0);
             this.guna2PictureBox2.Name = "guna2PictureBox2";
-            this.guna2PictureBox2.Size = new System.Drawing.Size(500, 73);
+            this.guna2PictureBox2.Size = new System.Drawing.Size(372, 80);
             this.guna2PictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.guna2PictureBox2.TabIndex = 1;
             this.guna2PictureBox2.TabStop = false;
@@ -285,7 +240,7 @@
             // pnlPanelConteiner
             // 
             this.pnlPanelConteiner.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.pnlPanelConteiner.BorderRadius = 20;
+            this.pnlPanelConteiner.BorderRadius = 40;
             this.pnlPanelConteiner.Controls.Add(this.guna2VSeparator5);
             this.pnlPanelConteiner.Controls.Add(this.guna2VSeparator4);
             this.pnlPanelConteiner.Controls.Add(this.guna2VSeparator3);
@@ -298,7 +253,7 @@
             this.pnlPanelConteiner.Controls.Add(this.btnDashboardCenter);
             this.pnlPanelConteiner.Controls.Add(this.btnWorkersCenter);
             this.pnlPanelConteiner.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.pnlPanelConteiner.Location = new System.Drawing.Point(65, 89);
+            this.pnlPanelConteiner.Location = new System.Drawing.Point(58, 99);
             this.pnlPanelConteiner.Name = "pnlPanelConteiner";
             this.pnlPanelConteiner.Size = new System.Drawing.Size(898, 160);
             this.pnlPanelConteiner.TabIndex = 7;
@@ -485,124 +440,52 @@
             // pnlStockConteiner
             // 
             this.pnlStockConteiner.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
-            this.pnlStockConteiner.BorderRadius = 20;
+            this.pnlStockConteiner.BorderRadius = 50;
+            this.pnlStockConteiner.Controls.Add(this.pnlTopList);
             this.pnlStockConteiner.Controls.Add(this.lblDate);
             this.pnlStockConteiner.Controls.Add(this.lblTime);
             this.pnlStockConteiner.Controls.Add(this.label2);
-            this.pnlStockConteiner.Controls.Add(this.pnlTopList);
-            this.pnlStockConteiner.Controls.Add(this.pnlList);
-            this.pnlStockConteiner.CustomizableEdges.BottomLeft = false;
-            this.pnlStockConteiner.CustomizableEdges.BottomRight = false;
             this.pnlStockConteiner.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.pnlStockConteiner.Location = new System.Drawing.Point(118, 291);
+            this.pnlStockConteiner.Location = new System.Drawing.Point(111, 291);
             this.pnlStockConteiner.Name = "pnlStockConteiner";
-            this.pnlStockConteiner.Size = new System.Drawing.Size(822, 343);
+            this.pnlStockConteiner.Size = new System.Drawing.Size(822, 331);
             this.pnlStockConteiner.TabIndex = 5;
-            // 
-            // lblDate
-            // 
-            this.lblDate.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.lblDate.AutoSize = true;
-            this.lblDate.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblDate.Location = new System.Drawing.Point(434, 200);
-            this.lblDate.Name = "lblDate";
-            this.lblDate.Size = new System.Drawing.Size(0, 29);
-            this.lblDate.TabIndex = 4;
-            // 
-            // lblTime
-            // 
-            this.lblTime.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.lblTime.AutoSize = true;
-            this.lblTime.Font = new System.Drawing.Font("Microsoft Sans Serif", 72F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTime.Location = new System.Drawing.Point(402, 110);
-            this.lblTime.Name = "lblTime";
-            this.lblTime.Size = new System.Drawing.Size(0, 108);
-            this.lblTime.TabIndex = 3;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(6, 12);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(225, 24);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "Productos bajos en stock:";
             // 
             // pnlTopList
             // 
             this.pnlTopList.BorderRadius = 10;
+            this.pnlTopList.Controls.Add(this.dataGridStock);
             this.pnlTopList.Controls.Add(this.label10);
             this.pnlTopList.Controls.Add(this.label9);
             this.pnlTopList.Controls.Add(this.label8);
-            this.pnlTopList.CustomizableEdges.BottomLeft = false;
-            this.pnlTopList.CustomizableEdges.BottomRight = false;
-            this.pnlTopList.FillColor = System.Drawing.Color.Gray;
-            this.pnlTopList.Location = new System.Drawing.Point(23, 42);
+            this.pnlTopList.FillColor = System.Drawing.Color.DimGray;
+            this.pnlTopList.Location = new System.Drawing.Point(33, 39);
             this.pnlTopList.Name = "pnlTopList";
-            this.pnlTopList.Size = new System.Drawing.Size(354, 37);
+            this.pnlTopList.Size = new System.Drawing.Size(354, 283);
             this.pnlTopList.TabIndex = 0;
             this.pnlTopList.UseTransparentBackground = true;
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.ForeColor = System.Drawing.Color.White;
-            this.label10.Location = new System.Drawing.Point(314, 13);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(35, 13);
-            this.label10.TabIndex = 2;
-            this.label10.Text = "Stock";
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.ForeColor = System.Drawing.Color.White;
-            this.label9.Location = new System.Drawing.Point(130, 13);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(50, 13);
-            this.label9.TabIndex = 1;
-            this.label9.Text = "Producto";
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.ForeColor = System.Drawing.Color.White;
-            this.label8.Location = new System.Drawing.Point(13, 13);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(40, 13);
-            this.label8.TabIndex = 0;
-            this.label8.Text = "Código";
-            // 
-            // pnlList
-            // 
-            this.pnlList.Controls.Add(this.dataGridStock);
-            this.pnlList.FillColor = System.Drawing.Color.DarkGray;
-            this.pnlList.Location = new System.Drawing.Point(23, 55);
-            this.pnlList.Name = "pnlList";
-            this.pnlList.Size = new System.Drawing.Size(354, 288);
-            this.pnlList.TabIndex = 1;
+            this.pnlTopList.Paint += new System.Windows.Forms.PaintEventHandler(this.pnlTopList_Paint);
             // 
             // dataGridStock
             // 
             this.dataGridStock.AllowUserToDeleteRows = false;
             this.dataGridStock.AllowUserToResizeColumns = false;
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
-            dataGridViewCellStyle1.BackColor = System.Drawing.Color.White;
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle1.ForeColor = System.Drawing.Color.Black;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.Color.CornflowerBlue;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.Color.Black;
-            this.dataGridStock.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
-            this.dataGridStock.BackgroundColor = System.Drawing.Color.Gray;
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle2.BackColor = System.Drawing.Color.Gray;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 1.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dataGridStock.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            dataGridViewCellStyle4.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle4.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle4.ForeColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.Color.CornflowerBlue;
+            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.Color.Black;
+            this.dataGridStock.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle4;
+            this.dataGridStock.BackgroundColor = System.Drawing.Color.DarkGray;
+            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle5.BackColor = System.Drawing.Color.Gray;
+            dataGridViewCellStyle5.Font = new System.Drawing.Font("Microsoft Sans Serif", 1.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle5.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dataGridStock.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle5;
             this.dataGridStock.ColumnHeadersHeight = 9;
             this.dataGridStock.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.EnableResizing;
             this.dataGridStock.ColumnHeadersVisible = false;
@@ -610,27 +493,27 @@
             this.Column1,
             this.Column2,
             this.Column4});
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle3.BackColor = System.Drawing.Color.White;
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle3.ForeColor = System.Drawing.Color.Transparent;
-            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.Color.Black;
-            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dataGridStock.DefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle6.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle6.ForeColor = System.Drawing.Color.Transparent;
+            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dataGridStock.DefaultCellStyle = dataGridViewCellStyle6;
             this.dataGridStock.GridColor = System.Drawing.Color.White;
-            this.dataGridStock.Location = new System.Drawing.Point(0, 24);
+            this.dataGridStock.Location = new System.Drawing.Point(1, 28);
             this.dataGridStock.Name = "dataGridStock";
             this.dataGridStock.ReadOnly = true;
             this.dataGridStock.RowHeadersVisible = false;
-            this.dataGridStock.Size = new System.Drawing.Size(354, 264);
+            this.dataGridStock.Size = new System.Drawing.Size(352, 245);
             this.dataGridStock.TabIndex = 0;
             this.dataGridStock.ThemeStyle.AlternatingRowsStyle.BackColor = System.Drawing.Color.White;
             this.dataGridStock.ThemeStyle.AlternatingRowsStyle.Font = null;
             this.dataGridStock.ThemeStyle.AlternatingRowsStyle.ForeColor = System.Drawing.Color.Empty;
             this.dataGridStock.ThemeStyle.AlternatingRowsStyle.SelectionBackColor = System.Drawing.Color.Empty;
             this.dataGridStock.ThemeStyle.AlternatingRowsStyle.SelectionForeColor = System.Drawing.Color.Empty;
-            this.dataGridStock.ThemeStyle.BackColor = System.Drawing.Color.Gray;
+            this.dataGridStock.ThemeStyle.BackColor = System.Drawing.Color.DarkGray;
             this.dataGridStock.ThemeStyle.GridColor = System.Drawing.Color.White;
             this.dataGridStock.ThemeStyle.HeaderStyle.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
             this.dataGridStock.ThemeStyle.HeaderStyle.BorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
@@ -668,27 +551,102 @@
             this.Column4.Name = "Column4";
             this.Column4.ReadOnly = true;
             // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.ForeColor = System.Drawing.Color.White;
+            this.label10.Location = new System.Drawing.Point(314, 13);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(35, 13);
+            this.label10.TabIndex = 2;
+            this.label10.Text = "Stock";
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.ForeColor = System.Drawing.Color.White;
+            this.label9.Location = new System.Drawing.Point(130, 13);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(50, 13);
+            this.label9.TabIndex = 1;
+            this.label9.Text = "Producto";
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.ForeColor = System.Drawing.Color.White;
+            this.label8.Location = new System.Drawing.Point(13, 13);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(40, 13);
+            this.label8.TabIndex = 0;
+            this.label8.Text = "Código";
+            // 
+            // lblDate
+            // 
+            this.lblDate.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.lblDate.AutoSize = true;
+            this.lblDate.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblDate.Location = new System.Drawing.Point(442, 208);
+            this.lblDate.Name = "lblDate";
+            this.lblDate.Size = new System.Drawing.Size(0, 29);
+            this.lblDate.TabIndex = 4;
+            // 
+            // lblTime
+            // 
+            this.lblTime.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.lblTime.AutoSize = true;
+            this.lblTime.Font = new System.Drawing.Font("Microsoft Sans Serif", 72F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTime.Location = new System.Drawing.Point(410, 118);
+            this.lblTime.Name = "lblTime";
+            this.lblTime.Size = new System.Drawing.Size(0, 108);
+            this.lblTime.TabIndex = 3;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(44, 12);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(225, 24);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "Productos bajos en stock:";
+            // 
             // pnlVerticalPanel
             // 
             this.pnlVerticalPanel.BackColor = System.Drawing.Color.Transparent;
             this.pnlVerticalPanel.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.pnlVerticalPanel.BorderRadius = 10;
-            this.pnlVerticalPanel.Controls.Add(this.btnConfigLeft);
-            this.pnlVerticalPanel.Controls.Add(this.btnConfigBottom);
-            this.pnlVerticalPanel.Controls.Add(this.btnExitLeft);
-            this.pnlVerticalPanel.Controls.Add(this.btnExitBottom);
-            this.pnlVerticalPanel.Controls.Add(this.pnlButtonsConteiner);
-            this.pnlVerticalPanel.Controls.Add(this.guna2Panel2);
+            this.pnlVerticalPanel.Controls.Add(this.pnlVerticalConteiner);
             this.pnlVerticalPanel.CustomizableEdges.BottomRight = false;
             this.pnlVerticalPanel.Dock = System.Windows.Forms.DockStyle.Left;
-            this.pnlVerticalPanel.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.pnlVerticalPanel.FillColor = System.Drawing.Color.Transparent;
             this.pnlVerticalPanel.Location = new System.Drawing.Point(0, 0);
             this.pnlVerticalPanel.Name = "pnlVerticalPanel";
             this.pnlVerticalPanel.ShadowDecoration.Color = System.Drawing.Color.Transparent;
             this.pnlVerticalPanel.ShadowDecoration.CustomizableEdges.BottomLeft = false;
             this.pnlVerticalPanel.ShadowDecoration.CustomizableEdges.TopLeft = false;
-            this.pnlVerticalPanel.Size = new System.Drawing.Size(240, 661);
+            this.pnlVerticalPanel.Size = new System.Drawing.Size(252, 661);
             this.pnlVerticalPanel.TabIndex = 16;
+            // 
+            // pnlVerticalConteiner
+            // 
+            this.pnlVerticalConteiner.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pnlVerticalConteiner.BorderRadius = 25;
+            this.pnlVerticalConteiner.Controls.Add(this.btnConfigLeft);
+            this.pnlVerticalConteiner.Controls.Add(this.btnConfigBottom);
+            this.pnlVerticalConteiner.Controls.Add(this.pnlButtonsConteiner);
+            this.pnlVerticalConteiner.Controls.Add(this.btnExitLeft);
+            this.pnlVerticalConteiner.Controls.Add(this.guna2Panel2);
+            this.pnlVerticalConteiner.Controls.Add(this.guna2Panel3);
+            this.pnlVerticalConteiner.Controls.Add(this.btnExitBottom);
+            this.pnlVerticalConteiner.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.pnlVerticalConteiner.Location = new System.Drawing.Point(4, 3);
+            this.pnlVerticalConteiner.Name = "pnlVerticalConteiner";
+            this.pnlVerticalConteiner.Size = new System.Drawing.Size(248, 655);
+            this.pnlVerticalConteiner.TabIndex = 8;
+            this.pnlVerticalConteiner.Paint += new System.Windows.Forms.PaintEventHandler(this.pnlVerticalConteiner_Paint);
             // 
             // btnConfigLeft
             // 
@@ -705,7 +663,7 @@
             this.btnConfigLeft.ForeColor = System.Drawing.Color.White;
             this.btnConfigLeft.Image = ((System.Drawing.Image)(resources.GetObject("btnConfigLeft.Image")));
             this.btnConfigLeft.ImageSize = new System.Drawing.Size(40, 40);
-            this.btnConfigLeft.Location = new System.Drawing.Point(16, 557);
+            this.btnConfigLeft.Location = new System.Drawing.Point(20, 548);
             this.btnConfigLeft.Name = "btnConfigLeft";
             this.btnConfigLeft.Size = new System.Drawing.Size(43, 43);
             this.btnConfigLeft.TabIndex = 27;
@@ -714,7 +672,7 @@
             // 
             // btnConfigBottom
             // 
-            this.btnConfigBottom.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnConfigBottom.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.btnConfigBottom.BorderColor = System.Drawing.Color.White;
             this.btnConfigBottom.BorderRadius = 10;
             this.btnConfigBottom.Cursor = System.Windows.Forms.Cursors.Hand;
@@ -727,57 +685,11 @@
             this.btnConfigBottom.ForeColor = System.Drawing.Color.White;
             this.btnConfigBottom.Image = ((System.Drawing.Image)(resources.GetObject("btnConfigBottom.Image")));
             this.btnConfigBottom.ImageSize = new System.Drawing.Size(40, 40);
-            this.btnConfigBottom.Location = new System.Drawing.Point(132, 606);
+            this.btnConfigBottom.Location = new System.Drawing.Point(137, 597);
             this.btnConfigBottom.Name = "btnConfigBottom";
             this.btnConfigBottom.Size = new System.Drawing.Size(43, 43);
             this.btnConfigBottom.TabIndex = 26;
             this.btnConfigBottom.Click += new System.EventHandler(this.btnConfigBottom_Click);
-            // 
-            // btnExitLeft
-            // 
-            this.btnExitLeft.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.btnExitLeft.BorderRadius = 10;
-            this.btnExitLeft.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnExitLeft.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btnExitLeft.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btnExitLeft.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btnExitLeft.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btnExitLeft.FillColor = System.Drawing.Color.Transparent;
-            this.btnExitLeft.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.btnExitLeft.ForeColor = System.Drawing.Color.White;
-            this.btnExitLeft.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
-            this.btnExitLeft.HoverState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image12")));
-            this.btnExitLeft.Image = ((System.Drawing.Image)(resources.GetObject("btnExitLeft.Image")));
-            this.btnExitLeft.ImageSize = new System.Drawing.Size(40, 40);
-            this.btnExitLeft.Location = new System.Drawing.Point(16, 606);
-            this.btnExitLeft.Name = "btnExitLeft";
-            this.btnExitLeft.Size = new System.Drawing.Size(46, 43);
-            this.btnExitLeft.TabIndex = 24;
-            this.btnExitLeft.Visible = false;
-            this.btnExitLeft.Click += new System.EventHandler(this.btnExitLeft_Click);
-            // 
-            // btnExitBottom
-            // 
-            this.btnExitBottom.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnExitBottom.BorderColor = System.Drawing.Color.Transparent;
-            this.btnExitBottom.BorderRadius = 10;
-            this.btnExitBottom.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnExitBottom.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btnExitBottom.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btnExitBottom.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btnExitBottom.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btnExitBottom.FillColor = System.Drawing.Color.Transparent;
-            this.btnExitBottom.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.btnExitBottom.ForeColor = System.Drawing.Color.White;
-            this.btnExitBottom.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
-            this.btnExitBottom.HoverState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image13")));
-            this.btnExitBottom.Image = ((System.Drawing.Image)(resources.GetObject("btnExitBottom.Image")));
-            this.btnExitBottom.ImageSize = new System.Drawing.Size(40, 40);
-            this.btnExitBottom.Location = new System.Drawing.Point(181, 606);
-            this.btnExitBottom.Name = "btnExitBottom";
-            this.btnExitBottom.Size = new System.Drawing.Size(46, 43);
-            this.btnExitBottom.TabIndex = 23;
-            this.btnExitBottom.Click += new System.EventHandler(this.btnExitBottom_Click);
             // 
             // pnlButtonsConteiner
             // 
@@ -788,9 +700,9 @@
             this.pnlButtonsConteiner.Controls.Add(this.btnCalendar);
             this.pnlButtonsConteiner.Controls.Add(this.btnProducts);
             this.pnlButtonsConteiner.Controls.Add(this.btnSales);
-            this.pnlButtonsConteiner.Location = new System.Drawing.Point(1, 90);
+            this.pnlButtonsConteiner.Location = new System.Drawing.Point(3, 98);
             this.pnlButtonsConteiner.Name = "pnlButtonsConteiner";
-            this.pnlButtonsConteiner.Size = new System.Drawing.Size(240, 446);
+            this.pnlButtonsConteiner.Size = new System.Drawing.Size(240, 367);
             this.pnlButtonsConteiner.TabIndex = 22;
             // 
             // btnWorkers
@@ -801,7 +713,7 @@
             this.btnWorkers.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnWorkers.DisabledState.FillColor = System.Drawing.Color.Transparent;
             this.btnWorkers.DisabledState.ForeColor = System.Drawing.Color.Transparent;
-            this.btnWorkers.DisabledState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image14")));
+            this.btnWorkers.DisabledState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image12")));
             this.btnWorkers.FillColor = System.Drawing.Color.Transparent;
             this.btnWorkers.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnWorkers.ForeColor = System.Drawing.Color.White;
@@ -826,19 +738,19 @@
             this.btnShopping.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnShopping.DisabledState.FillColor = System.Drawing.Color.Transparent;
             this.btnShopping.DisabledState.ForeColor = System.Drawing.Color.Transparent;
-            this.btnShopping.DisabledState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image15")));
+            this.btnShopping.DisabledState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image13")));
             this.btnShopping.FillColor = System.Drawing.Color.Transparent;
             this.btnShopping.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnShopping.ForeColor = System.Drawing.Color.White;
             this.btnShopping.HoverState.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnShopping.Image = ((System.Drawing.Image)(resources.GetObject("btnShopping.Image")));
             this.btnShopping.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.btnShopping.ImageSize = new System.Drawing.Size(50, 45);
+            this.btnShopping.ImageSize = new System.Drawing.Size(50, 50);
             this.btnShopping.Location = new System.Drawing.Point(3, 172);
             this.btnShopping.Name = "btnShopping";
             this.btnShopping.Size = new System.Drawing.Size(234, 50);
             this.btnShopping.TabIndex = 17;
-            this.btnShopping.Text = " Compras";
+            this.btnShopping.Text = "  Compras";
             this.btnShopping.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.btnShopping.Click += new System.EventHandler(this.btnShopping_Click);
             // 
@@ -850,14 +762,14 @@
             this.btnDashboard.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnDashboard.DisabledState.FillColor = System.Drawing.Color.Transparent;
             this.btnDashboard.DisabledState.ForeColor = System.Drawing.Color.Transparent;
-            this.btnDashboard.DisabledState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image16")));
+            this.btnDashboard.DisabledState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image14")));
             this.btnDashboard.FillColor = System.Drawing.Color.Transparent;
             this.btnDashboard.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDashboard.ForeColor = System.Drawing.Color.White;
             this.btnDashboard.HoverState.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDashboard.Image = ((System.Drawing.Image)(resources.GetObject("btnDashboard.Image")));
             this.btnDashboard.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.btnDashboard.ImageSize = new System.Drawing.Size(50, 50);
+            this.btnDashboard.ImageSize = new System.Drawing.Size(50, 45);
             this.btnDashboard.Location = new System.Drawing.Point(3, 60);
             this.btnDashboard.Name = "btnDashboard";
             this.btnDashboard.Size = new System.Drawing.Size(234, 50);
@@ -874,7 +786,7 @@
             this.btnCalendar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnCalendar.DisabledState.FillColor = System.Drawing.Color.Transparent;
             this.btnCalendar.DisabledState.ForeColor = System.Drawing.Color.Transparent;
-            this.btnCalendar.DisabledState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image17")));
+            this.btnCalendar.DisabledState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image15")));
             this.btnCalendar.FillColor = System.Drawing.Color.Transparent;
             this.btnCalendar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCalendar.ForeColor = System.Drawing.Color.White;
@@ -882,7 +794,7 @@
             this.btnCalendar.Image = ((System.Drawing.Image)(resources.GetObject("btnCalendar.Image")));
             this.btnCalendar.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.btnCalendar.ImageSize = new System.Drawing.Size(50, 50);
-            this.btnCalendar.Location = new System.Drawing.Point(2, 381);
+            this.btnCalendar.Location = new System.Drawing.Point(3, 307);
             this.btnCalendar.Name = "btnCalendar";
             this.btnCalendar.Size = new System.Drawing.Size(234, 50);
             this.btnCalendar.TabIndex = 19;
@@ -898,7 +810,7 @@
             this.btnProducts.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnProducts.DisabledState.FillColor = System.Drawing.Color.Transparent;
             this.btnProducts.DisabledState.ForeColor = System.Drawing.Color.Transparent;
-            this.btnProducts.DisabledState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image18")));
+            this.btnProducts.DisabledState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image16")));
             this.btnProducts.FillColor = System.Drawing.Color.Transparent;
             this.btnProducts.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnProducts.ForeColor = System.Drawing.Color.White;
@@ -923,44 +835,66 @@
             this.btnSales.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnSales.DisabledState.FillColor = System.Drawing.Color.Transparent;
             this.btnSales.DisabledState.ForeColor = System.Drawing.Color.Transparent;
-            this.btnSales.DisabledState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image19")));
+            this.btnSales.DisabledState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image17")));
             this.btnSales.FillColor = System.Drawing.Color.Transparent;
-            this.btnSales.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnSales.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.btnSales.ForeColor = System.Drawing.Color.White;
             this.btnSales.HoverState.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSales.Image = ((System.Drawing.Image)(resources.GetObject("btnSales.Image")));
             this.btnSales.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.btnSales.ImageSize = new System.Drawing.Size(50, 50);
+            this.btnSales.ImageSize = new System.Drawing.Size(45, 45);
             this.btnSales.Location = new System.Drawing.Point(3, 3);
             this.btnSales.Name = "btnSales";
             this.btnSales.Size = new System.Drawing.Size(234, 50);
             this.btnSales.TabIndex = 4;
-            this.btnSales.Text = "  Venta";
+            this.btnSales.Text = "   Venta";
             this.btnSales.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
             this.btnSales.Click += new System.EventHandler(this.btnSales_Click);
             // 
+            // btnExitLeft
+            // 
+            this.btnExitLeft.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.btnExitLeft.BorderRadius = 10;
+            this.btnExitLeft.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnExitLeft.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnExitLeft.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.btnExitLeft.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.btnExitLeft.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.btnExitLeft.FillColor = System.Drawing.Color.Transparent;
+            this.btnExitLeft.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.btnExitLeft.ForeColor = System.Drawing.Color.White;
+            this.btnExitLeft.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.btnExitLeft.HoverState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image18")));
+            this.btnExitLeft.Image = ((System.Drawing.Image)(resources.GetObject("btnExitLeft.Image")));
+            this.btnExitLeft.ImageSize = new System.Drawing.Size(40, 40);
+            this.btnExitLeft.Location = new System.Drawing.Point(20, 597);
+            this.btnExitLeft.Name = "btnExitLeft";
+            this.btnExitLeft.Size = new System.Drawing.Size(46, 43);
+            this.btnExitLeft.TabIndex = 24;
+            this.btnExitLeft.Visible = false;
+            this.btnExitLeft.Click += new System.EventHandler(this.btnExitLeft_Click);
+            // 
             // guna2Panel2
             // 
-            this.guna2Panel2.BorderRadius = 10;
+            this.guna2Panel2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.guna2Panel2.BorderRadius = 20;
             this.guna2Panel2.Controls.Add(this.picBNameLogo);
             this.guna2Panel2.Controls.Add(this.picBlogo);
-            this.guna2Panel2.CustomizableEdges.TopRight = false;
             this.guna2Panel2.FillColor = System.Drawing.Color.White;
-            this.guna2Panel2.Location = new System.Drawing.Point(0, 0);
+            this.guna2Panel2.Location = new System.Drawing.Point(8, 7);
             this.guna2Panel2.Name = "guna2Panel2";
-            this.guna2Panel2.Size = new System.Drawing.Size(240, 74);
+            this.guna2Panel2.Size = new System.Drawing.Size(232, 66);
             this.guna2Panel2.TabIndex = 20;
             // 
             // picBNameLogo
             // 
-            this.picBNameLogo.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.picBNameLogo.BackColor = System.Drawing.Color.Transparent;
             this.picBNameLogo.Cursor = System.Windows.Forms.Cursors.Hand;
             this.picBNameLogo.Image = ((System.Drawing.Image)(resources.GetObject("picBNameLogo.Image")));
-            this.picBNameLogo.Location = new System.Drawing.Point(76, 0);
+            this.picBNameLogo.Location = new System.Drawing.Point(67, 9);
             this.picBNameLogo.Name = "picBNameLogo";
-            this.picBNameLogo.Size = new System.Drawing.Size(158, 74);
+            this.picBNameLogo.Size = new System.Drawing.Size(157, 48);
             this.picBNameLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picBNameLogo.TabIndex = 14;
             this.picBNameLogo.TabStop = false;
@@ -973,16 +907,67 @@
             this.picBlogo.FillColor = System.Drawing.Color.Transparent;
             this.picBlogo.Image = ((System.Drawing.Image)(resources.GetObject("picBlogo.Image")));
             this.picBlogo.ImageRotate = 0F;
-            this.picBlogo.Location = new System.Drawing.Point(11, 1);
+            this.picBlogo.Location = new System.Drawing.Point(1, 7);
             this.picBlogo.Margin = new System.Windows.Forms.Padding(2);
             this.picBlogo.Name = "picBlogo";
             this.picBlogo.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.picBlogo.Size = new System.Drawing.Size(60, 72);
+            this.picBlogo.Size = new System.Drawing.Size(60, 51);
             this.picBlogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picBlogo.TabIndex = 15;
             this.picBlogo.TabStop = false;
             this.picBlogo.UseTransparentBackground = true;
             this.picBlogo.Click += new System.EventHandler(this.picBlogo_Click);
+            // 
+            // guna2Panel3
+            // 
+            this.guna2Panel3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.guna2Panel3.BorderRadius = 15;
+            this.guna2Panel3.Controls.Add(this.picBChangeSizeVerticalPanel);
+            this.guna2Panel3.CustomizableEdges.TopLeft = false;
+            this.guna2Panel3.CustomizableEdges.TopRight = false;
+            this.guna2Panel3.FillColor = System.Drawing.Color.White;
+            this.guna2Panel3.Location = new System.Drawing.Point(195, 64);
+            this.guna2Panel3.Name = "guna2Panel3";
+            this.guna2Panel3.Size = new System.Drawing.Size(30, 32);
+            this.guna2Panel3.TabIndex = 8;
+            // 
+            // picBChangeSizeVerticalPanel
+            // 
+            this.picBChangeSizeVerticalPanel.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.picBChangeSizeVerticalPanel.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.picBChangeSizeVerticalPanel.Image = ((System.Drawing.Image)(resources.GetObject("picBChangeSizeVerticalPanel.Image")));
+            this.picBChangeSizeVerticalPanel.ImageRotate = 0F;
+            this.picBChangeSizeVerticalPanel.Location = new System.Drawing.Point(2, 11);
+            this.picBChangeSizeVerticalPanel.Name = "picBChangeSizeVerticalPanel";
+            this.picBChangeSizeVerticalPanel.Size = new System.Drawing.Size(25, 15);
+            this.picBChangeSizeVerticalPanel.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.picBChangeSizeVerticalPanel.TabIndex = 3;
+            this.picBChangeSizeVerticalPanel.TabStop = false;
+            this.picBChangeSizeVerticalPanel.Click += new System.EventHandler(this.picBoxCloseVeticalPanel);
+            // 
+            // btnExitBottom
+            // 
+            this.btnExitBottom.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
+            this.btnExitBottom.BorderColor = System.Drawing.Color.Transparent;
+            this.btnExitBottom.BorderRadius = 10;
+            this.btnExitBottom.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnExitBottom.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnExitBottom.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.btnExitBottom.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.btnExitBottom.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.btnExitBottom.FillColor = System.Drawing.Color.Transparent;
+            this.btnExitBottom.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.btnExitBottom.ForeColor = System.Drawing.Color.White;
+            this.btnExitBottom.HoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.btnExitBottom.HoverState.Image = ((System.Drawing.Image)(resources.GetObject("resource.Image19")));
+            this.btnExitBottom.Image = ((System.Drawing.Image)(resources.GetObject("btnExitBottom.Image")));
+            this.btnExitBottom.ImageSize = new System.Drawing.Size(40, 40);
+            this.btnExitBottom.Location = new System.Drawing.Point(186, 597);
+            this.btnExitBottom.Name = "btnExitBottom";
+            this.btnExitBottom.Size = new System.Drawing.Size(46, 43);
+            this.btnExitBottom.TabIndex = 23;
+            this.btnExitBottom.Click += new System.EventHandler(this.btnExitBottom_Click);
             // 
             // dataTimer
             // 
@@ -1011,9 +996,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.picBoxClose)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBoxMax)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBoxSMin)).EndInit();
-            this.guna2Panel3.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.picBoxCloseVerticalPanel)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picBoxOpenVerticalPanel)).EndInit();
             this.pnlCenterPanel.ResumeLayout(false);
             this.pnlTitle.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox2)).EndInit();
@@ -1022,13 +1004,15 @@
             this.pnlStockConteiner.PerformLayout();
             this.pnlTopList.ResumeLayout(false);
             this.pnlTopList.PerformLayout();
-            this.pnlList.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridStock)).EndInit();
             this.pnlVerticalPanel.ResumeLayout(false);
+            this.pnlVerticalConteiner.ResumeLayout(false);
             this.pnlButtonsConteiner.ResumeLayout(false);
             this.guna2Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.picBNameLogo)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBlogo)).EndInit();
+            this.guna2Panel3.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.picBChangeSizeVerticalPanel)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -1045,14 +1029,13 @@
         private Guna.UI2.WinForms.Guna2PictureBox picBoxMax;
         private Guna.UI2.WinForms.Guna2PictureBox picBoxSMin;
         private Guna.UI2.WinForms.Guna2PictureBox picBoxMin;
-        private Guna.UI2.WinForms.Guna2PictureBox picBoxCloseVerticalPanel;
+        private Guna.UI2.WinForms.Guna2PictureBox picBChangeSizeVerticalPanel;
         private Guna.UI2.WinForms.Guna2PictureBox picBoxClose;
         private Guna.UI2.WinForms.Guna2Button btnProducts;
         private Guna.UI2.WinForms.Guna2Button btnWorkers;
         private Guna.UI2.WinForms.Guna2Button btnShopping;
         private Guna.UI2.WinForms.Guna2Button btnDashboard;
         private Guna.UI2.WinForms.Guna2Button btnCalendar;
-        private Guna.UI2.WinForms.Guna2PictureBox picBoxOpenVerticalPanel;
         private Guna.UI2.WinForms.Guna2Panel guna2Panel2;
         private Guna.UI2.WinForms.Guna2Panel guna2Panel3;
         private Guna.UI2.WinForms.Guna2Panel pnlButtonsConteiner;
@@ -1068,7 +1051,6 @@
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label8;
-        private Guna.UI2.WinForms.Guna2Panel pnlList;
         private System.Windows.Forms.Label lblDate;
         private System.Windows.Forms.Label lblTime;
         private System.Windows.Forms.Timer dataTimer;
@@ -1088,5 +1070,6 @@
         private Guna.UI2.WinForms.Guna2VSeparator guna2VSeparator3;
         private Guna.UI2.WinForms.Guna2VSeparator guna2VSeparator2;
         private Guna.UI2.WinForms.Guna2VSeparator guna2VSeparator1;
+        private Guna.UI2.WinForms.Guna2Panel pnlVerticalConteiner;
     }
 }

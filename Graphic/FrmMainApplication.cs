@@ -16,21 +16,31 @@ namespace Graphic
 {
     public partial class MainApplication : Form
     {
-        private string saveTeme;
+        private string saveTheme;
         private FrmLogin logIn;
         private string tier;
         private string user;
 
-        public MainApplication(string teme, FrmLogin login, string userName, string tierL)
-        {
-            saveTeme = teme;
-            logIn = login;
-            tier = tierL;
-            user = userName;
 
+        private Color mainColor;
+        private Color scndColor;
+        private Color trdColor;
+        private Color background;
+
+
+
+        public MainApplication(FrmLogin login, string userName, string tierL, String theme, Color mainColor, Color scndColor, Color trdColor, Color background)
+        {
+            this.logIn = login;
+            this.tier = tierL;
+            this.user = userName;
+            this.mainColor= mainColor;
+            this.scndColor = scndColor;
+            this.trdColor = trdColor;
+            this.background = background;
+            this.saveTheme = theme;
             InitializeComponent();
-            changeTeme(saveTeme);
-            tierChanges(tier);
+            changeTheme(saveTheme ,mainColor, scndColor, trdColor, background);
             //RoundCorners(this, 20);
 
         }
@@ -86,48 +96,40 @@ namespace Graphic
             SendMenssage(this.Handle, 0x112, 0xf012, 0);
         }
 
-        //evento para cerrar el panel vertical donde estan los botones: productos,compras, etc
+        //evento para abrir y cerrar el panel vertical donde estan los botones: productos,compras, etc
         private void picBoxCloseVeticalPanel(object sender, EventArgs e)
         {
-            if (pnlVerticalPanel.Width == 240)
+            if (pnlVerticalPanel.Width == 252)
             {
 
-                pnlVerticalPanel.Width = 75;
+                pnlVerticalPanel.Width = 82;
 
-                pnlCenterPanel.Width = pnlBackground.Width - 75;
-                pnlCenterPanel.Location = new Point(75, 27);
+                pnlCenterPanel.Width = pnlBackground.Width - 82;
+                pnlCenterPanel.Location = new Point(82, 27);
 
                 btnConfigLeft.Visible = true;
                 btnConfigBottom.Visible = false;
                 btnExitLeft.Visible = true;
                 btnExitBottom.Visible = false;
-                picBoxCloseVerticalPanel.Visible = false;
-                picBoxOpenVerticalPanel.Visible = true;
 
             }
-
-        }
-
-        //evento para abrir el panel vertical donde estan los botones: productos,compras, etc
-        private void picBoxOpenVerticalPanel_Click(object sender, EventArgs e)
-        {
-            if (pnlVerticalPanel.Width == 75)
+            else if (pnlVerticalPanel.Width == 82)
             {
 
-                pnlVerticalPanel.Width = 240;
+                pnlVerticalPanel.Width = 252;
 
-                pnlCenterPanel.Width = pnlBackground.Width - 240;
-                pnlCenterPanel.Location = new Point(240, 27);
+                pnlCenterPanel.Width = pnlBackground.Width - 252;
+                pnlCenterPanel.Location = new Point(252, 27);
 
                 btnConfigLeft.Visible = false;
                 btnConfigBottom.Visible = true;
                 btnExitLeft.Visible = false;
                 btnExitBottom.Visible = true;
-                picBoxCloseVerticalPanel.Visible = true;
-                picBoxOpenVerticalPanel.Visible = false;
 
             }
+
         }
+
 
         //evento para cerrar la app desde la imagen picBoxClose
         private void picBoxClose_Click(object sender, EventArgs e)
@@ -161,13 +163,13 @@ namespace Graphic
         //evento para abrir el form hijo StartStcreen desde la imagen picBNameLogo
         private void picBNameLogo_Click(object sender, EventArgs e)
         {
-            Form newForm = new FrmStartScreen(this, saveTeme, tier);
+            Form newForm = new FrmStartScreen(this, saveTheme, tier);
             openFormInPanel(newForm);
             closeButtonsAnimation();
         }
         private void picBlogo_Click(object sender, EventArgs e)
         {
-            Form newForm = new FrmStartScreen(this, saveTeme, tier);
+            Form newForm = new FrmStartScreen(this, saveTheme, tier);
             openFormInPanel(newForm);
             closeButtonsAnimation();
         }
@@ -272,32 +274,32 @@ namespace Graphic
             switch (classOpen)
             {
                 case "products":
-                    Form formProducts = new FrmProducts(saveTeme);
+                    Form formProducts = new FrmProducts(mainColor, scndColor, trdColor, background);
                     openFormInPanel(formProducts);
                     break;
 
                 case "sales":
-                    Form formSales = new FrmMakeSale(saveTeme);
+                    Form formSales = new FrmMakeSale(mainColor, scndColor, trdColor, background);
                     openFormInPanel(formSales);
                     break;
 
                 case "dashboard":
-                    Form formDashboard = new FrmDashboard(saveTeme);
+                    Form formDashboard = new FrmDashboard(mainColor, scndColor, trdColor, background);
                     openFormInPanel(formDashboard);
                     break;
 
                 case "shopping":
-                    Form formShopping = new FrmShopping(saveTeme);
+                    Form formShopping = new FrmShopping(mainColor, scndColor, trdColor, background);
                     openFormInPanel(formShopping);
                     break;
 
                 case "workers":
-                    Form formWorkers = new FrmResources(saveTeme, "all");
+                    Form formWorkers = new FrmResources(saveTheme, "all", mainColor, scndColor, trdColor, background);
                     openFormInPanel(formWorkers);
                     break;
 
                 case "config":
-                    Form formWorkers1 = new Config(this, saveTeme);
+                    Form formWorkers1 = new Config(this, saveTheme, mainColor, scndColor, trdColor, background);
                     openFormInPanel(formWorkers1);
                     btnConfigBottom.BorderThickness = 1;
                     btnConfigLeft.BorderThickness = 1;
@@ -354,111 +356,32 @@ namespace Graphic
          * la variable privada saveTeme, variable que se le pasa al ejecutar el resto de forms hijos haciendo que tenga efecto
          * el cambio de tema en estos.
          */
-        public void changeTeme(string teme)
+        public void changeTheme(string theme, Color color1, Color color2, Color color3, Color background)
         {
-            Guna2Panel[] mainColor = { pnlVerticalPanel, pnlPanelConteiner, pnlStockConteiner };
-            Guna2Panel[] conteinerColor = { pnlTopList, pnlList };
+            saveTheme = theme;
+            Guna2Panel[] mainColor = { pnlPanelConteiner, pnlStockConteiner, pnlTopPanel, pnlVerticalConteiner };
+            Guna2Panel[] conteinerColor = { pnlTopList };
+            Guna2Panel[] backgroundColor = { pnlBackground, pnlCenterPanel };
             Guna2Button[] buttonsForeColor = { btnProducts, btnSales, btnDashboard, btnShopping, btnWorkers, btnCalendar };
 
-
-
-
-            switch (teme)
+            foreach (Guna2Panel darkColor in mainColor)
             {
-                case "dark":
-                    foreach (Guna2Panel colorDark in mainColor)
-                    {
-                        colorDark.FillColor =
-                            System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64))))); ;
-
-                        System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64))))); ;
-                    }
-                    foreach (Guna2Panel colorConteiner in conteinerColor)
-                    {
-                        colorConteiner.FillColor =
-                            System.Drawing.Color.FromArgb(((int)(((byte)(84)))), ((int)(((byte)(84)))), ((int)(((byte)(84))))); ;
-
-                    }
-                    foreach (Guna2Button foreColor in buttonsForeColor)
-                    {
-                        foreColor.ForeColor = System.Drawing.Color.White;
-
-                    }
-                    dataGridStock.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(84)))), ((int)(((byte)(84)))), ((int)(((byte)(84))))); ;
-                    pnlCenterPanel.FillColor = System.Drawing.Color.Gray;
-
-                    saveTeme = "dark";
-                    break;
-
-
-
-
-                case "red":
-                    foreach (Guna2Panel colorDark in mainColor)
-                    {
-
-                        colorDark.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(160)))), ((int)(((byte)(46)))), ((int)(((byte)(32))))); ;
-                    }
-                    foreach (Guna2Panel colorConteiner in conteinerColor)
-                    {
-                        colorConteiner.FillColor =
-                            System.Drawing.Color.FromArgb(((int)(((byte)(218)))), ((int)(((byte)(52)))), ((int)(((byte)(77))))); ;
-                    }
-                    foreach (Guna2Button foreColor in buttonsForeColor)
-                    {
-                        foreColor.ForeColor = System.Drawing.Color.White;
-
-                    }
-                    dataGridStock.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128))))); ;
-                    pnlCenterPanel.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128))))); ;
-                    saveTeme = "red";
-                    break;
-
-
-                case "blue":
-                    foreach (Guna2Panel colorDark in mainColor)
-                    {
-                        colorDark.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(56)))), ((int)(((byte)(78)))), ((int)(((byte)(186))))); ;
-                    }
-                    foreach (Guna2Panel colorConteiner in conteinerColor)
-                    {
-                        colorConteiner.FillColor = System.Drawing.Color.CornflowerBlue;
-                    }
-                    foreach (Guna2Button foreColor in buttonsForeColor)
-                    {
-                        foreColor.ForeColor = System.Drawing.Color.White;
-
-                    }
-                    pnlBackground.FillColor = System.Drawing.Color.LightSteelBlue;
-                    pnlCenterPanel.FillColor = System.Drawing.Color.LightSteelBlue;
-                    dataGridStock.BackgroundColor = System.Drawing.Color.CornflowerBlue;
-                    saveTeme = "blue";
-                    break;
-
-
-                case "light":
-                    foreach (Guna2Panel colorDark in mainColor)
-                    {
-                        colorDark.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(124)))), ((int)(((byte)(160)))), ((int)(((byte)(153))))); ;
-                    }
-                    foreach (Guna2Panel colorConteiner in conteinerColor)
-                    {
-                        colorConteiner.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(113)))), ((int)(((byte)(124)))), ((int)(((byte)(137))))); ;
-                    }
-                    foreach (Guna2Button foreColor in buttonsForeColor)
-                    {
-                        foreColor.ForeColor = System.Drawing.Color.White;
-                    }
-                    pnlBackground.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(122)))), ((int)(((byte)(145)))), ((int)(((byte)(141))))); ;
-                    pnlCenterPanel.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(122)))), ((int)(((byte)(145)))), ((int)(((byte)(141))))); ;
-                    dataGridStock.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(113)))), ((int)(((byte)(124)))), ((int)(((byte)(137))))); ;
-                    saveTeme = "light";
-                    break;
-
-                default:
-                    Console.WriteLine("Opción no válida");
-                    break;
+                darkColor.FillColor = color1;
             }
+            foreach (Guna2Panel secondColor in conteinerColor)
+            {
+                secondColor.FillColor = color2;
+            }
+            foreach (Guna2Panel backColor in backgroundColor)
+            {
+                backColor.FillColor = background;
+            }
+
+            this.mainColor = color1;
+            this.scndColor = color2;
+            this.trdColor = color3;
+            this.background = background;
+
         }
 
         //evento donde se le da atcualizacion constante a las etiquetas time y date para que estas se ajusten automaticamente
@@ -504,7 +427,7 @@ namespace Graphic
 
         private void btnExitBottom_Click(object sender, EventArgs e)
         {
-            logIn.changeTeme(saveTeme);
+            logIn.changeTeme(saveTheme);
             this.Close();
             logIn.Show();
             GC.Collect();
@@ -514,14 +437,22 @@ namespace Graphic
 
         private void btnExitLeft_Click(object sender, EventArgs e)
         {
-            logIn.changeTeme(saveTeme);
+            logIn.changeTeme(saveTheme);
             this.Close();
             logIn.Show();
             GC.Collect();
 
         }
 
+        private void pnlVerticalConteiner_Paint(object sender, PaintEventArgs e)
+        {
 
+        }
+
+        private void pnlTopList_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
 

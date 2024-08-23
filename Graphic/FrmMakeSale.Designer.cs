@@ -68,7 +68,7 @@
             this.pnlRegister = new Guna.UI2.WinForms.Guna2Panel();
             this.btnRegisterClient = new Guna.UI2.WinForms.Guna2Button();
             this.label4 = new System.Windows.Forms.Label();
-            this.guna2Panel4 = new Guna.UI2.WinForms.Guna2Panel();
+            this.pnlMoney = new Guna.UI2.WinForms.Guna2Panel();
             this.comboBoxShip = new Guna.UI2.WinForms.Guna2ComboBox();
             this.comboBoxBudget = new Guna.UI2.WinForms.Guna2ComboBox();
             this.lblComboBoxDiscount = new System.Windows.Forms.Label();
@@ -77,7 +77,7 @@
             this.guna2Separator5 = new Guna.UI2.WinForms.Guna2Separator();
             this.lblBudget = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
-            this.guna2Panel3 = new Guna.UI2.WinForms.Guna2Panel();
+            this.pnlSaleData = new Guna.UI2.WinForms.Guna2Panel();
             this.comboBoxTypeImpression = new Guna.UI2.WinForms.Guna2ComboBox();
             this.lblTypeImpression = new System.Windows.Forms.Label();
             this.comboBoxClient = new Guna.UI2.WinForms.Guna2ComboBox();
@@ -88,7 +88,7 @@
             this.lblReference = new System.Windows.Forms.Label();
             this.guna2Separator4 = new Guna.UI2.WinForms.Guna2Separator();
             this.label8 = new System.Windows.Forms.Label();
-            this.guna2Panel2 = new Guna.UI2.WinForms.Guna2Panel();
+            this.pnlClientData = new Guna.UI2.WinForms.Guna2Panel();
             this.guna2TextBox1 = new Guna.UI2.WinForms.Guna2TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -99,16 +99,16 @@
             this.btnStep1 = new Guna.UI2.WinForms.Guna2Button();
             this.timerResChanges = new System.Windows.Forms.Timer(this.components);
             this.dataGridViewImageColumn1 = new System.Windows.Forms.DataGridViewImageColumn();
-            this.guna2Panel8 = new Guna.UI2.WinForms.Guna2Panel();
+            this.pnlPayMethodTitle = new Guna.UI2.WinForms.Guna2Panel();
             this.label5 = new System.Windows.Forms.Label();
             this.btnStep3 = new Guna.UI2.WinForms.Guna2Button();
             this.separatorStep3 = new Guna.UI2.WinForms.Guna2Separator();
-            this.guna2Panel10 = new Guna.UI2.WinForms.Guna2Panel();
+            this.pnlSteps = new Guna.UI2.WinForms.Guna2Panel();
             this.btnBack = new Guna.UI2.WinForms.Guna2Button();
-            this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
-            this.guna2Panel11 = new Guna.UI2.WinForms.Guna2Panel();
+            this.pnlStepBack = new Guna.UI2.WinForms.Guna2Panel();
+            this.pnlNextStep = new Guna.UI2.WinForms.Guna2Panel();
             this.pnlStep3 = new Guna.UI2.WinForms.Guna2Panel();
-            this.guna2Panel9 = new Guna.UI2.WinForms.Guna2Panel();
+            this.pnlPayBackground = new Guna.UI2.WinForms.Guna2Panel();
             this.pnlDebitMethod = new Guna.UI2.WinForms.Guna2Panel();
             this.dateTimePickerExpiration = new Guna.UI2.WinForms.Guna2DateTimePicker();
             this.txtCardNumber = new Guna.UI2.WinForms.Guna2TextBox();
@@ -129,7 +129,7 @@
             this.pnlCreditMethod = new Guna.UI2.WinForms.Guna2Panel();
             this.txtDues = new Guna.UI2.WinForms.Guna2TextBox();
             this.label19 = new System.Windows.Forms.Label();
-            this.guna2Panel6 = new Guna.UI2.WinForms.Guna2Panel();
+            this.pnlPayMethod = new Guna.UI2.WinForms.Guna2Panel();
             this.guna2Separator7 = new Guna.UI2.WinForms.Guna2Separator();
             this.guna2Separator6 = new Guna.UI2.WinForms.Guna2Separator();
             this.label13 = new System.Windows.Forms.Label();
@@ -140,12 +140,13 @@
             this.checkBCash = new Guna.UI2.WinForms.Guna2CustomCheckBox();
             this.guna2Separator2 = new Guna.UI2.WinForms.Guna2Separator();
             this.label9 = new System.Windows.Forms.Label();
-            this.guna2Panel12 = new Guna.UI2.WinForms.Guna2Panel();
+            this.pnlPayButtons = new Guna.UI2.WinForms.Guna2Panel();
             this.guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
             this.btnSubmitTicket = new Guna.UI2.WinForms.Guna2Button();
-            this.guna2Panel5 = new Guna.UI2.WinForms.Guna2Panel();
+            this.pnlFormTitle = new Guna.UI2.WinForms.Guna2Panel();
             this.label6 = new System.Windows.Forms.Label();
             this.guna2PictureBox2 = new Guna.UI2.WinForms.Guna2PictureBox();
+            this.pnlBackground = new Guna.UI2.WinForms.Guna2Panel();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridProducts)).BeginInit();
             this.pnlFooter.SuspendLayout();
             this.pnlTotal.SuspendLayout();
@@ -154,22 +155,22 @@
             this.pnlShip.SuspendLayout();
             this.pnlStep2.SuspendLayout();
             this.pnlRegister.SuspendLayout();
-            this.guna2Panel4.SuspendLayout();
-            this.guna2Panel3.SuspendLayout();
-            this.guna2Panel2.SuspendLayout();
-            this.guna2Panel8.SuspendLayout();
-            this.guna2Panel10.SuspendLayout();
-            this.guna2Panel1.SuspendLayout();
-            this.guna2Panel11.SuspendLayout();
+            this.pnlMoney.SuspendLayout();
+            this.pnlSaleData.SuspendLayout();
+            this.pnlClientData.SuspendLayout();
+            this.pnlPayMethodTitle.SuspendLayout();
+            this.pnlSteps.SuspendLayout();
+            this.pnlStepBack.SuspendLayout();
+            this.pnlNextStep.SuspendLayout();
             this.pnlStep3.SuspendLayout();
-            this.guna2Panel9.SuspendLayout();
+            this.pnlPayBackground.SuspendLayout();
             this.pnlDebitMethod.SuspendLayout();
             this.pnlCashMethod.SuspendLayout();
             this.guna2Panel7.SuspendLayout();
             this.pnlCreditMethod.SuspendLayout();
-            this.guna2Panel6.SuspendLayout();
-            this.guna2Panel12.SuspendLayout();
-            this.guna2Panel5.SuspendLayout();
+            this.pnlPayMethod.SuspendLayout();
+            this.pnlPayButtons.SuspendLayout();
+            this.pnlFormTitle.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox2)).BeginInit();
             this.SuspendLayout();
             // 
@@ -549,7 +550,7 @@
             // 
             this.separatorStep2.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.separatorStep2.BackColor = System.Drawing.Color.Transparent;
-            this.separatorStep2.FillColor = System.Drawing.Color.Black;
+            this.separatorStep2.FillColor = System.Drawing.Color.Gray;
             this.separatorStep2.FillThickness = 3;
             this.separatorStep2.Location = new System.Drawing.Point(50, 25);
             this.separatorStep2.Name = "separatorStep2";
@@ -561,9 +562,9 @@
             this.pnlStep2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pnlStep2.Controls.Add(this.pnlRegister);
-            this.pnlStep2.Controls.Add(this.guna2Panel4);
-            this.pnlStep2.Controls.Add(this.guna2Panel3);
-            this.pnlStep2.Controls.Add(this.guna2Panel2);
+            this.pnlStep2.Controls.Add(this.pnlMoney);
+            this.pnlStep2.Controls.Add(this.pnlSaleData);
+            this.pnlStep2.Controls.Add(this.pnlClientData);
             this.pnlStep2.FillColor = System.Drawing.Color.Gray;
             this.pnlStep2.Location = new System.Drawing.Point(5000, 88);
             this.pnlStep2.Name = "pnlStep2";
@@ -573,6 +574,7 @@
             // pnlRegister
             // 
             this.pnlRegister.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.pnlRegister.BackColor = System.Drawing.Color.Transparent;
             this.pnlRegister.BorderRadius = 30;
             this.pnlRegister.Controls.Add(this.btnRegisterClient);
             this.pnlRegister.Controls.Add(this.label4);
@@ -608,7 +610,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.label4.BackColor = System.Drawing.Color.Transparent;
             this.label4.ForeColor = System.Drawing.Color.White;
             this.label4.Location = new System.Drawing.Point(37, 11);
             this.label4.Name = "label4";
@@ -616,23 +618,24 @@
             this.label4.TabIndex = 6;
             this.label4.Text = "¿El cliente desea registrarse?";
             // 
-            // guna2Panel4
+            // pnlMoney
             // 
-            this.guna2Panel4.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.guna2Panel4.BorderRadius = 30;
-            this.guna2Panel4.Controls.Add(this.comboBoxShip);
-            this.guna2Panel4.Controls.Add(this.comboBoxBudget);
-            this.guna2Panel4.Controls.Add(this.lblComboBoxDiscount);
-            this.guna2Panel4.Controls.Add(this.lblTxtShip);
-            this.guna2Panel4.Controls.Add(this.comboBoxDiscount);
-            this.guna2Panel4.Controls.Add(this.guna2Separator5);
-            this.guna2Panel4.Controls.Add(this.lblBudget);
-            this.guna2Panel4.Controls.Add(this.label12);
-            this.guna2Panel4.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.guna2Panel4.Location = new System.Drawing.Point(690, 22);
-            this.guna2Panel4.Name = "guna2Panel4";
-            this.guna2Panel4.Size = new System.Drawing.Size(271, 280);
-            this.guna2Panel4.TabIndex = 9;
+            this.pnlMoney.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.pnlMoney.BackColor = System.Drawing.Color.Transparent;
+            this.pnlMoney.BorderRadius = 30;
+            this.pnlMoney.Controls.Add(this.comboBoxShip);
+            this.pnlMoney.Controls.Add(this.comboBoxBudget);
+            this.pnlMoney.Controls.Add(this.lblComboBoxDiscount);
+            this.pnlMoney.Controls.Add(this.lblTxtShip);
+            this.pnlMoney.Controls.Add(this.comboBoxDiscount);
+            this.pnlMoney.Controls.Add(this.guna2Separator5);
+            this.pnlMoney.Controls.Add(this.lblBudget);
+            this.pnlMoney.Controls.Add(this.label12);
+            this.pnlMoney.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.pnlMoney.Location = new System.Drawing.Point(690, 22);
+            this.pnlMoney.Name = "pnlMoney";
+            this.pnlMoney.Size = new System.Drawing.Size(271, 280);
+            this.pnlMoney.TabIndex = 9;
             // 
             // comboBoxShip
             // 
@@ -728,7 +731,7 @@
             // 
             // guna2Separator5
             // 
-            this.guna2Separator5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.guna2Separator5.BackColor = System.Drawing.Color.Transparent;
             this.guna2Separator5.Location = new System.Drawing.Point(23, 34);
             this.guna2Separator5.Name = "guna2Separator5";
             this.guna2Separator5.Size = new System.Drawing.Size(226, 10);
@@ -759,25 +762,26 @@
             this.label12.Text = "Dinero";
             this.label12.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // guna2Panel3
+            // pnlSaleData
             // 
-            this.guna2Panel3.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.guna2Panel3.BorderRadius = 30;
-            this.guna2Panel3.Controls.Add(this.comboBoxTypeImpression);
-            this.guna2Panel3.Controls.Add(this.lblTypeImpression);
-            this.guna2Panel3.Controls.Add(this.comboBoxClient);
-            this.guna2Panel3.Controls.Add(this.lblClient);
-            this.guna2Panel3.Controls.Add(this.lblFiscalDate);
-            this.guna2Panel3.Controls.Add(this.txtFiscalDate);
-            this.guna2Panel3.Controls.Add(this.txtReference);
-            this.guna2Panel3.Controls.Add(this.lblReference);
-            this.guna2Panel3.Controls.Add(this.guna2Separator4);
-            this.guna2Panel3.Controls.Add(this.label8);
-            this.guna2Panel3.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.guna2Panel3.Location = new System.Drawing.Point(375, 22);
-            this.guna2Panel3.Name = "guna2Panel3";
-            this.guna2Panel3.Size = new System.Drawing.Size(295, 360);
-            this.guna2Panel3.TabIndex = 8;
+            this.pnlSaleData.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.pnlSaleData.BackColor = System.Drawing.Color.Transparent;
+            this.pnlSaleData.BorderRadius = 30;
+            this.pnlSaleData.Controls.Add(this.comboBoxTypeImpression);
+            this.pnlSaleData.Controls.Add(this.lblTypeImpression);
+            this.pnlSaleData.Controls.Add(this.comboBoxClient);
+            this.pnlSaleData.Controls.Add(this.lblClient);
+            this.pnlSaleData.Controls.Add(this.lblFiscalDate);
+            this.pnlSaleData.Controls.Add(this.txtFiscalDate);
+            this.pnlSaleData.Controls.Add(this.txtReference);
+            this.pnlSaleData.Controls.Add(this.lblReference);
+            this.pnlSaleData.Controls.Add(this.guna2Separator4);
+            this.pnlSaleData.Controls.Add(this.label8);
+            this.pnlSaleData.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.pnlSaleData.Location = new System.Drawing.Point(375, 22);
+            this.pnlSaleData.Name = "pnlSaleData";
+            this.pnlSaleData.Size = new System.Drawing.Size(295, 360);
+            this.pnlSaleData.TabIndex = 8;
             // 
             // comboBoxTypeImpression
             // 
@@ -925,7 +929,7 @@
             // 
             // guna2Separator4
             // 
-            this.guna2Separator4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.guna2Separator4.BackColor = System.Drawing.Color.Transparent;
             this.guna2Separator4.Location = new System.Drawing.Point(25, 34);
             this.guna2Separator4.Name = "guna2Separator4";
             this.guna2Separator4.Size = new System.Drawing.Size(256, 10);
@@ -943,26 +947,27 @@
             this.label8.Text = "Datos de venta";
             this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // guna2Panel2
+            // pnlClientData
             // 
-            this.guna2Panel2.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.guna2Panel2.BorderRadius = 30;
-            this.guna2Panel2.Controls.Add(this.guna2TextBox1);
-            this.guna2Panel2.Controls.Add(this.label2);
-            this.guna2Panel2.Controls.Add(this.label3);
-            this.guna2Panel2.Controls.Add(this.guna2Separator3);
-            this.guna2Panel2.Controls.Add(this.label1);
-            this.guna2Panel2.Controls.Add(this.comboBoxIsRegistred);
-            this.guna2Panel2.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.guna2Panel2.Location = new System.Drawing.Point(54, 22);
-            this.guna2Panel2.Name = "guna2Panel2";
-            this.guna2Panel2.Size = new System.Drawing.Size(310, 190);
-            this.guna2Panel2.TabIndex = 1;
+            this.pnlClientData.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.pnlClientData.BackColor = System.Drawing.Color.Transparent;
+            this.pnlClientData.BorderRadius = 30;
+            this.pnlClientData.Controls.Add(this.guna2TextBox1);
+            this.pnlClientData.Controls.Add(this.label2);
+            this.pnlClientData.Controls.Add(this.label3);
+            this.pnlClientData.Controls.Add(this.guna2Separator3);
+            this.pnlClientData.Controls.Add(this.label1);
+            this.pnlClientData.Controls.Add(this.comboBoxIsRegistred);
+            this.pnlClientData.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.pnlClientData.Location = new System.Drawing.Point(54, 22);
+            this.pnlClientData.Name = "pnlClientData";
+            this.pnlClientData.Size = new System.Drawing.Size(310, 190);
+            this.pnlClientData.TabIndex = 1;
             // 
             // guna2TextBox1
             // 
             this.guna2TextBox1.AutoRoundedCorners = true;
-            this.guna2TextBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.guna2TextBox1.BackColor = System.Drawing.Color.Transparent;
             this.guna2TextBox1.BorderRadius = 15;
             this.guna2TextBox1.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.guna2TextBox1.DefaultText = "";
@@ -987,7 +992,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.ForeColor = System.Drawing.Color.White;
             this.label2.Location = new System.Drawing.Point(71, 60);
             this.label2.Name = "label2";
@@ -998,7 +1003,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.label3.BackColor = System.Drawing.Color.Transparent;
             this.label3.ForeColor = System.Drawing.Color.White;
             this.label3.Location = new System.Drawing.Point(86, 123);
             this.label3.Name = "label3";
@@ -1008,7 +1013,7 @@
             // 
             // guna2Separator3
             // 
-            this.guna2Separator3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.guna2Separator3.BackColor = System.Drawing.Color.Transparent;
             this.guna2Separator3.Location = new System.Drawing.Point(22, 34);
             this.guna2Separator3.Name = "guna2Separator3";
             this.guna2Separator3.Size = new System.Drawing.Size(272, 10);
@@ -1052,7 +1057,8 @@
             // 
             this.btnStep2.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btnStep2.AutoRoundedCorners = true;
-            this.btnStep2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnStep2.BackColor = System.Drawing.Color.Transparent;
+            this.btnStep2.BorderColor = System.Drawing.Color.Gray;
             this.btnStep2.BorderRadius = 16;
             this.btnStep2.BorderThickness = 1;
             this.btnStep2.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
@@ -1061,7 +1067,7 @@
             this.btnStep2.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.btnStep2.FillColor = System.Drawing.Color.Transparent;
             this.btnStep2.Font = new System.Drawing.Font("Arial", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnStep2.ForeColor = System.Drawing.Color.Black;
+            this.btnStep2.ForeColor = System.Drawing.Color.Gray;
             this.btnStep2.Location = new System.Drawing.Point(184, 12);
             this.btnStep2.Margin = new System.Windows.Forms.Padding(0);
             this.btnStep2.Name = "btnStep2";
@@ -1075,7 +1081,7 @@
             // 
             this.btnStep1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btnStep1.AutoRoundedCorners = true;
-            this.btnStep1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnStep1.BackColor = System.Drawing.Color.Transparent;
             this.btnStep1.BorderColor = System.Drawing.Color.White;
             this.btnStep1.BorderRadius = 16;
             this.btnStep1.BorderThickness = 1;
@@ -1111,17 +1117,18 @@
             this.dataGridViewImageColumn1.Resizable = System.Windows.Forms.DataGridViewTriState.True;
             this.dataGridViewImageColumn1.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
             // 
-            // guna2Panel8
+            // pnlPayMethodTitle
             // 
-            this.guna2Panel8.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.guna2Panel8.AutoRoundedCorners = true;
-            this.guna2Panel8.BorderRadius = 25;
-            this.guna2Panel8.Controls.Add(this.label5);
-            this.guna2Panel8.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.guna2Panel8.Location = new System.Drawing.Point(362, 8);
-            this.guna2Panel8.Name = "guna2Panel8";
-            this.guna2Panel8.Size = new System.Drawing.Size(282, 53);
-            this.guna2Panel8.TabIndex = 0;
+            this.pnlPayMethodTitle.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.pnlPayMethodTitle.AutoRoundedCorners = true;
+            this.pnlPayMethodTitle.BackColor = System.Drawing.Color.Transparent;
+            this.pnlPayMethodTitle.BorderRadius = 25;
+            this.pnlPayMethodTitle.Controls.Add(this.label5);
+            this.pnlPayMethodTitle.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.pnlPayMethodTitle.Location = new System.Drawing.Point(362, 8);
+            this.pnlPayMethodTitle.Name = "pnlPayMethodTitle";
+            this.pnlPayMethodTitle.Size = new System.Drawing.Size(282, 53);
+            this.pnlPayMethodTitle.TabIndex = 0;
             // 
             // label5
             // 
@@ -1140,7 +1147,8 @@
             // 
             this.btnStep3.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btnStep3.AutoRoundedCorners = true;
-            this.btnStep3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.btnStep3.BackColor = System.Drawing.Color.Transparent;
+            this.btnStep3.BorderColor = System.Drawing.Color.Gray;
             this.btnStep3.BorderRadius = 16;
             this.btnStep3.BorderThickness = 1;
             this.btnStep3.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
@@ -1149,7 +1157,7 @@
             this.btnStep3.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
             this.btnStep3.FillColor = System.Drawing.Color.Transparent;
             this.btnStep3.Font = new System.Drawing.Font("Arial", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnStep3.ForeColor = System.Drawing.Color.Black;
+            this.btnStep3.ForeColor = System.Drawing.Color.Gray;
             this.btnStep3.Location = new System.Drawing.Point(342, 12);
             this.btnStep3.Margin = new System.Windows.Forms.Padding(0);
             this.btnStep3.Name = "btnStep3";
@@ -1163,28 +1171,30 @@
             // 
             this.separatorStep3.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.separatorStep3.BackColor = System.Drawing.Color.Transparent;
-            this.separatorStep3.FillColor = System.Drawing.Color.Black;
+            this.separatorStep3.FillColor = System.Drawing.Color.Gray;
             this.separatorStep3.FillThickness = 3;
             this.separatorStep3.Location = new System.Drawing.Point(216, 25);
             this.separatorStep3.Name = "separatorStep3";
             this.separatorStep3.Size = new System.Drawing.Size(138, 10);
             this.separatorStep3.TabIndex = 16;
             // 
-            // guna2Panel10
+            // pnlSteps
             // 
-            this.guna2Panel10.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.guna2Panel10.AutoRoundedCorners = true;
-            this.guna2Panel10.BorderRadius = 28;
-            this.guna2Panel10.Controls.Add(this.btnStep3);
-            this.guna2Panel10.Controls.Add(this.btnStep2);
-            this.guna2Panel10.Controls.Add(this.separatorStep3);
-            this.guna2Panel10.Controls.Add(this.btnStep1);
-            this.guna2Panel10.Controls.Add(this.separatorStep2);
-            this.guna2Panel10.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.guna2Panel10.Location = new System.Drawing.Point(315, 20);
-            this.guna2Panel10.Name = "guna2Panel10";
-            this.guna2Panel10.Size = new System.Drawing.Size(398, 58);
-            this.guna2Panel10.TabIndex = 18;
+            this.pnlSteps.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.pnlSteps.AutoRoundedCorners = true;
+            this.pnlSteps.BackColor = System.Drawing.Color.Transparent;
+            this.pnlSteps.BorderRadius = 28;
+            this.pnlSteps.Controls.Add(this.btnStep3);
+            this.pnlSteps.Controls.Add(this.btnStep2);
+            this.pnlSteps.Controls.Add(this.separatorStep3);
+            this.pnlSteps.Controls.Add(this.btnStep1);
+            this.pnlSteps.Controls.Add(this.separatorStep2);
+            this.pnlSteps.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.pnlSteps.Location = new System.Drawing.Point(315, 20);
+            this.pnlSteps.Name = "pnlSteps";
+            this.pnlSteps.Size = new System.Drawing.Size(398, 58);
+            this.pnlSteps.TabIndex = 18;
+            this.pnlSteps.UseTransparentBackground = true;
             // 
             // btnBack
             // 
@@ -1207,63 +1217,67 @@
             this.btnBack.Text = "Volver";
             this.btnBack.Click += new System.EventHandler(this.btnBack_Click);
             // 
-            // guna2Panel1
+            // pnlStepBack
             // 
-            this.guna2Panel1.BorderRadius = 35;
-            this.guna2Panel1.Controls.Add(this.btnBack);
-            this.guna2Panel1.CustomizableEdges.BottomRight = false;
-            this.guna2Panel1.CustomizableEdges.TopLeft = false;
-            this.guna2Panel1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.guna2Panel1.Location = new System.Drawing.Point(198, 20);
-            this.guna2Panel1.Name = "guna2Panel1";
-            this.guna2Panel1.Size = new System.Drawing.Size(107, 58);
-            this.guna2Panel1.TabIndex = 10;
+            this.pnlStepBack.BackColor = System.Drawing.Color.Transparent;
+            this.pnlStepBack.BorderRadius = 35;
+            this.pnlStepBack.Controls.Add(this.btnBack);
+            this.pnlStepBack.CustomizableEdges.BottomRight = false;
+            this.pnlStepBack.CustomizableEdges.TopLeft = false;
+            this.pnlStepBack.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.pnlStepBack.Location = new System.Drawing.Point(198, 20);
+            this.pnlStepBack.Name = "pnlStepBack";
+            this.pnlStepBack.Size = new System.Drawing.Size(107, 58);
+            this.pnlStepBack.TabIndex = 10;
+            this.pnlStepBack.UseTransparentBackground = true;
             // 
-            // guna2Panel11
+            // pnlNextStep
             // 
-            this.guna2Panel11.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.guna2Panel11.BorderRadius = 35;
-            this.guna2Panel11.Controls.Add(this.btnNext);
-            this.guna2Panel11.CustomizableEdges.BottomLeft = false;
-            this.guna2Panel11.CustomizableEdges.TopRight = false;
-            this.guna2Panel11.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.guna2Panel11.Location = new System.Drawing.Point(723, 20);
-            this.guna2Panel11.Name = "guna2Panel11";
-            this.guna2Panel11.Size = new System.Drawing.Size(107, 58);
-            this.guna2Panel11.TabIndex = 11;
+            this.pnlNextStep.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.pnlNextStep.BackColor = System.Drawing.Color.Transparent;
+            this.pnlNextStep.BorderRadius = 35;
+            this.pnlNextStep.Controls.Add(this.btnNext);
+            this.pnlNextStep.CustomizableEdges.BottomLeft = false;
+            this.pnlNextStep.CustomizableEdges.TopRight = false;
+            this.pnlNextStep.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.pnlNextStep.Location = new System.Drawing.Point(723, 20);
+            this.pnlNextStep.Name = "pnlNextStep";
+            this.pnlNextStep.Size = new System.Drawing.Size(107, 58);
+            this.pnlNextStep.TabIndex = 11;
+            this.pnlNextStep.UseTransparentBackground = true;
             // 
             // pnlStep3
             // 
             this.pnlStep3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.pnlStep3.Controls.Add(this.guna2Panel8);
-            this.pnlStep3.Controls.Add(this.guna2Panel9);
-            this.pnlStep3.Controls.Add(this.guna2Panel6);
-            this.pnlStep3.Controls.Add(this.guna2Panel12);
+            this.pnlStep3.Controls.Add(this.pnlPayMethodTitle);
+            this.pnlStep3.Controls.Add(this.pnlPayBackground);
+            this.pnlStep3.Controls.Add(this.pnlPayMethod);
+            this.pnlStep3.Controls.Add(this.pnlPayButtons);
             this.pnlStep3.Location = new System.Drawing.Point(5000, 88);
-            this.pnlStep3.Margin = new System.Windows.Forms.Padding(2);
+            this.pnlStep3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pnlStep3.Name = "pnlStep3";
             this.pnlStep3.Size = new System.Drawing.Size(1029, 462);
             this.pnlStep3.TabIndex = 19;
             // 
-            // guna2Panel9
+            // pnlPayBackground
             // 
-            this.guna2Panel9.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.guna2Panel9.BackColor = System.Drawing.Color.Transparent;
-            this.guna2Panel9.BorderRadius = 40;
-            this.guna2Panel9.Controls.Add(this.pnlDebitMethod);
-            this.guna2Panel9.Controls.Add(this.pnlCashMethod);
-            this.guna2Panel9.Controls.Add(this.guna2Separator1);
-            this.guna2Panel9.Controls.Add(this.lblPaymentMethod);
-            this.guna2Panel9.Controls.Add(this.pnlCreditMethod);
-            this.guna2Panel9.CustomizableEdges.BottomRight = false;
-            this.guna2Panel9.CustomizableEdges.TopLeft = false;
-            this.guna2Panel9.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.guna2Panel9.Location = new System.Drawing.Point(239, 70);
-            this.guna2Panel9.Name = "guna2Panel9";
-            this.guna2Panel9.Size = new System.Drawing.Size(556, 362);
-            this.guna2Panel9.TabIndex = 37;
-            this.guna2Panel9.UseTransparentBackground = true;
+            this.pnlPayBackground.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.pnlPayBackground.BackColor = System.Drawing.Color.Transparent;
+            this.pnlPayBackground.BorderRadius = 40;
+            this.pnlPayBackground.Controls.Add(this.pnlDebitMethod);
+            this.pnlPayBackground.Controls.Add(this.pnlCashMethod);
+            this.pnlPayBackground.Controls.Add(this.guna2Separator1);
+            this.pnlPayBackground.Controls.Add(this.lblPaymentMethod);
+            this.pnlPayBackground.Controls.Add(this.pnlCreditMethod);
+            this.pnlPayBackground.CustomizableEdges.BottomRight = false;
+            this.pnlPayBackground.CustomizableEdges.TopLeft = false;
+            this.pnlPayBackground.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.pnlPayBackground.Location = new System.Drawing.Point(239, 70);
+            this.pnlPayBackground.Name = "pnlPayBackground";
+            this.pnlPayBackground.Size = new System.Drawing.Size(556, 362);
+            this.pnlPayBackground.TabIndex = 37;
+            this.pnlPayBackground.UseTransparentBackground = true;
             // 
             // pnlDebitMethod
             // 
@@ -1592,27 +1606,28 @@
             this.label19.TabIndex = 130;
             this.label19.Text = "Cuotas";
             // 
-            // guna2Panel6
+            // pnlPayMethod
             // 
-            this.guna2Panel6.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.guna2Panel6.BorderRadius = 40;
-            this.guna2Panel6.Controls.Add(this.guna2Separator7);
-            this.guna2Panel6.Controls.Add(this.guna2Separator6);
-            this.guna2Panel6.Controls.Add(this.label13);
-            this.guna2Panel6.Controls.Add(this.label11);
-            this.guna2Panel6.Controls.Add(this.label10);
-            this.guna2Panel6.Controls.Add(this.checkBDebit);
-            this.guna2Panel6.Controls.Add(this.checkBCredit);
-            this.guna2Panel6.Controls.Add(this.checkBCash);
-            this.guna2Panel6.Controls.Add(this.guna2Separator2);
-            this.guna2Panel6.Controls.Add(this.label9);
-            this.guna2Panel6.CustomizableEdges.BottomRight = false;
-            this.guna2Panel6.CustomizableEdges.TopRight = false;
-            this.guna2Panel6.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.guna2Panel6.Location = new System.Drawing.Point(80, 70);
-            this.guna2Panel6.Name = "guna2Panel6";
-            this.guna2Panel6.Size = new System.Drawing.Size(205, 166);
-            this.guna2Panel6.TabIndex = 38;
+            this.pnlPayMethod.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.pnlPayMethod.BackColor = System.Drawing.Color.Transparent;
+            this.pnlPayMethod.BorderRadius = 40;
+            this.pnlPayMethod.Controls.Add(this.guna2Separator7);
+            this.pnlPayMethod.Controls.Add(this.guna2Separator6);
+            this.pnlPayMethod.Controls.Add(this.label13);
+            this.pnlPayMethod.Controls.Add(this.label11);
+            this.pnlPayMethod.Controls.Add(this.label10);
+            this.pnlPayMethod.Controls.Add(this.checkBDebit);
+            this.pnlPayMethod.Controls.Add(this.checkBCredit);
+            this.pnlPayMethod.Controls.Add(this.checkBCash);
+            this.pnlPayMethod.Controls.Add(this.guna2Separator2);
+            this.pnlPayMethod.Controls.Add(this.label9);
+            this.pnlPayMethod.CustomizableEdges.BottomRight = false;
+            this.pnlPayMethod.CustomizableEdges.TopRight = false;
+            this.pnlPayMethod.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.pnlPayMethod.Location = new System.Drawing.Point(80, 70);
+            this.pnlPayMethod.Name = "pnlPayMethod";
+            this.pnlPayMethod.Size = new System.Drawing.Size(205, 166);
+            this.pnlPayMethod.TabIndex = 38;
             // 
             // guna2Separator7
             // 
@@ -1749,17 +1764,18 @@
             this.label9.Text = "Método de pago";
             this.label9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // guna2Panel12
+            // pnlPayButtons
             // 
-            this.guna2Panel12.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.guna2Panel12.BorderRadius = 25;
-            this.guna2Panel12.Controls.Add(this.guna2Button1);
-            this.guna2Panel12.Controls.Add(this.btnSubmitTicket);
-            this.guna2Panel12.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.guna2Panel12.Location = new System.Drawing.Point(734, 345);
-            this.guna2Panel12.Name = "guna2Panel12";
-            this.guna2Panel12.Size = new System.Drawing.Size(216, 87);
-            this.guna2Panel12.TabIndex = 39;
+            this.pnlPayButtons.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.pnlPayButtons.BackColor = System.Drawing.Color.Transparent;
+            this.pnlPayButtons.BorderRadius = 25;
+            this.pnlPayButtons.Controls.Add(this.guna2Button1);
+            this.pnlPayButtons.Controls.Add(this.btnSubmitTicket);
+            this.pnlPayButtons.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.pnlPayButtons.Location = new System.Drawing.Point(734, 345);
+            this.pnlPayButtons.Name = "pnlPayButtons";
+            this.pnlPayButtons.Size = new System.Drawing.Size(216, 87);
+            this.pnlPayButtons.TabIndex = 39;
             // 
             // guna2Button1
             // 
@@ -1803,18 +1819,20 @@
             this.btnSubmitTicket.TabIndex = 10;
             this.btnSubmitTicket.Text = "Enviar ticket";
             // 
-            // guna2Panel5
+            // pnlFormTitle
             // 
-            this.guna2Panel5.BorderRadius = 20;
-            this.guna2Panel5.Controls.Add(this.label6);
-            this.guna2Panel5.Controls.Add(this.guna2PictureBox2);
-            this.guna2Panel5.CustomizableEdges.TopLeft = false;
-            this.guna2Panel5.CustomizableEdges.TopRight = false;
-            this.guna2Panel5.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.guna2Panel5.Location = new System.Drawing.Point(26, -1);
-            this.guna2Panel5.Name = "guna2Panel5";
-            this.guna2Panel5.Size = new System.Drawing.Size(95, 80);
-            this.guna2Panel5.TabIndex = 20;
+            this.pnlFormTitle.BackColor = System.Drawing.Color.Transparent;
+            this.pnlFormTitle.BorderRadius = 20;
+            this.pnlFormTitle.Controls.Add(this.label6);
+            this.pnlFormTitle.Controls.Add(this.guna2PictureBox2);
+            this.pnlFormTitle.CustomizableEdges.TopLeft = false;
+            this.pnlFormTitle.CustomizableEdges.TopRight = false;
+            this.pnlFormTitle.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.pnlFormTitle.Location = new System.Drawing.Point(26, -1);
+            this.pnlFormTitle.Name = "pnlFormTitle";
+            this.pnlFormTitle.Size = new System.Drawing.Size(95, 80);
+            this.pnlFormTitle.TabIndex = 20;
+            this.pnlFormTitle.UseTransparentBackground = true;
             // 
             // label6
             // 
@@ -1842,20 +1860,30 @@
             this.guna2PictureBox2.TabIndex = 6;
             this.guna2PictureBox2.TabStop = false;
             // 
+            // pnlBackground
+            // 
+            this.pnlBackground.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pnlBackground.Location = new System.Drawing.Point(0, 0);
+            this.pnlBackground.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pnlBackground.Name = "pnlBackground";
+            this.pnlBackground.Size = new System.Drawing.Size(1028, 634);
+            this.pnlBackground.TabIndex = 21;
+            // 
             // FrmMakeSale
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Gray;
             this.ClientSize = new System.Drawing.Size(1028, 634);
-            this.Controls.Add(this.guna2Panel5);
+            this.Controls.Add(this.pnlFormTitle);
             this.Controls.Add(this.pnlStep3);
-            this.Controls.Add(this.guna2Panel11);
-            this.Controls.Add(this.guna2Panel10);
+            this.Controls.Add(this.pnlNextStep);
+            this.Controls.Add(this.pnlSteps);
             this.Controls.Add(this.pnlStep2);
             this.Controls.Add(this.pnlFooter);
-            this.Controls.Add(this.guna2Panel1);
+            this.Controls.Add(this.pnlStepBack);
             this.Controls.Add(this.dataGridProducts);
+            this.Controls.Add(this.pnlBackground);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FrmMakeSale";
             this.Text = "MakeSale";
@@ -1873,18 +1901,18 @@
             this.pnlStep2.ResumeLayout(false);
             this.pnlRegister.ResumeLayout(false);
             this.pnlRegister.PerformLayout();
-            this.guna2Panel4.ResumeLayout(false);
-            this.guna2Panel4.PerformLayout();
-            this.guna2Panel3.ResumeLayout(false);
-            this.guna2Panel3.PerformLayout();
-            this.guna2Panel2.ResumeLayout(false);
-            this.guna2Panel2.PerformLayout();
-            this.guna2Panel8.ResumeLayout(false);
-            this.guna2Panel10.ResumeLayout(false);
-            this.guna2Panel1.ResumeLayout(false);
-            this.guna2Panel11.ResumeLayout(false);
+            this.pnlMoney.ResumeLayout(false);
+            this.pnlMoney.PerformLayout();
+            this.pnlSaleData.ResumeLayout(false);
+            this.pnlSaleData.PerformLayout();
+            this.pnlClientData.ResumeLayout(false);
+            this.pnlClientData.PerformLayout();
+            this.pnlPayMethodTitle.ResumeLayout(false);
+            this.pnlSteps.ResumeLayout(false);
+            this.pnlStepBack.ResumeLayout(false);
+            this.pnlNextStep.ResumeLayout(false);
             this.pnlStep3.ResumeLayout(false);
-            this.guna2Panel9.ResumeLayout(false);
+            this.pnlPayBackground.ResumeLayout(false);
             this.pnlDebitMethod.ResumeLayout(false);
             this.pnlDebitMethod.PerformLayout();
             this.pnlCashMethod.ResumeLayout(false);
@@ -1892,10 +1920,10 @@
             this.guna2Panel7.ResumeLayout(false);
             this.pnlCreditMethod.ResumeLayout(false);
             this.pnlCreditMethod.PerformLayout();
-            this.guna2Panel6.ResumeLayout(false);
-            this.guna2Panel6.PerformLayout();
-            this.guna2Panel12.ResumeLayout(false);
-            this.guna2Panel5.ResumeLayout(false);
+            this.pnlPayMethod.ResumeLayout(false);
+            this.pnlPayMethod.PerformLayout();
+            this.pnlPayButtons.ResumeLayout(false);
+            this.pnlFormTitle.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox2)).EndInit();
             this.ResumeLayout(false);
 
@@ -1922,16 +1950,16 @@
         private Guna.UI2.WinForms.Guna2VSeparator guna2VSeparator1;
         private Guna.UI2.WinForms.Guna2Panel pnlStep2;
         private Guna.UI2.WinForms.Guna2TextBox guna2TextBox1;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel2;
+        private Guna.UI2.WinForms.Guna2Panel pnlClientData;
         private System.Windows.Forms.Label label2;
         private Guna.UI2.WinForms.Guna2Separator guna2Separator3;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label3;
         private Guna.UI2.WinForms.Guna2ComboBox comboBoxIsRegistred;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel3;
+        private Guna.UI2.WinForms.Guna2Panel pnlSaleData;
         private Guna.UI2.WinForms.Guna2Separator guna2Separator4;
         private System.Windows.Forms.Label label8;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel4;
+        private Guna.UI2.WinForms.Guna2Panel pnlMoney;
         private Guna.UI2.WinForms.Guna2Separator guna2Separator5;
         private System.Windows.Forms.Label label12;
         private Guna.UI2.WinForms.Guna2ComboBox comboBoxShip;
@@ -1952,7 +1980,7 @@
         private Guna.UI2.WinForms.Guna2Button btnStep1;
         private System.Windows.Forms.Timer timerResChanges;
         private System.Windows.Forms.DataGridViewImageColumn dataGridViewImageColumn1;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel8;
+        private Guna.UI2.WinForms.Guna2Panel pnlPayMethodTitle;
         private System.Windows.Forms.Label label5;
         private Guna.UI2.WinForms.Guna2Button btnStep3;
         private Guna.UI2.WinForms.Guna2Separator separatorStep3;
@@ -1968,12 +1996,12 @@
         private Guna.UI2.WinForms.Guna2Panel pnlRegister;
         private Guna.UI2.WinForms.Guna2Button btnRegisterClient;
         private System.Windows.Forms.Label label4;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel10;
+        private Guna.UI2.WinForms.Guna2Panel pnlSteps;
         private Guna.UI2.WinForms.Guna2Button btnBack;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel1;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel11;
+        private Guna.UI2.WinForms.Guna2Panel pnlStepBack;
+        private Guna.UI2.WinForms.Guna2Panel pnlNextStep;
         private Guna.UI2.WinForms.Guna2Panel pnlStep3;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel9;
+        private Guna.UI2.WinForms.Guna2Panel pnlPayBackground;
         private Guna.UI2.WinForms.Guna2Panel pnlDebitMethod;
         private Guna.UI2.WinForms.Guna2DateTimePicker dateTimePickerExpiration;
         private Guna.UI2.WinForms.Guna2TextBox txtCardNumber;
@@ -1994,7 +2022,7 @@
         private Guna.UI2.WinForms.Guna2Panel pnlCreditMethod;
         private Guna.UI2.WinForms.Guna2TextBox txtDues;
         private System.Windows.Forms.Label label19;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel6;
+        private Guna.UI2.WinForms.Guna2Panel pnlPayMethod;
         private Guna.UI2.WinForms.Guna2Separator guna2Separator7;
         private Guna.UI2.WinForms.Guna2Separator guna2Separator6;
         private System.Windows.Forms.Label label13;
@@ -2005,11 +2033,12 @@
         private Guna.UI2.WinForms.Guna2CustomCheckBox checkBCash;
         private Guna.UI2.WinForms.Guna2Separator guna2Separator2;
         private System.Windows.Forms.Label label9;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel12;
+        private Guna.UI2.WinForms.Guna2Panel pnlPayButtons;
         private Guna.UI2.WinForms.Guna2Button guna2Button1;
         private Guna.UI2.WinForms.Guna2Button btnSubmitTicket;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel5;
+        private Guna.UI2.WinForms.Guna2Panel pnlFormTitle;
         private System.Windows.Forms.Label label6;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox2;
+        private Guna.UI2.WinForms.Guna2Panel pnlBackground;
     }
 }

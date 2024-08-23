@@ -16,10 +16,10 @@ namespace Graphic
         private Boolean open = false;
         private bool confirmOpen = false;
 
-        public FrmProducts(string teme)
+        public FrmProducts(Color color1, Color color2, Color color3, Color background)
         {
             InitializeComponent();
-            TemeChange(teme);
+            TemeChange(color1, color2, color3, background);
 
             timerResChanges.Start();
         }
@@ -83,121 +83,34 @@ namespace Graphic
 
         }
 
-        private void TemeChange(string teme)
+
+        private void TemeChange(Color color1, Color color2, Color color3, Color background)
         {
-            Guna2Panel[] mainColor = { pnlFooterConteiner, pnlOpenAndCloseList, pnlDataBackground, pnlData1, pnlData2, pnlData3, pnlButtonConteiner }; 
-            Guna2Panel[] conteinerColor = { pnlConteiner, pnlTopList, pnlListConteiner};
-            Guna2Panel[] lightColor = {pnlBackground, pnlListConteiner, pnlList };
-            Guna2Button[] buttonsForeColor = { btnClean, btnAddProduct };
-            Label[] labelsForeColor = {  lblA2, lblA3, lblAmount, lblName, lblPrice, lblSupplier, lblUbication};
 
-            switch (teme)
+            Guna2Panel[] mainColor = { pnlFormTitle, pnlFooterConteiner, pnlOpenAndCloseList, pnlDataBackground, pnlData1, pnlData2, pnlData3, pnlButtonConteiner };
+            Guna2Panel[] conteinerColor = { pnlConteiner, pnlTopList, pnlListConteiner };
+            Guna2Panel[] lightColor = { pnlBackground, pnlListConteiner, pnlList };
+            Guna2Panel[] backgroundColor = { pnlMenuConteiner };
+
+            foreach (Guna2Panel darkColor in mainColor)
             {
-                case "dark":
-                    foreach (Guna2Panel colorDark in mainColor)
-                    {
-                        colorDark.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64))))); ; 
-
-                    }
-                    foreach (Guna2Panel colorConteiner in conteinerColor)
-                    {
-                        colorConteiner.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(84)))), ((int)(((byte)(84)))), ((int)(((byte)(84))))); ;
-
-                    }
-
-                    foreach (Guna2Panel lightColors in lightColor)
-                    {
-                        lightColors.FillColor =
-                            System.Drawing.Color.Gray;
-                    }
-
-                    pnlMenuConteiner.FillColor = System.Drawing.Color.Gray;
-
-                    break;
-
-
-                case "red":
-                    foreach (Guna2Panel colorDark in mainColor)
-                    {
-                        colorDark.FillColor = System.Drawing.Color.IndianRed;
-                    }
-                    foreach (Guna2Panel colorConteiner in conteinerColor)
-                    {
-                        colorConteiner.FillColor =
-                            System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128))))); ;
-                    }
-                    foreach (Guna2Panel lightColors in lightColor)
-                    {
-                        lightColors.FillColor = 
-                            System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192))))); ;
-                    }
-
-                    pnlMenuConteiner.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128))))); ;
-
-                    break;
-
-
-                case "blue":
-                    foreach (Guna2Panel colorDark in mainColor)
-                    {
-                        colorDark.FillColor = System.Drawing.Color.RoyalBlue;
-                    }
-                    foreach (Guna2Panel colorConteiner in conteinerColor)
-                    {
-                        colorConteiner.FillColor = System.Drawing.Color.CornflowerBlue;
-                    }
-                    foreach (Label foreColor in labelsForeColor)
-                    {
-                        foreColor.ForeColor = System.Drawing.Color.White;
-
-                    }
-                    foreach (Guna2Button foreColor in buttonsForeColor)
-                    {
-                        foreColor.ForeColor = System.Drawing.Color.White;
-
-                    }
-                    foreach (Guna2Panel lightColors in lightColor)
-                    {
-                        lightColors.FillColor = System.Drawing.Color.LightSteelBlue;
-                    }
-
-
-                   
-                    break;
-
-
-                case "light":
-                    foreach (Guna2Panel colorDark in mainColor)
-                    {
-                        colorDark.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(88)))), ((int)(((byte)(120)))), ((int)(((byte)(114))))); ; 
-                    }
-                    foreach (Guna2Panel colorConteiner in conteinerColor)
-                    {
-                        colorConteiner.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(147)))), ((int)(((byte)(177)))), ((int)(((byte)(167))))); ;
-                    }
-                    foreach (Label foreColor in labelsForeColor)
-                    {
-                        foreColor.ForeColor = System.Drawing.Color.White;
-
-                    }
-                    foreach (Guna2Button foreColor in buttonsForeColor)
-                    {
-                        foreColor.ForeColor = System.Drawing.Color.White;
-
-                    }
-                    foreach (Guna2Panel lightColors in lightColor)
-                    {
-                        lightColors.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(122)))), ((int)(((byte)(145)))), ((int)(((byte)(141))))); ;
-                    }
-
-                    break;
-
-
-                default:
-                    Console.WriteLine("Opción no válida");
-                    break;
+                darkColor.FillColor = color1;
             }
-        }
+            foreach (Guna2Panel secondColor in conteinerColor)
+            {
+                secondColor.FillColor = color2;
+            }
+            foreach (Guna2Panel lightColors in lightColor)
+            {
+                lightColors.FillColor = color3;
+            }
+            foreach (Guna2Panel backColor in backgroundColor)
+            {
+                backColor.FillColor = background;
+            }
+
+
+          }
 
 
 

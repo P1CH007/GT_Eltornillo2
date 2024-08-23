@@ -38,15 +38,19 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.picBoxElTornilloLogo = new System.Windows.Forms.PictureBox();
             this.pnlLogConteiner = new Guna.UI2.WinForms.Guna2Panel();
-            this.lblSubTitle = new System.Windows.Forms.Label();
-            this.txtGmail = new Guna.UI2.WinForms.Guna2TextBox();
             this.txtPassword = new Guna.UI2.WinForms.Guna2TextBox();
+            this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
+            this.picBHidePass = new Guna.UI2.WinForms.Guna2PictureBox();
+            this.picBSeePass = new Guna.UI2.WinForms.Guna2PictureBox();
+            this.txtGmail = new Guna.UI2.WinForms.Guna2TextBox();
             this.btnLogIn = new Guna.UI2.WinForms.Guna2Button();
             this.lblForgotPass = new System.Windows.Forms.LinkLabel();
             this.picBoxPassword = new System.Windows.Forms.PictureBox();
             this.picBoxUser = new System.Windows.Forms.PictureBox();
             this.lblPassword = new System.Windows.Forms.Label();
             this.lblUser = new System.Windows.Forms.Label();
+            this.pnlTitle = new Guna.UI2.WinForms.Guna2Panel();
+            this.lblSubTitle = new System.Windows.Forms.Label();
             this.pnlTemesConteiner = new Guna.UI2.WinForms.Guna2Panel();
             this.picBoxRedTeme = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.picBoxDarkTeme = new Guna.UI2.WinForms.Guna2CirclePictureBox();
@@ -57,10 +61,8 @@
             this.picBoxBlueTeme = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.picBBlueSelected = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.picBoxBackGround = new System.Windows.Forms.PictureBox();
-            this.picBSeePass = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.picBHidePass = new Guna.UI2.WinForms.Guna2PictureBox();
-            this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
-            this.guna2Panel3 = new Guna.UI2.WinForms.Guna2Panel();
+            this.picBOrangeTheme = new Guna.UI2.WinForms.Guna2CirclePictureBox();
+            this.picBOrangeThemeSelected = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.pnlTop.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picBMinimize)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
@@ -68,8 +70,12 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBoxElTornilloLogo)).BeginInit();
             this.pnlLogConteiner.SuspendLayout();
+            this.guna2Panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.picBHidePass)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBSeePass)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBoxPassword)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBoxUser)).BeginInit();
+            this.pnlTitle.SuspendLayout();
             this.pnlTemesConteiner.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picBoxRedTeme)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBoxDarkTeme)).BeginInit();
@@ -80,10 +86,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.picBoxBlueTeme)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBBlueSelected)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBoxBackGround)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picBSeePass)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picBHidePass)).BeginInit();
-            this.guna2Panel1.SuspendLayout();
-            this.guna2Panel3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.picBOrangeTheme)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBOrangeThemeSelected)).BeginInit();
             this.SuspendLayout();
             // 
             // pnlTop
@@ -203,7 +207,7 @@
             this.pnlLogConteiner.Controls.Add(this.picBoxUser);
             this.pnlLogConteiner.Controls.Add(this.lblPassword);
             this.pnlLogConteiner.Controls.Add(this.lblUser);
-            this.pnlLogConteiner.Controls.Add(this.guna2Panel3);
+            this.pnlLogConteiner.Controls.Add(this.pnlTitle);
             this.pnlLogConteiner.CustomBorderColor = System.Drawing.Color.Transparent;
             this.pnlLogConteiner.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.pnlLogConteiner.Location = new System.Drawing.Point(66, 93);
@@ -211,40 +215,6 @@
             this.pnlLogConteiner.Size = new System.Drawing.Size(278, 283);
             this.pnlLogConteiner.TabIndex = 3;
             this.pnlLogConteiner.UseTransparentBackground = true;
-            // 
-            // lblSubTitle
-            // 
-            this.lblSubTitle.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSubTitle.ForeColor = System.Drawing.Color.White;
-            this.lblSubTitle.Location = new System.Drawing.Point(0, 0);
-            this.lblSubTitle.Name = "lblSubTitle";
-            this.lblSubTitle.Size = new System.Drawing.Size(200, 35);
-            this.lblSubTitle.TabIndex = 6;
-            this.lblSubTitle.Text = "Login";
-            this.lblSubTitle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // txtGmail
-            // 
-            this.txtGmail.AutoRoundedCorners = true;
-            this.txtGmail.BorderRadius = 9;
-            this.txtGmail.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.txtGmail.DefaultText = "";
-            this.txtGmail.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.txtGmail.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
-            this.txtGmail.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.txtGmail.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.txtGmail.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.txtGmail.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.txtGmail.ForeColor = System.Drawing.Color.Black;
-            this.txtGmail.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.txtGmail.Location = new System.Drawing.Point(50, 75);
-            this.txtGmail.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.txtGmail.Name = "txtGmail";
-            this.txtGmail.PasswordChar = '\0';
-            this.txtGmail.PlaceholderText = "";
-            this.txtGmail.SelectedText = "";
-            this.txtGmail.Size = new System.Drawing.Size(212, 20);
-            this.txtGmail.TabIndex = 1;
             // 
             // txtPassword
             // 
@@ -270,6 +240,68 @@
             this.txtPassword.SelectedText = "";
             this.txtPassword.Size = new System.Drawing.Size(212, 20);
             this.txtPassword.TabIndex = 2;
+            // 
+            // guna2Panel1
+            // 
+            this.guna2Panel1.AutoRoundedCorners = true;
+            this.guna2Panel1.BorderRadius = 10;
+            this.guna2Panel1.Controls.Add(this.picBHidePass);
+            this.guna2Panel1.Controls.Add(this.picBSeePass);
+            this.guna2Panel1.CustomizableEdges.TopLeft = false;
+            this.guna2Panel1.CustomizableEdges.TopRight = false;
+            this.guna2Panel1.FillColor = System.Drawing.Color.White;
+            this.guna2Panel1.Location = new System.Drawing.Point(229, 145);
+            this.guna2Panel1.Name = "guna2Panel1";
+            this.guna2Panel1.Size = new System.Drawing.Size(24, 22);
+            this.guna2Panel1.TabIndex = 9;
+            // 
+            // picBHidePass
+            // 
+            this.picBHidePass.Image = ((System.Drawing.Image)(resources.GetObject("picBHidePass.Image")));
+            this.picBHidePass.ImageRotate = 0F;
+            this.picBHidePass.Location = new System.Drawing.Point(-1, 3);
+            this.picBHidePass.Name = "picBHidePass";
+            this.picBHidePass.Size = new System.Drawing.Size(26, 17);
+            this.picBHidePass.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.picBHidePass.TabIndex = 8;
+            this.picBHidePass.TabStop = false;
+            this.picBHidePass.Click += new System.EventHandler(this.picBHidePass_Click);
+            // 
+            // picBSeePass
+            // 
+            this.picBSeePass.Image = ((System.Drawing.Image)(resources.GetObject("picBSeePass.Image")));
+            this.picBSeePass.ImageRotate = 0F;
+            this.picBSeePass.Location = new System.Drawing.Point(0, 3);
+            this.picBSeePass.Name = "picBSeePass";
+            this.picBSeePass.Size = new System.Drawing.Size(24, 17);
+            this.picBSeePass.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.picBSeePass.TabIndex = 7;
+            this.picBSeePass.TabStop = false;
+            this.picBSeePass.Visible = false;
+            this.picBSeePass.Click += new System.EventHandler(this.picBSeePass_Click);
+            // 
+            // txtGmail
+            // 
+            this.txtGmail.AutoRoundedCorners = true;
+            this.txtGmail.BorderRadius = 9;
+            this.txtGmail.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.txtGmail.DefaultText = "";
+            this.txtGmail.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.txtGmail.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.txtGmail.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txtGmail.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.txtGmail.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txtGmail.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.txtGmail.ForeColor = System.Drawing.Color.Black;
+            this.txtGmail.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.txtGmail.Location = new System.Drawing.Point(50, 75);
+            this.txtGmail.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.txtGmail.Name = "txtGmail";
+            this.txtGmail.PasswordChar = '\0';
+            this.txtGmail.PlaceholderText = "";
+            this.txtGmail.SelectedText = "";
+            this.txtGmail.Size = new System.Drawing.Size(212, 20);
+            this.txtGmail.TabIndex = 1;
             // 
             // btnLogIn
             // 
@@ -347,11 +379,35 @@
             this.lblUser.TabIndex = 2;
             this.lblUser.Text = "Usuario";
             // 
+            // pnlTitle
+            // 
+            this.pnlTitle.AutoRoundedCorners = true;
+            this.pnlTitle.BorderRadius = 16;
+            this.pnlTitle.Controls.Add(this.lblSubTitle);
+            this.pnlTitle.FillColor = System.Drawing.Color.DimGray;
+            this.pnlTitle.Location = new System.Drawing.Point(38, 3);
+            this.pnlTitle.Name = "pnlTitle";
+            this.pnlTitle.Size = new System.Drawing.Size(200, 35);
+            this.pnlTitle.TabIndex = 10;
+            // 
+            // lblSubTitle
+            // 
+            this.lblSubTitle.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSubTitle.ForeColor = System.Drawing.Color.White;
+            this.lblSubTitle.Location = new System.Drawing.Point(0, 0);
+            this.lblSubTitle.Name = "lblSubTitle";
+            this.lblSubTitle.Size = new System.Drawing.Size(200, 35);
+            this.lblSubTitle.TabIndex = 6;
+            this.lblSubTitle.Text = "Ingresar";
+            this.lblSubTitle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
             // pnlTemesConteiner
             // 
             this.pnlTemesConteiner.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.pnlTemesConteiner.BackColor = System.Drawing.Color.Transparent;
             this.pnlTemesConteiner.BorderRadius = 20;
+            this.pnlTemesConteiner.Controls.Add(this.picBOrangeTheme);
+            this.pnlTemesConteiner.Controls.Add(this.picBOrangeThemeSelected);
             this.pnlTemesConteiner.Controls.Add(this.picBoxRedTeme);
             this.pnlTemesConteiner.Controls.Add(this.picBoxDarkTeme);
             this.pnlTemesConteiner.Controls.Add(this.picBRedSelected);
@@ -363,9 +419,9 @@
             this.pnlTemesConteiner.CustomizableEdges.TopLeft = false;
             this.pnlTemesConteiner.CustomizableEdges.TopRight = false;
             this.pnlTemesConteiner.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.pnlTemesConteiner.Location = new System.Drawing.Point(133, 382);
+            this.pnlTemesConteiner.Location = new System.Drawing.Point(112, 382);
             this.pnlTemesConteiner.Name = "pnlTemesConteiner";
-            this.pnlTemesConteiner.Size = new System.Drawing.Size(147, 45);
+            this.pnlTemesConteiner.Size = new System.Drawing.Size(186, 45);
             this.pnlTemesConteiner.TabIndex = 85;
             this.pnlTemesConteiner.UseTransparentBackground = true;
             // 
@@ -375,7 +431,7 @@
             this.picBoxRedTeme.BackColor = System.Drawing.Color.Transparent;
             this.picBoxRedTeme.FillColor = System.Drawing.Color.Red;
             this.picBoxRedTeme.ImageRotate = 0F;
-            this.picBoxRedTeme.Location = new System.Drawing.Point(45, 12);
+            this.picBoxRedTeme.Location = new System.Drawing.Point(50, 12);
             this.picBoxRedTeme.Name = "picBoxRedTeme";
             this.picBoxRedTeme.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.picBoxRedTeme.Size = new System.Drawing.Size(20, 20);
@@ -390,7 +446,7 @@
             this.picBoxDarkTeme.BackColor = System.Drawing.Color.Transparent;
             this.picBoxDarkTeme.FillColor = System.Drawing.Color.DimGray;
             this.picBoxDarkTeme.ImageRotate = 0F;
-            this.picBoxDarkTeme.Location = new System.Drawing.Point(13, 12);
+            this.picBoxDarkTeme.Location = new System.Drawing.Point(18, 12);
             this.picBoxDarkTeme.Name = "picBoxDarkTeme";
             this.picBoxDarkTeme.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.picBoxDarkTeme.Size = new System.Drawing.Size(20, 20);
@@ -404,7 +460,7 @@
             this.picBRedSelected.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.picBRedSelected.BackColor = System.Drawing.Color.Transparent;
             this.picBRedSelected.ImageRotate = 0F;
-            this.picBRedSelected.Location = new System.Drawing.Point(43, 10);
+            this.picBRedSelected.Location = new System.Drawing.Point(48, 10);
             this.picBRedSelected.Name = "picBRedSelected";
             this.picBRedSelected.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.picBRedSelected.Size = new System.Drawing.Size(24, 24);
@@ -419,7 +475,7 @@
             this.picBoxLightTeme.BackColor = System.Drawing.Color.Transparent;
             this.picBoxLightTeme.FillColor = System.Drawing.Color.MediumSeaGreen;
             this.picBoxLightTeme.ImageRotate = 0F;
-            this.picBoxLightTeme.Location = new System.Drawing.Point(109, 12);
+            this.picBoxLightTeme.Location = new System.Drawing.Point(114, 12);
             this.picBoxLightTeme.Name = "picBoxLightTeme";
             this.picBoxLightTeme.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.picBoxLightTeme.Size = new System.Drawing.Size(20, 20);
@@ -433,7 +489,7 @@
             this.picBDarkSelected.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.picBDarkSelected.BackColor = System.Drawing.Color.Transparent;
             this.picBDarkSelected.ImageRotate = 0F;
-            this.picBDarkSelected.Location = new System.Drawing.Point(11, 10);
+            this.picBDarkSelected.Location = new System.Drawing.Point(16, 10);
             this.picBDarkSelected.Name = "picBDarkSelected";
             this.picBDarkSelected.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.picBDarkSelected.Size = new System.Drawing.Size(24, 24);
@@ -446,7 +502,7 @@
             this.picBLightSelected.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.picBLightSelected.BackColor = System.Drawing.Color.Transparent;
             this.picBLightSelected.ImageRotate = 0F;
-            this.picBLightSelected.Location = new System.Drawing.Point(107, 10);
+            this.picBLightSelected.Location = new System.Drawing.Point(112, 10);
             this.picBLightSelected.Name = "picBLightSelected";
             this.picBLightSelected.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.picBLightSelected.Size = new System.Drawing.Size(24, 24);
@@ -461,7 +517,7 @@
             this.picBoxBlueTeme.BackColor = System.Drawing.Color.Transparent;
             this.picBoxBlueTeme.FillColor = System.Drawing.Color.MidnightBlue;
             this.picBoxBlueTeme.ImageRotate = 0F;
-            this.picBoxBlueTeme.Location = new System.Drawing.Point(77, 12);
+            this.picBoxBlueTeme.Location = new System.Drawing.Point(82, 12);
             this.picBoxBlueTeme.Name = "picBoxBlueTeme";
             this.picBoxBlueTeme.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.picBoxBlueTeme.Size = new System.Drawing.Size(20, 20);
@@ -475,7 +531,7 @@
             this.picBBlueSelected.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.picBBlueSelected.BackColor = System.Drawing.Color.Transparent;
             this.picBBlueSelected.ImageRotate = 0F;
-            this.picBBlueSelected.Location = new System.Drawing.Point(75, 10);
+            this.picBBlueSelected.Location = new System.Drawing.Point(80, 10);
             this.picBBlueSelected.Name = "picBBlueSelected";
             this.picBBlueSelected.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.picBBlueSelected.Size = new System.Drawing.Size(24, 24);
@@ -494,55 +550,34 @@
             this.picBoxBackGround.TabIndex = 2;
             this.picBoxBackGround.TabStop = false;
             // 
-            // picBSeePass
+            // picBOrangeTheme
             // 
-            this.picBSeePass.Image = ((System.Drawing.Image)(resources.GetObject("picBSeePass.Image")));
-            this.picBSeePass.ImageRotate = 0F;
-            this.picBSeePass.Location = new System.Drawing.Point(0, 3);
-            this.picBSeePass.Name = "picBSeePass";
-            this.picBSeePass.Size = new System.Drawing.Size(24, 17);
-            this.picBSeePass.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.picBSeePass.TabIndex = 7;
-            this.picBSeePass.TabStop = false;
-            this.picBSeePass.Visible = false;
-            this.picBSeePass.Click += new System.EventHandler(this.picBSeePass_Click);
+            this.picBOrangeTheme.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.picBOrangeTheme.BackColor = System.Drawing.Color.Transparent;
+            this.picBOrangeTheme.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(114)))), ((int)(((byte)(44)))));
+            this.picBOrangeTheme.ImageRotate = 0F;
+            this.picBOrangeTheme.Location = new System.Drawing.Point(147, 12);
+            this.picBOrangeTheme.Name = "picBOrangeTheme";
+            this.picBOrangeTheme.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            this.picBOrangeTheme.Size = new System.Drawing.Size(20, 20);
+            this.picBOrangeTheme.TabIndex = 12;
+            this.picBOrangeTheme.TabStop = false;
+            this.picBOrangeTheme.UseTransparentBackground = true;
+            this.picBOrangeTheme.Click += new System.EventHandler(this.picBOrangeTheme_Click);
             // 
-            // picBHidePass
+            // picBOrangeThemeSelected
             // 
-            this.picBHidePass.Image = ((System.Drawing.Image)(resources.GetObject("picBHidePass.Image")));
-            this.picBHidePass.ImageRotate = 0F;
-            this.picBHidePass.Location = new System.Drawing.Point(-1, 3);
-            this.picBHidePass.Name = "picBHidePass";
-            this.picBHidePass.Size = new System.Drawing.Size(26, 17);
-            this.picBHidePass.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.picBHidePass.TabIndex = 8;
-            this.picBHidePass.TabStop = false;
-            this.picBHidePass.Click += new System.EventHandler(this.picBHidePass_Click);
-            // 
-            // guna2Panel1
-            // 
-            this.guna2Panel1.AutoRoundedCorners = true;
-            this.guna2Panel1.BorderRadius = 10;
-            this.guna2Panel1.Controls.Add(this.picBHidePass);
-            this.guna2Panel1.Controls.Add(this.picBSeePass);
-            this.guna2Panel1.CustomizableEdges.TopLeft = false;
-            this.guna2Panel1.CustomizableEdges.TopRight = false;
-            this.guna2Panel1.FillColor = System.Drawing.Color.White;
-            this.guna2Panel1.Location = new System.Drawing.Point(229, 145);
-            this.guna2Panel1.Name = "guna2Panel1";
-            this.guna2Panel1.Size = new System.Drawing.Size(24, 22);
-            this.guna2Panel1.TabIndex = 9;
-            // 
-            // guna2Panel3
-            // 
-            this.guna2Panel3.AutoRoundedCorners = true;
-            this.guna2Panel3.BorderRadius = 16;
-            this.guna2Panel3.Controls.Add(this.lblSubTitle);
-            this.guna2Panel3.FillColor = System.Drawing.Color.DimGray;
-            this.guna2Panel3.Location = new System.Drawing.Point(38, 3);
-            this.guna2Panel3.Name = "guna2Panel3";
-            this.guna2Panel3.Size = new System.Drawing.Size(200, 35);
-            this.guna2Panel3.TabIndex = 10;
+            this.picBOrangeThemeSelected.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.picBOrangeThemeSelected.BackColor = System.Drawing.Color.Transparent;
+            this.picBOrangeThemeSelected.ImageRotate = 0F;
+            this.picBOrangeThemeSelected.Location = new System.Drawing.Point(145, 10);
+            this.picBOrangeThemeSelected.Name = "picBOrangeThemeSelected";
+            this.picBOrangeThemeSelected.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            this.picBOrangeThemeSelected.Size = new System.Drawing.Size(24, 24);
+            this.picBOrangeThemeSelected.TabIndex = 13;
+            this.picBOrangeThemeSelected.TabStop = false;
+            this.picBOrangeThemeSelected.UseTransparentBackground = true;
+            this.picBOrangeThemeSelected.Visible = false;
             // 
             // FrmLogin
             // 
@@ -568,8 +603,12 @@
             ((System.ComponentModel.ISupportInitialize)(this.picBoxElTornilloLogo)).EndInit();
             this.pnlLogConteiner.ResumeLayout(false);
             this.pnlLogConteiner.PerformLayout();
+            this.guna2Panel1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.picBHidePass)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBSeePass)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBoxPassword)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBoxUser)).EndInit();
+            this.pnlTitle.ResumeLayout(false);
             this.pnlTemesConteiner.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.picBoxRedTeme)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBoxDarkTeme)).EndInit();
@@ -580,10 +619,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.picBoxBlueTeme)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBBlueSelected)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBoxBackGround)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picBSeePass)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picBHidePass)).EndInit();
-            this.guna2Panel1.ResumeLayout(false);
-            this.guna2Panel3.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.picBOrangeTheme)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBOrangeThemeSelected)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -621,7 +658,9 @@
         private Guna.UI2.WinForms.Guna2PictureBox picBHidePass;
         private Guna.UI2.WinForms.Guna2PictureBox picBSeePass;
         private Guna.UI2.WinForms.Guna2Panel guna2Panel1;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel3;
+        private Guna.UI2.WinForms.Guna2Panel pnlTitle;
+        private Guna.UI2.WinForms.Guna2CirclePictureBox picBOrangeTheme;
+        private Guna.UI2.WinForms.Guna2CirclePictureBox picBOrangeThemeSelected;
     }
 }
 

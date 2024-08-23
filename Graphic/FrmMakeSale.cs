@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Guna.UI2.WinForms;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -18,11 +19,21 @@ namespace Graphic
         private float totalWithDiscount;
         private float totalWithShip;
 
-        public FrmMakeSale(String teme)
+        Color mainColor = Color.FromArgb(0, 0, 0);
+        Color scndColor = Color.FromArgb(0, 0, 0);
+        Color trdColor = Color.FromArgb(0, 0, 0);
+        Color background = Color.FromArgb(0, 0, 0);
+
+        public FrmMakeSale(Color mainColor, Color scndColor, Color trdColor, Color background)
         {
             InitializeComponent();
             timerResChanges.Start();
-            //TemeChange(teme);
+            TemeChange(mainColor, scndColor, trdColor, background);
+
+            this.mainColor = mainColor;
+            this.scndColor = scndColor;
+            this.trdColor = trdColor;
+            this.background = background;
         }
 
 
@@ -57,9 +68,9 @@ namespace Graphic
                 btnStep2.BorderColor = Color.White;
                 btnStep2.ForeColor = Color.White;
 
-                separatorStep3.FillColor = Color.Black;
-                btnStep3.BorderColor = Color.Black;
-                btnStep3.ForeColor = Color.Black;
+                separatorStep3.FillColor = Color.Gray;
+                btnStep3.BorderColor = Color.Gray;
+                btnStep3.ForeColor = Color.Gray;
 
                 step = "2";
             }
@@ -77,13 +88,13 @@ namespace Graphic
                 pnlStep2.Location = new Point(5000, 88);
                 pnlStep3.Location = new Point(5000, 88);
 
-                separatorStep2.FillColor = Color.Black;
-                btnStep2.BorderColor = Color.Black;
-                btnStep2.ForeColor = Color.Black;
+                separatorStep2.FillColor = Color.Gray;
+                btnStep2.BorderColor = Color.Gray;
+                btnStep2.ForeColor = Color.Gray;
 
-                btnStep3.BorderColor = Color.Black;
-                btnStep3.ForeColor = Color.Black;
-                separatorStep3.FillColor = Color.Black;
+                btnStep3.BorderColor = Color.Gray;
+                btnStep3.ForeColor = Color.Gray;
+                separatorStep3.FillColor = Color.Gray;
 
                 step = "1";
             }
@@ -97,9 +108,9 @@ namespace Graphic
                 btnStep2.BorderColor = Color.White;
                 btnStep2.ForeColor = Color.White;
 
-                separatorStep3.FillColor = Color.Black;
-                btnStep3.BorderColor = Color.Black;
-                btnStep3.ForeColor = Color.Black;
+                separatorStep3.FillColor = Color.Gray;
+                btnStep3.BorderColor = Color.Gray;
+                btnStep3.ForeColor = Color.Gray;
 
                 step = "2";
             }
@@ -216,7 +227,7 @@ namespace Graphic
         {
 
             //En la linea de debajo debera cambiar la ruta, por favor preste atencion al formato de esta, sino el programa no funcionará correctamente.
-            string way = @"D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Graphic\Resources\";
+            string way = @"C:\Users\samio\source\repos\GT_ElTornillo v2.9.49 - v5.15\Graphic\Resources\";
             //Esto es una referencia de como se debera ver @"C:\Users\Pepe\source\repos\El Tornillo - 1erEntrega\Graphic\Resources\"
 
             Image imgHammer = Image.FromFile(way + "MartilloDeUna.jpg");
@@ -354,7 +365,7 @@ namespace Graphic
 
         private void btnRegisterClient_Click(object sender, EventArgs e)
         {
-            FrmABMResources addEmployeeForm = new FrmABMResources("client");
+            FrmABMResources addEmployeeForm = new FrmABMResources("client", mainColor, scndColor, trdColor, background);
             addEmployeeForm.Show();
         }
 
@@ -430,167 +441,110 @@ namespace Graphic
 
 
 
-        /*
-         * private void TemeChange(string teme)
-        {
-            Guna.UI2.WinForms.Guna2Panel[] mainColor = { pnlBackground};
+        
+          private void TemeChange(Color color1, Color color2, Color color3, Color background)
+          {
+            Guna2Panel[] mainColor = { pnlFooter, pnlNextStep, pnlStepBack, pnlSteps, pnlClientData, pnlFormTitle,
+                pnlMoney, pnlRegister, pnlSaleData, pnlPayBackground, pnlPayButtons, pnlPayMethod, pnlPayMethodTitle };
+            Guna2Panel[] conteinerColor = { pnlTotal, pnlArticle, pnlDiscount, pnlShip};
+            Guna2Panel[] lightColor = {  };
+            Guna2Panel[] backgroundColor = { pnlStep2, pnlStep3, pnlBackground };
 
-            Guna.UI2.WinForms.Guna2Button[] buttonsForeColor = {};
-
-            switch (teme)
+            foreach (Guna2Panel darkColor in mainColor)
             {
-                case "dark":
-                    foreach (Guna2Panel colorDark in mainColor)
-                    {
-                        colorDark.FillColor =
-                            System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64))))); ;
-                    }
-                    foreach (Guna2Button foreColor in buttonsForeColor)
-                    {
-                        foreColor.ForeColor = System.Drawing.Color.White;
-
-                    }
-
-                    DataGridViewCellStyle rowStyleDark = new DataGridViewCellStyle
-                    {
-                        BackColor = System.Drawing.Color.Gray,
-                        ForeColor = Color.Black,
-                        Font = new Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0))),
-                        Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter,
-                        SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(84)))), ((int)(((byte)(84)))), ((int)(((byte)(84))))),
-                        SelectionForeColor = Color.White
-                    };
-
-                    DataGridViewCellStyle headerStyleDark = new DataGridViewCellStyle
-                    {
-                        BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)((byte)(64)))),
-                        ForeColor = Color.White,
-                        Font = new Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0))),
-                        Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft,
-                    };
-
-
-
-                    pnlBackground.FillColor = System.Drawing.Color.Gray;
-
-                    break;
-
-
-
-                case "red":
-                    foreach (Guna2Panel colorDark in mainColor)
-                    {
-                        colorDark.FillColor = System.Drawing.Color.IndianRed;
-                    }
-                    foreach (Guna2Button foreColor in buttonsForeColor)
-                    {
-                        foreColor.ForeColor = System.Drawing.Color.White;
-
-                    }
-
-                    DataGridViewCellStyle rowStyleRed = new DataGridViewCellStyle
-                    {
-                        BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192))))),
-                        ForeColor = Color.Black,
-                        Font = new Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0))),
-                        Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter,
-                        SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128))))),
-                        SelectionForeColor = Color.Black
-                    };
-
-                    DataGridViewCellStyle headerStyleRed = new DataGridViewCellStyle
-                    {
-                        BackColor = System.Drawing.Color.IndianRed,
-                        ForeColor = Color.White,
-                        Font = new Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0))),
-                        Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft,
-                    };
-
-
-
-                    pnlBackground.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192))))); ;
-                    break;
-
-
-                case "blue":
-                    foreach (Guna2Panel colorDark in mainColor)
-                    {
-                        colorDark.FillColor = System.Drawing.Color.RoyalBlue;
-                    }
-                    foreach (Guna2Button foreColor in buttonsForeColor)
-                    {
-                        foreColor.ForeColor = System.Drawing.Color.White;
-
-                    }
-
-                    DataGridViewCellStyle rowStyleBlue = new DataGridViewCellStyle
-                    {
-                        BackColor = System.Drawing.Color.LightSteelBlue,
-                        ForeColor = Color.Black,
-                        Font = new Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0))),
-                        Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter,
-                        SelectionBackColor = System.Drawing.Color.CornflowerBlue,
-                        SelectionForeColor = Color.White
-                    };
-
-                    DataGridViewCellStyle headerStyleBlue = new DataGridViewCellStyle
-                    {
-                        BackColor = System.Drawing.Color.RoyalBlue,
-                        ForeColor = Color.White,
-                        Font = new Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0))),
-                        Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft,
-                    };
-
-
-
-                    pnlBackground.FillColor = System.Drawing.Color.LightSteelBlue;
-                    break;
-
-
-                case "light":
-                    foreach (Guna2Panel colorDark in mainColor)
-                    {
-                        colorDark.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(88)))), ((int)(((byte)(120)))), ((int)(((byte)(114))))); ;
-                    }
-                    foreach (Guna2Button foreColor in buttonsForeColor)
-                    {
-                        foreColor.ForeColor = System.Drawing.Color.White;
-
-                    }
-
-                    DataGridViewCellStyle rowStyleLight = new DataGridViewCellStyle
-                    {
-                        BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(122)))), ((int)(((byte)(145)))), ((int)(((byte)(141))))),
-                        ForeColor = Color.Black,
-                        Font = new Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0))),
-                        Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter,
-                        SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(147)))), ((int)(((byte)(177)))), ((int)(((byte)(167))))),
-                        SelectionForeColor = Color.White
-                    };
-
-                    DataGridViewCellStyle headerStyleLight = new DataGridViewCellStyle
-                    {
-                        BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(88)))), ((int)(((byte)(120)))), ((int)(((byte)(114))))),
-                        ForeColor = Color.White,
-                        Font = new Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0))),
-                        Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft,
-                        SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))))
-                    };
-
-
-
-
-                    pnlBackground.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(122)))), ((int)(((byte)(145)))), ((int)(((byte)(141))))); ;
-
-                    break;
-
-
-                default:
-                    Console.WriteLine("Opción no válida");
-                    break;
+                darkColor.FillColor = color1;
             }
+            foreach (Guna2Panel secondColor in conteinerColor)
+            {
+                secondColor.FillColor = color2;
+            }
+            foreach (Guna2Panel lightColors in lightColor)
+            {
+                lightColors.FillColor = color3;
+            }
+            foreach (Guna2Panel backColor in backgroundColor)
+            {
+                backColor.FillColor = background;
+            }
+
+            /*
+            DataGridViewCellStyle rowStyleDark = new DataGridViewCellStyle
+            {
+                BackColor = System.Drawing.Color.Gray,
+                ForeColor = Color.Black,
+                Font = new Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0))),
+                Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter,
+                SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(84)))), ((int)(((byte)(84)))), ((int)(((byte)(84))))),
+                SelectionForeColor = Color.White
+            };
+
+            DataGridViewCellStyle headerStyleDark = new DataGridViewCellStyle
+            {
+                BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)((byte)(64)))),
+                ForeColor = Color.White,
+                Font = new Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0))),
+                Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft,
+            };
+
+            DataGridViewCellStyle rowStyleRed = new DataGridViewCellStyle
+            {
+                BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192))))),
+                ForeColor = Color.Black,
+                Font = new Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0))),
+                Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter,
+                SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128))))),
+                SelectionForeColor = Color.Black
+            };
+
+            DataGridViewCellStyle headerStyleRed = new DataGridViewCellStyle
+            {
+                BackColor = System.Drawing.Color.IndianRed,
+                ForeColor = Color.White,
+                Font = new Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0))),
+                Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft,
+            };
+
+            DataGridViewCellStyle rowStyleBlue = new DataGridViewCellStyle
+            {
+                BackColor = System.Drawing.Color.LightSteelBlue,
+                ForeColor = Color.Black,
+                Font = new Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0))),
+                Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter,
+                SelectionBackColor = System.Drawing.Color.CornflowerBlue,
+                SelectionForeColor = Color.White
+            };
+
+            DataGridViewCellStyle headerStyleBlue = new DataGridViewCellStyle
+            {
+                BackColor = System.Drawing.Color.RoyalBlue,
+                ForeColor = Color.White,
+                Font = new Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0))),
+                Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft,
+            };
+
+            DataGridViewCellStyle rowStyleLight = new DataGridViewCellStyle
+            {
+                BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(122)))), ((int)(((byte)(145)))), ((int)(((byte)(141))))),
+                ForeColor = Color.Black,
+                Font = new Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0))),
+                Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter,
+                SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(147)))), ((int)(((byte)(177)))), ((int)(((byte)(167))))),
+                SelectionForeColor = Color.White
+            };
+
+            DataGridViewCellStyle headerStyleLight = new DataGridViewCellStyle
+            {
+                BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(88)))), ((int)(((byte)(120)))), ((int)(((byte)(114))))),
+                ForeColor = Color.White,
+                Font = new Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0))),
+                Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft,
+                SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))))
+            };
+
+            */
+
         }
-         * 
-         */
+         
+         
     }
 }

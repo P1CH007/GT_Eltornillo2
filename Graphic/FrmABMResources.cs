@@ -10,8 +10,18 @@ namespace Graphic
 {
     public partial class FrmABMResources : Form
     {
-        public FrmABMResources(string selected, object entity = null)
+
+        Color mainColor = Color.FromArgb(0, 0, 0);
+        Color scndColor = Color.FromArgb(0, 0, 0);
+        Color trdColor = Color.FromArgb(0, 0, 0);
+        Color background = Color.FromArgb(0, 0, 0);
+
+        public FrmABMResources(string selected, Color mainColor, Color scndColor, Color trdColor, Color background, object entity = null)
         {
+            this.mainColor = mainColor;
+            this.scndColor = scndColor;
+            this.trdColor = trdColor;
+            this.background = background;
             InitializeComponent();
             switch (selected)
             {
@@ -245,7 +255,7 @@ namespace Graphic
                 MessageBox.Show("Empleado agregado exitosamente.");
                 string borrar = "black";
                 string typeLoad = "employee";
-                FrmResources load = new FrmResources(borrar, typeLoad);
+                FrmResources load = new FrmResources(borrar, typeLoad, mainColor, scndColor, trdColor, background);
                 load.LoadEmployees();
 
                 this.Close();
@@ -286,7 +296,7 @@ namespace Graphic
                 string borrar = "black";
                 MessageBox.Show("Empleado modificado exitosamente.");
                 string typeLoad = "employee";
-                FrmResources load = new FrmResources(borrar, typeLoad);
+                FrmResources load = new FrmResources(borrar, typeLoad, mainColor, scndColor, trdColor, background);
                 load.LoadEmployees();
 
                 this.Close();
@@ -358,7 +368,7 @@ namespace Graphic
             {
                 MessageBox.Show("Cliente agregado exitosamente.");
                 string typeLoad = "client";
-                FrmResources load = new FrmResources("black", typeLoad);
+                FrmResources load = new FrmResources("black", typeLoad, mainColor, scndColor, trdColor, background);
                 load.LoadClients();
                 this.Close();
             }
@@ -392,7 +402,7 @@ namespace Graphic
             {
                 MessageBox.Show("Cliente modificado exitosamente.");
                 string typeLoad = "client";
-                FrmResources load = new FrmResources("black", typeLoad);
+                FrmResources load = new FrmResources("black", typeLoad, mainColor, scndColor, trdColor, background);
                 load.LoadClients();
                 this.Close();
             }
@@ -426,7 +436,7 @@ namespace Graphic
             {
                 MessageBox.Show("Proveedor agregado exitosamente.");
                 string typeLoad = "supplier";
-                FrmResources load = new FrmResources("black", typeLoad);
+                FrmResources load = new FrmResources("black", typeLoad, mainColor, scndColor, trdColor, background);
                 load.LoadSuppliers();
                 this.Close();
             }
@@ -460,7 +470,7 @@ namespace Graphic
             {
                 MessageBox.Show("Proveedor modificado exitosamente.");
                 string typeLoad = "supplier";
-                FrmResources load = new FrmResources("black", typeLoad);
+                FrmResources load = new FrmResources("black", typeLoad, mainColor, scndColor, trdColor, background);
                 load.LoadSuppliers();
                 this.Close();
             }
@@ -495,7 +505,7 @@ namespace Graphic
             {
                 MessageBox.Show("Local agregado exitosamente.");
                 string typeLoad = "local";
-                FrmResources load = new FrmResources("black", typeLoad);
+                FrmResources load = new FrmResources("black", typeLoad, mainColor, scndColor, trdColor, background);
                 load.LoadLocal();
                 this.Close();
             }
@@ -529,7 +539,7 @@ namespace Graphic
             {
                 MessageBox.Show("Local modificado exitosamente.");
                 string typeLoad = "local";
-                FrmResources load = new FrmResources("black", typeLoad);
+                FrmResources load = new FrmResources("black", typeLoad, mainColor, scndColor, trdColor, background);
                 load.LoadLocal();
                 this.Close();
             }

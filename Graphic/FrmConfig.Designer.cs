@@ -41,18 +41,21 @@
             this.pnlDataConteiner = new Guna.UI2.WinForms.Guna2Panel();
             this.label2 = new System.Windows.Forms.Label();
             this.guna2TextBox1 = new Guna.UI2.WinForms.Guna2TextBox();
-            this.picBoxLightTeme = new Guna.UI2.WinForms.Guna2CirclePictureBox();
-            this.picBBlueTeme = new Guna.UI2.WinForms.Guna2CirclePictureBox();
-            this.picBoxRedTeme = new Guna.UI2.WinForms.Guna2CirclePictureBox();
-            this.picBDarkTeme = new Guna.UI2.WinForms.Guna2CirclePictureBox();
+            this.picBoxLightTheme = new Guna.UI2.WinForms.Guna2CirclePictureBox();
+            this.picBBlueTheme = new Guna.UI2.WinForms.Guna2CirclePictureBox();
+            this.picBoxRedTheme = new Guna.UI2.WinForms.Guna2CirclePictureBox();
+            this.picBDarkTheme = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.picBLightSelected = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.picBDarkSelected = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.picBRedSelected = new Guna.UI2.WinForms.Guna2CirclePictureBox();
-            this.pnlTemes = new Guna.UI2.WinForms.Guna2Panel();
+            this.pnlThemes = new Guna.UI2.WinForms.Guna2Panel();
             this.picBBlueSelected = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel2 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.pnlBackground = new Guna.UI2.WinForms.Guna2Panel();
+            this.pnlFormTitle = new Guna.UI2.WinForms.Guna2Panel();
+            this.label6 = new System.Windows.Forms.Label();
+            this.guna2PictureBox2 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
             this.pnlAppConfigConteiner = new Guna.UI2.WinForms.Guna2Panel();
             this.pnlBudgetBackground = new Guna.UI2.WinForms.Guna2Panel();
@@ -66,21 +69,22 @@
             this.pnlConfigBackground = new Guna.UI2.WinForms.Guna2Panel();
             this.pnlConfigTitle = new Guna.UI2.WinForms.Guna2Panel();
             this.label3 = new System.Windows.Forms.Label();
-            this.guna2Panel5 = new Guna.UI2.WinForms.Guna2Panel();
-            this.label6 = new System.Windows.Forms.Label();
-            this.guna2PictureBox2 = new Guna.UI2.WinForms.Guna2PictureBox();
+            this.picBOrangeTheme = new Guna.UI2.WinForms.Guna2CirclePictureBox();
+            this.picBOrangeThemeSelected = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.pnlFooter.SuspendLayout();
             this.pnlDataConteiner.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.picBoxLightTeme)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picBBlueTeme)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picBoxRedTeme)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picBDarkTeme)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBoxLightTheme)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBBlueTheme)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBoxRedTheme)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBDarkTheme)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBLightSelected)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBDarkSelected)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBRedSelected)).BeginInit();
-            this.pnlTemes.SuspendLayout();
+            this.pnlThemes.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picBBlueSelected)).BeginInit();
             this.pnlBackground.SuspendLayout();
+            this.pnlFormTitle.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox2)).BeginInit();
             this.guna2Panel1.SuspendLayout();
             this.pnlAppConfigConteiner.SuspendLayout();
             this.pnlBudgetBackground.SuspendLayout();
@@ -90,8 +94,8 @@
             this.pnlConfigConteiner.SuspendLayout();
             this.pnlConfigBackground.SuspendLayout();
             this.pnlConfigTitle.SuspendLayout();
-            this.guna2Panel5.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBOrangeTheme)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBOrangeThemeSelected)).BeginInit();
             this.SuspendLayout();
             // 
             // pnlFooter
@@ -305,80 +309,80 @@
             this.guna2TextBox1.Size = new System.Drawing.Size(173, 30);
             this.guna2TextBox1.TabIndex = 81;
             // 
-            // picBoxLightTeme
+            // picBoxLightTheme
             // 
-            this.picBoxLightTeme.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.picBoxLightTeme.BackColor = System.Drawing.Color.Transparent;
-            this.picBoxLightTeme.FillColor = System.Drawing.Color.MediumSeaGreen;
-            this.picBoxLightTeme.Image = ((System.Drawing.Image)(resources.GetObject("picBoxLightTeme.Image")));
-            this.picBoxLightTeme.ImageRotate = 0F;
-            this.picBoxLightTeme.Location = new System.Drawing.Point(176, 9);
-            this.picBoxLightTeme.Name = "picBoxLightTeme";
-            this.picBoxLightTeme.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.picBoxLightTeme.Size = new System.Drawing.Size(30, 30);
-            this.picBoxLightTeme.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.picBoxLightTeme.TabIndex = 2;
-            this.picBoxLightTeme.TabStop = false;
-            this.picBoxLightTeme.UseTransparentBackground = true;
-            this.picBoxLightTeme.Click += new System.EventHandler(this.picBoxLightTeme_Click);
+            this.picBoxLightTheme.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.picBoxLightTheme.BackColor = System.Drawing.Color.Transparent;
+            this.picBoxLightTheme.FillColor = System.Drawing.Color.MediumSeaGreen;
+            this.picBoxLightTheme.Image = ((System.Drawing.Image)(resources.GetObject("picBoxLightTheme.Image")));
+            this.picBoxLightTheme.ImageRotate = 0F;
+            this.picBoxLightTheme.Location = new System.Drawing.Point(156, 9);
+            this.picBoxLightTheme.Name = "picBoxLightTheme";
+            this.picBoxLightTheme.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            this.picBoxLightTheme.Size = new System.Drawing.Size(30, 30);
+            this.picBoxLightTheme.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.picBoxLightTheme.TabIndex = 2;
+            this.picBoxLightTheme.TabStop = false;
+            this.picBoxLightTheme.UseTransparentBackground = true;
+            this.picBoxLightTheme.Click += new System.EventHandler(this.picBoxLightTheme_Click);
             // 
-            // picBBlueTeme
+            // picBBlueTheme
             // 
-            this.picBBlueTeme.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.picBBlueTeme.BackColor = System.Drawing.Color.Transparent;
-            this.picBBlueTeme.FillColor = System.Drawing.Color.MidnightBlue;
-            this.picBBlueTeme.Image = ((System.Drawing.Image)(resources.GetObject("picBBlueTeme.Image")));
-            this.picBBlueTeme.ImageRotate = 0F;
-            this.picBBlueTeme.Location = new System.Drawing.Point(138, 10);
-            this.picBBlueTeme.Name = "picBBlueTeme";
-            this.picBBlueTeme.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.picBBlueTeme.Size = new System.Drawing.Size(30, 30);
-            this.picBBlueTeme.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.picBBlueTeme.TabIndex = 1;
-            this.picBBlueTeme.TabStop = false;
-            this.picBBlueTeme.UseTransparentBackground = true;
-            this.picBBlueTeme.Click += new System.EventHandler(this.picBoxBlueTeme_Click);
+            this.picBBlueTheme.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.picBBlueTheme.BackColor = System.Drawing.Color.Transparent;
+            this.picBBlueTheme.FillColor = System.Drawing.Color.MidnightBlue;
+            this.picBBlueTheme.Image = ((System.Drawing.Image)(resources.GetObject("picBBlueTheme.Image")));
+            this.picBBlueTheme.ImageRotate = 0F;
+            this.picBBlueTheme.Location = new System.Drawing.Point(118, 10);
+            this.picBBlueTheme.Name = "picBBlueTheme";
+            this.picBBlueTheme.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            this.picBBlueTheme.Size = new System.Drawing.Size(30, 30);
+            this.picBBlueTheme.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.picBBlueTheme.TabIndex = 1;
+            this.picBBlueTheme.TabStop = false;
+            this.picBBlueTheme.UseTransparentBackground = true;
+            this.picBBlueTheme.Click += new System.EventHandler(this.picBBlueTheme_Click);
             // 
-            // picBoxRedTeme
+            // picBoxRedTheme
             // 
-            this.picBoxRedTeme.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.picBoxRedTeme.BackColor = System.Drawing.Color.Transparent;
-            this.picBoxRedTeme.FillColor = System.Drawing.Color.Red;
-            this.picBoxRedTeme.Image = ((System.Drawing.Image)(resources.GetObject("picBoxRedTeme.Image")));
-            this.picBoxRedTeme.ImageRotate = 0F;
-            this.picBoxRedTeme.Location = new System.Drawing.Point(100, 10);
-            this.picBoxRedTeme.Name = "picBoxRedTeme";
-            this.picBoxRedTeme.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.picBoxRedTeme.Size = new System.Drawing.Size(30, 30);
-            this.picBoxRedTeme.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.picBoxRedTeme.TabIndex = 3;
-            this.picBoxRedTeme.TabStop = false;
-            this.picBoxRedTeme.UseTransparentBackground = true;
-            this.picBoxRedTeme.Click += new System.EventHandler(this.picBoxRedTeme_Click);
+            this.picBoxRedTheme.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.picBoxRedTheme.BackColor = System.Drawing.Color.Transparent;
+            this.picBoxRedTheme.FillColor = System.Drawing.Color.Red;
+            this.picBoxRedTheme.Image = ((System.Drawing.Image)(resources.GetObject("picBoxRedTheme.Image")));
+            this.picBoxRedTheme.ImageRotate = 0F;
+            this.picBoxRedTheme.Location = new System.Drawing.Point(80, 10);
+            this.picBoxRedTheme.Name = "picBoxRedTheme";
+            this.picBoxRedTheme.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            this.picBoxRedTheme.Size = new System.Drawing.Size(30, 30);
+            this.picBoxRedTheme.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.picBoxRedTheme.TabIndex = 3;
+            this.picBoxRedTheme.TabStop = false;
+            this.picBoxRedTheme.UseTransparentBackground = true;
+            this.picBoxRedTheme.Click += new System.EventHandler(this.picBoxRedTheme_Click);
             // 
-            // picBDarkTeme
+            // picBDarkTheme
             // 
-            this.picBDarkTeme.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.picBDarkTeme.BackColor = System.Drawing.Color.Transparent;
-            this.picBDarkTeme.FillColor = System.Drawing.Color.DimGray;
-            this.picBDarkTeme.Image = ((System.Drawing.Image)(resources.GetObject("picBDarkTeme.Image")));
-            this.picBDarkTeme.ImageRotate = 0F;
-            this.picBDarkTeme.Location = new System.Drawing.Point(62, 10);
-            this.picBDarkTeme.Name = "picBDarkTeme";
-            this.picBDarkTeme.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.picBDarkTeme.Size = new System.Drawing.Size(30, 30);
-            this.picBDarkTeme.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.picBDarkTeme.TabIndex = 0;
-            this.picBDarkTeme.TabStop = false;
-            this.picBDarkTeme.UseTransparentBackground = true;
-            this.picBDarkTeme.Click += new System.EventHandler(this.picBoxDarkTeme_Click);
+            this.picBDarkTheme.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.picBDarkTheme.BackColor = System.Drawing.Color.Transparent;
+            this.picBDarkTheme.FillColor = System.Drawing.Color.DimGray;
+            this.picBDarkTheme.Image = ((System.Drawing.Image)(resources.GetObject("picBDarkTheme.Image")));
+            this.picBDarkTheme.ImageRotate = 0F;
+            this.picBDarkTheme.Location = new System.Drawing.Point(41, 10);
+            this.picBDarkTheme.Name = "picBDarkTheme";
+            this.picBDarkTheme.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            this.picBDarkTheme.Size = new System.Drawing.Size(30, 30);
+            this.picBDarkTheme.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.picBDarkTheme.TabIndex = 0;
+            this.picBDarkTheme.TabStop = false;
+            this.picBDarkTheme.UseTransparentBackground = true;
+            this.picBDarkTheme.Click += new System.EventHandler(this.picBDarkTheme_Click);
             // 
             // picBLightSelected
             // 
             this.picBLightSelected.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.picBLightSelected.BackColor = System.Drawing.Color.Transparent;
             this.picBLightSelected.ImageRotate = 0F;
-            this.picBLightSelected.Location = new System.Drawing.Point(174, 7);
+            this.picBLightSelected.Location = new System.Drawing.Point(154, 7);
             this.picBLightSelected.Name = "picBLightSelected";
             this.picBLightSelected.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.picBLightSelected.Size = new System.Drawing.Size(33, 33);
@@ -392,7 +396,7 @@
             this.picBDarkSelected.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.picBDarkSelected.BackColor = System.Drawing.Color.Transparent;
             this.picBDarkSelected.ImageRotate = 0F;
-            this.picBDarkSelected.Location = new System.Drawing.Point(60, 8);
+            this.picBDarkSelected.Location = new System.Drawing.Point(39, 8);
             this.picBDarkSelected.Name = "picBDarkSelected";
             this.picBDarkSelected.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.picBDarkSelected.Size = new System.Drawing.Size(33, 33);
@@ -406,7 +410,7 @@
             this.picBRedSelected.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.picBRedSelected.BackColor = System.Drawing.Color.Transparent;
             this.picBRedSelected.ImageRotate = 0F;
-            this.picBRedSelected.Location = new System.Drawing.Point(98, 8);
+            this.picBRedSelected.Location = new System.Drawing.Point(78, 8);
             this.picBRedSelected.Name = "picBRedSelected";
             this.picBRedSelected.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.picBRedSelected.Size = new System.Drawing.Size(33, 33);
@@ -415,32 +419,34 @@
             this.picBRedSelected.UseTransparentBackground = true;
             this.picBRedSelected.Visible = false;
             // 
-            // pnlTemes
+            // pnlThemes
             // 
-            this.pnlTemes.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.pnlTemes.BorderRadius = 30;
-            this.pnlTemes.Controls.Add(this.picBoxLightTeme);
-            this.pnlTemes.Controls.Add(this.picBLightSelected);
-            this.pnlTemes.Controls.Add(this.picBBlueTeme);
-            this.pnlTemes.Controls.Add(this.picBoxRedTeme);
-            this.pnlTemes.Controls.Add(this.picBRedSelected);
-            this.pnlTemes.Controls.Add(this.picBDarkTeme);
-            this.pnlTemes.Controls.Add(this.picBDarkSelected);
-            this.pnlTemes.Controls.Add(this.picBBlueSelected);
-            this.pnlTemes.CustomizableEdges.TopLeft = false;
-            this.pnlTemes.CustomizableEdges.TopRight = false;
-            this.pnlTemes.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.pnlTemes.Location = new System.Drawing.Point(49, -1);
-            this.pnlTemes.Name = "pnlTemes";
-            this.pnlTemes.Size = new System.Drawing.Size(261, 58);
-            this.pnlTemes.TabIndex = 5;
+            this.pnlThemes.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.pnlThemes.BorderRadius = 30;
+            this.pnlThemes.Controls.Add(this.picBOrangeTheme);
+            this.pnlThemes.Controls.Add(this.picBOrangeThemeSelected);
+            this.pnlThemes.Controls.Add(this.picBoxLightTheme);
+            this.pnlThemes.Controls.Add(this.picBLightSelected);
+            this.pnlThemes.Controls.Add(this.picBBlueTheme);
+            this.pnlThemes.Controls.Add(this.picBoxRedTheme);
+            this.pnlThemes.Controls.Add(this.picBRedSelected);
+            this.pnlThemes.Controls.Add(this.picBDarkTheme);
+            this.pnlThemes.Controls.Add(this.picBDarkSelected);
+            this.pnlThemes.Controls.Add(this.picBBlueSelected);
+            this.pnlThemes.CustomizableEdges.TopLeft = false;
+            this.pnlThemes.CustomizableEdges.TopRight = false;
+            this.pnlThemes.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.pnlThemes.Location = new System.Drawing.Point(49, -1);
+            this.pnlThemes.Name = "pnlThemes";
+            this.pnlThemes.Size = new System.Drawing.Size(261, 58);
+            this.pnlThemes.TabIndex = 5;
             // 
             // picBBlueSelected
             // 
             this.picBBlueSelected.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.picBBlueSelected.BackColor = System.Drawing.Color.Transparent;
             this.picBBlueSelected.ImageRotate = 0F;
-            this.picBBlueSelected.Location = new System.Drawing.Point(136, 8);
+            this.picBBlueSelected.Location = new System.Drawing.Point(116, 8);
             this.picBBlueSelected.Name = "picBBlueSelected";
             this.picBBlueSelected.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
             this.picBBlueSelected.Size = new System.Drawing.Size(33, 33);
@@ -475,7 +481,7 @@
             // pnlBackground
             // 
             this.pnlBackground.BackColor = System.Drawing.Color.Transparent;
-            this.pnlBackground.Controls.Add(this.guna2Panel5);
+            this.pnlBackground.Controls.Add(this.pnlFormTitle);
             this.pnlBackground.Controls.Add(this.guna2Panel1);
             this.pnlBackground.Controls.Add(this.pnlFooter);
             this.pnlBackground.Controls.Add(this.pnlConfigConteiner);
@@ -487,6 +493,45 @@
             this.pnlBackground.Name = "pnlBackground";
             this.pnlBackground.Size = new System.Drawing.Size(944, 617);
             this.pnlBackground.TabIndex = 86;
+            // 
+            // pnlFormTitle
+            // 
+            this.pnlFormTitle.BorderRadius = 20;
+            this.pnlFormTitle.Controls.Add(this.label6);
+            this.pnlFormTitle.Controls.Add(this.guna2PictureBox2);
+            this.pnlFormTitle.CustomizableEdges.TopLeft = false;
+            this.pnlFormTitle.CustomizableEdges.TopRight = false;
+            this.pnlFormTitle.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.pnlFormTitle.Location = new System.Drawing.Point(26, -1);
+            this.pnlFormTitle.Name = "pnlFormTitle";
+            this.pnlFormTitle.Size = new System.Drawing.Size(95, 80);
+            this.pnlFormTitle.TabIndex = 21;
+            // 
+            // label6
+            // 
+            this.label6.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.label6.BackColor = System.Drawing.Color.Transparent;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.ForeColor = System.Drawing.Color.White;
+            this.label6.Location = new System.Drawing.Point(3, 61);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(89, 16);
+            this.label6.TabIndex = 6;
+            this.label6.Text = "Configuración";
+            this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // guna2PictureBox2
+            // 
+            this.guna2PictureBox2.BackColor = System.Drawing.Color.Transparent;
+            this.guna2PictureBox2.FillColor = System.Drawing.Color.Transparent;
+            this.guna2PictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("guna2PictureBox2.Image")));
+            this.guna2PictureBox2.ImageRotate = 0F;
+            this.guna2PictureBox2.Location = new System.Drawing.Point(18, -1);
+            this.guna2PictureBox2.Name = "guna2PictureBox2";
+            this.guna2PictureBox2.Size = new System.Drawing.Size(57, 62);
+            this.guna2PictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.guna2PictureBox2.TabIndex = 6;
+            this.guna2PictureBox2.TabStop = false;
             // 
             // guna2Panel1
             // 
@@ -514,7 +559,7 @@
             this.pnlBudgetBackground.BorderRadius = 20;
             this.pnlBudgetBackground.Controls.Add(this.pnlBadges);
             this.pnlBudgetBackground.Controls.Add(this.pnlBudgetTitle);
-            this.pnlBudgetBackground.Controls.Add(this.pnlTemes);
+            this.pnlBudgetBackground.Controls.Add(this.pnlThemes);
             this.pnlBudgetBackground.FillColor = System.Drawing.Color.DimGray;
             this.pnlBudgetBackground.Location = new System.Drawing.Point(7, 9);
             this.pnlBudgetBackground.Name = "pnlBudgetBackground";
@@ -652,44 +697,35 @@
             this.label3.TabIndex = 9;
             this.label3.Text = "Configurar cuenta";
             // 
-            // guna2Panel5
+            // picBOrangeTheme
             // 
-            this.guna2Panel5.BorderRadius = 20;
-            this.guna2Panel5.Controls.Add(this.label6);
-            this.guna2Panel5.Controls.Add(this.guna2PictureBox2);
-            this.guna2Panel5.CustomizableEdges.TopLeft = false;
-            this.guna2Panel5.CustomizableEdges.TopRight = false;
-            this.guna2Panel5.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.guna2Panel5.Location = new System.Drawing.Point(26, -1);
-            this.guna2Panel5.Name = "guna2Panel5";
-            this.guna2Panel5.Size = new System.Drawing.Size(95, 80);
-            this.guna2Panel5.TabIndex = 21;
+            this.picBOrangeTheme.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.picBOrangeTheme.BackColor = System.Drawing.Color.Transparent;
+            this.picBOrangeTheme.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.picBOrangeTheme.ImageRotate = 0F;
+            this.picBOrangeTheme.Location = new System.Drawing.Point(194, 10);
+            this.picBOrangeTheme.Name = "picBOrangeTheme";
+            this.picBOrangeTheme.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            this.picBOrangeTheme.Size = new System.Drawing.Size(30, 30);
+            this.picBOrangeTheme.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.picBOrangeTheme.TabIndex = 9;
+            this.picBOrangeTheme.TabStop = false;
+            this.picBOrangeTheme.UseTransparentBackground = true;
+            this.picBOrangeTheme.Click += new System.EventHandler(this.picBOrangeTheme_Click);
             // 
-            // label6
+            // picBOrangeThemeSelected
             // 
-            this.label6.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.label6.BackColor = System.Drawing.Color.Transparent;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.ForeColor = System.Drawing.Color.White;
-            this.label6.Location = new System.Drawing.Point(3, 61);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(89, 16);
-            this.label6.TabIndex = 6;
-            this.label6.Text = "Configuración";
-            this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // guna2PictureBox2
-            // 
-            this.guna2PictureBox2.BackColor = System.Drawing.Color.Transparent;
-            this.guna2PictureBox2.FillColor = System.Drawing.Color.Transparent;
-            this.guna2PictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("guna2PictureBox2.Image")));
-            this.guna2PictureBox2.ImageRotate = 0F;
-            this.guna2PictureBox2.Location = new System.Drawing.Point(18, -1);
-            this.guna2PictureBox2.Name = "guna2PictureBox2";
-            this.guna2PictureBox2.Size = new System.Drawing.Size(57, 62);
-            this.guna2PictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.guna2PictureBox2.TabIndex = 6;
-            this.guna2PictureBox2.TabStop = false;
+            this.picBOrangeThemeSelected.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.picBOrangeThemeSelected.BackColor = System.Drawing.Color.Transparent;
+            this.picBOrangeThemeSelected.ImageRotate = 0F;
+            this.picBOrangeThemeSelected.Location = new System.Drawing.Point(192, 8);
+            this.picBOrangeThemeSelected.Name = "picBOrangeThemeSelected";
+            this.picBOrangeThemeSelected.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
+            this.picBOrangeThemeSelected.Size = new System.Drawing.Size(33, 33);
+            this.picBOrangeThemeSelected.TabIndex = 10;
+            this.picBOrangeThemeSelected.TabStop = false;
+            this.picBOrangeThemeSelected.UseTransparentBackground = true;
+            this.picBOrangeThemeSelected.Visible = false;
             // 
             // Config
             // 
@@ -705,16 +741,18 @@
             this.pnlFooter.ResumeLayout(false);
             this.pnlDataConteiner.ResumeLayout(false);
             this.pnlDataConteiner.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.picBoxLightTeme)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picBBlueTeme)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picBoxRedTeme)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picBDarkTeme)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBoxLightTheme)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBBlueTheme)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBoxRedTheme)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBDarkTheme)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBLightSelected)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBDarkSelected)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBRedSelected)).EndInit();
-            this.pnlTemes.ResumeLayout(false);
+            this.pnlThemes.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.picBBlueSelected)).EndInit();
             this.pnlBackground.ResumeLayout(false);
+            this.pnlFormTitle.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox2)).EndInit();
             this.guna2Panel1.ResumeLayout(false);
             this.pnlAppConfigConteiner.ResumeLayout(false);
             this.pnlBudgetBackground.ResumeLayout(false);
@@ -727,8 +765,8 @@
             this.pnlConfigBackground.ResumeLayout(false);
             this.pnlConfigTitle.ResumeLayout(false);
             this.pnlConfigTitle.PerformLayout();
-            this.guna2Panel5.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBOrangeTheme)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBOrangeThemeSelected)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -747,15 +785,15 @@
         private Guna.UI2.WinForms.Guna2Panel pnlDataConteiner;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel1;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel2;
-        private Guna.UI2.WinForms.Guna2CirclePictureBox picBoxRedTeme;
-        private Guna.UI2.WinForms.Guna2CirclePictureBox picBoxLightTeme;
-        private Guna.UI2.WinForms.Guna2CirclePictureBox picBBlueTeme;
-        private Guna.UI2.WinForms.Guna2CirclePictureBox picBDarkTeme;
+        private Guna.UI2.WinForms.Guna2CirclePictureBox picBoxRedTheme;
+        private Guna.UI2.WinForms.Guna2CirclePictureBox picBoxLightTheme;
+        private Guna.UI2.WinForms.Guna2CirclePictureBox picBBlueTheme;
+        private Guna.UI2.WinForms.Guna2CirclePictureBox picBDarkTheme;
         private Guna.UI2.WinForms.Guna2Panel pnlBackground;
         private Guna.UI2.WinForms.Guna2CirclePictureBox picBLightSelected;
         private Guna.UI2.WinForms.Guna2CirclePictureBox picBDarkSelected;
         private Guna.UI2.WinForms.Guna2CirclePictureBox picBRedSelected;
-        private Guna.UI2.WinForms.Guna2Panel pnlTemes;
+        private Guna.UI2.WinForms.Guna2Panel pnlThemes;
         private Guna.UI2.WinForms.Guna2Panel guna2Panel1;
         private System.Windows.Forms.Label label2;
         private Guna.UI2.WinForms.Guna2TextBox guna2TextBox1;
@@ -772,8 +810,10 @@
         private Guna.UI2.WinForms.Guna2Panel pnlAppConfigTitle;
         private System.Windows.Forms.Label label4;
         private Guna.UI2.WinForms.Guna2CirclePictureBox picBBlueSelected;
-        private Guna.UI2.WinForms.Guna2Panel guna2Panel5;
+        private Guna.UI2.WinForms.Guna2Panel pnlFormTitle;
         private System.Windows.Forms.Label label6;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox2;
+        private Guna.UI2.WinForms.Guna2CirclePictureBox picBOrangeTheme;
+        private Guna.UI2.WinForms.Guna2CirclePictureBox picBOrangeThemeSelected;
     }
 }

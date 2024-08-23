@@ -134,3 +134,9 @@ D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Entitie
 D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
 D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Entities\obj\Debug\Entities.dll
 D:\Downloads\GT_ElTornillo v2.9.49 - v5.10\GT_ElTornillo v2.9.49 - v5.10\Entities\obj\Debug\Entities.pdb
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Entities\bin\Debug\Entities.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Entities\bin\Debug\Entities.pdb
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Entities\obj\Debug\Entities.dll
+C:\Users\Samiel\Desktop\GT_Eltornillo\GT_ElTornillo v2.9.49 - v5.16\Entities\obj\Debug\Entities.pdb

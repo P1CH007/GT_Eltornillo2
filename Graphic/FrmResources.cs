@@ -18,14 +18,24 @@ namespace Graphic
     {
         private string selected = "client";
 
-        public FrmResources(string theme, string load)
-        {
-            InitializeComponent();           
+        Color mainColor = Color.FromArgb(0, 0, 0);
+        Color scndColor = Color.FromArgb(0, 0, 0);
+        Color trdColor = Color.FromArgb(0, 0, 0);
+        Color background = Color.FromArgb(0, 0, 0);
 
-            
+        public FrmResources(string theme, string load, Color mainColor, Color scndColor, Color trdColor, Color background)
+        {
+            InitializeComponent();
+            changeTheme(mainColor, scndColor, trdColor, background);
+
+            this.mainColor = mainColor;
+            this.scndColor = scndColor;
+            this.trdColor = trdColor;
+            this.background = background;
+
             if (load == "all")
             {
-                
+
                 LoadEmployees();
                 LoadClients();
                 LoadSuppliers();
@@ -33,23 +43,23 @@ namespace Graphic
             }
             else
             {
-                
+
                 switch (load)
                 {
                     case "employee":
-                        
+
                         LoadEmployees();
                         break;
                     case "client":
-                        
+
                         LoadClients();
                         break;
                     case "supplier":
-                        
+
                         LoadSuppliers();
                         break;
                     case "local":
-                        
+
                         LoadLocal();
                         break;
                     default:
@@ -131,7 +141,7 @@ namespace Graphic
 
         public void LoadClients()
         {
-            
+
             // Verificar si el DataGridView está inicializado
             if (dgvClients == null)
             {
@@ -316,7 +326,7 @@ namespace Graphic
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
-            FrmABMResources addEmployeeForm = new FrmABMResources(selected);
+            FrmABMResources addEmployeeForm = new FrmABMResources(selected, mainColor, scndColor, trdColor, background);
             addEmployeeForm.Show();
         }
 
@@ -381,9 +391,9 @@ namespace Graphic
                     EmployeeDAO employeeDAO = new EmployeeDAO();
                     Employees employee = employeeDAO.GetEmployeeByCi(employeeCi);
 
-                    if (employee != null) 
+                    if (employee != null)
                     {
-                        FrmABMResources addEmployeeForm = new FrmABMResources(selected, employee);
+                        FrmABMResources addEmployeeForm = new FrmABMResources(selected, mainColor, scndColor, trdColor, background, employee);
                         addEmployeeForm.Show();
                     }
                     else
@@ -446,7 +456,7 @@ namespace Graphic
                     if (client != null)
                     {
                         // Abrir el formulario de adición/modificación de cliente
-                        FrmABMResources addClientForm = new FrmABMResources(selected, client);
+                        FrmABMResources addClientForm = new FrmABMResources(selected, mainColor, scndColor, trdColor, background, client);
                         addClientForm.Show();
                     }
                     else
@@ -490,14 +500,14 @@ namespace Graphic
 
         private void dgvSuppliers_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-           
+
             if (e.RowIndex >= 0)
             {
-               
+
                 // Manejo de la acción de edición de proveedor
                 if (dgvSuppliers.Columns["supplierEdit"] != null && e.ColumnIndex == dgvSuppliers.Columns["supplierEdit"].Index)
                 {
-                    
+
 
                     // Obtener el ID del proveedor de la celda correspondiente
                     int supplierId;
@@ -516,7 +526,7 @@ namespace Graphic
                     if (supplier != null)
                     {
                         // Abrir el formulario de adición/modificación de proveedor
-                        FrmABMResources addSupplierForm = new FrmABMResources(selected, supplier);
+                        FrmABMResources addSupplierForm = new FrmABMResources(selected, mainColor, scndColor, trdColor, background, supplier);
                         addSupplierForm.Show();
                     }
                     else
@@ -527,7 +537,7 @@ namespace Graphic
                 // Manejo de la acción de eliminación de proveedor
                 else if (dgvSuppliers.Columns["supplierDelete"] != null && e.ColumnIndex == dgvSuppliers.Columns["supplierDelete"].Index)
                 {
-                    
+
                     string supplierIdStr = dgvSuppliers.Rows[e.RowIndex].Cells["supplierId"]?.Value?.ToString();
                     string supplierName = dgvSuppliers.Rows[e.RowIndex].Cells["supplierName"]?.Value?.ToString();
 
@@ -569,14 +579,14 @@ namespace Graphic
 
         private void dgvLocal_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            
+
             if (e.RowIndex >= 0)
             {
-                
+
                 // Manejo de la acción de edición de local
                 if (dgvLocal.Columns["localEdit"] != null && e.ColumnIndex == dgvLocal.Columns["localEdit"].Index)
                 {
-                    
+
 
                     // Obtener el ID del local de la celda correspondiente
                     int localId;
@@ -595,7 +605,7 @@ namespace Graphic
                     if (local != null)
                     {
                         // Abrir el formulario de adición/modificación de local
-                        FrmABMResources addLocalForm = new FrmABMResources(selected, local);
+                        FrmABMResources addLocalForm = new FrmABMResources(selected, mainColor, scndColor, trdColor, background, local);
                         addLocalForm.Show();
                     }
                     else
@@ -606,7 +616,7 @@ namespace Graphic
                 // Manejo de la acción de eliminación de local
                 else if (dgvLocal.Columns["localDelete"] != null && e.ColumnIndex == dgvLocal.Columns["localDelete"].Index)
                 {
-                    
+
                     string localIdStr = dgvLocal.Rows[e.RowIndex].Cells["localId"]?.Value?.ToString();
                     string localName = dgvLocal.Rows[e.RowIndex].Cells["localName"]?.Value?.ToString();
 
@@ -630,7 +640,7 @@ namespace Graphic
                     if (result == DialogResult.Yes)
                     {
 
-                        
+
                         LocalDAO localDAO = new LocalDAO();
                         bool isDeleted = localDAO.DeleteLocal(localId);
 
@@ -652,5 +662,39 @@ namespace Graphic
         {
 
         }
-    }
+
+
+        private void changeTheme(Color color1, Color color2, Color color3, Color background)
+        {
+            Guna2Panel[] mainColor = { pnlAddButton, pnlButtons, pnlFormTitle, pnlHeaderClientDgv, pnlHeaderEmployeeDgv, pnlHeaderLocalDgv, pnlHeaderSuplierDgv};
+            Guna2Panel[] conteinerColor = { };
+            Guna2Panel[] lightColor = { };
+            Guna2Panel[] backgroundColor = { pnlBackground, pnlHeaderConteiner};
+
+
+            foreach (Guna2Panel darkColor in mainColor)
+            {
+                darkColor.FillColor = color1;
+            }
+            foreach (Guna2Panel secondColor in conteinerColor)
+            {
+                secondColor.FillColor = color2;
+            }
+            foreach (Guna2Panel lightColors in lightColor)
+            {
+                lightColors.FillColor = color3;
+            }
+            foreach (Guna2Panel backColor in backgroundColor)
+            {
+                backColor.FillColor = background;
+            }
+            tpAddClient.BackColor = background;
+            tpAddEmployee.BackColor = background;
+            tpAddProvider.BackColor = background;
+            tpAddShop.BackColor = background;
+
+
+        }
+    
 }
+    }

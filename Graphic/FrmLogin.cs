@@ -19,8 +19,16 @@ namespace Graphic
 {
     public partial class FrmLogin : Form
     {
-        private string saveTeme = "dark";
+
         private MainApplication mainApplication;
+
+        Color mainColor = Color.FromArgb(64, 64, 64);
+        Color scndColor = Color.FromArgb(84, 84, 84);
+        Color trdColor = Color.Gray;
+        Color background = Color.Gray;
+
+        private string tierL;
+        private string saveTheme;
 
         public FrmLogin()
         {
@@ -59,10 +67,11 @@ namespace Graphic
 
 
      */
+            string a = "x";
 
             if (txtGmail.Text == "Eventas@gmail.com" && txtPassword.Text == "root" || txtGmail.Text == "Estock@gmail.com" && txtPassword.Text == "root" || txtGmail.Text == "" && txtPassword.Text == "")
             {
-                mainApplication = new MainApplication(saveTeme, this, "userName", txtGmail.Text);
+                mainApplication = new MainApplication(this, "userName", a, saveTheme, mainColor, scndColor, trdColor, background);
                 mainApplication.Show();
                 this.Hide();
             }
@@ -121,86 +130,162 @@ namespace Graphic
         {
             string teme = "dark";
             changeTeme(teme);
-            saveTeme = "dark";
+            saveTheme = "dark";
         }
 
         private void picBoxRedTeme_Click(object sender, EventArgs e)
         {
             string teme = "red";
             changeTeme(teme);
-            saveTeme = "red";
+            saveTheme = "red";
         }
 
         private void picBoxBlueTeme_Click(object sender, EventArgs e)
         {
             string teme = "blue";
             changeTeme(teme);
-            saveTeme = "blue";
+            saveTheme = "blue";
         }
 
         private void picBoxLightTeme_Click(object sender, EventArgs e)
         {
             string teme = "light";
             changeTeme(teme);
-            saveTeme = "light";
+            saveTheme = "light";
+        }
+
+        private void picBOrangeTheme_Click(object sender, EventArgs e)
+        {
+            string teme = "orange";
+            changeTeme(teme);
+            saveTheme = "orange";
         }
 
         public void changeTeme(string teme)
         {
-            Guna.UI2.WinForms.Guna2Panel[] mainColor = { pnlLogConteiner, pnlTemesConteiner, pnlTop };
 
-
+            Guna2Panel[] mainPanels = { pnlLogConteiner, pnlTemesConteiner, pnlTop };
+            Guna2Panel[] conteinerPanels = { pnlTitle };
 
 
 
             switch (teme)
             {
+
                 case "dark":
-                    foreach (Guna2Panel colorDark in mainColor)
+
+
+                    mainColor = Color.FromArgb(64, 64, 64);
+                    scndColor = Color.FromArgb(84, 84, 84);
+                    trdColor = Color.Gray;
+                    background = Color.Gray;
+
+                    foreach (Guna2Panel colorDark in mainPanels)
                     {
-                        colorDark.FillColor =
-                            System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64))))); ;
-                        System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64))))); ;
+                        colorDark.FillColor = mainColor;
+                    }
+                    foreach (Guna2Panel conteinerColor in conteinerPanels)
+                    {
+                        conteinerColor.FillColor = scndColor;
                     }
                     picBDarkSelected.Visible = true;
                     picBBlueSelected.Visible = false;
                     picBRedSelected.Visible = false;
                     picBLightSelected.Visible = false;
+                    picBOrangeThemeSelected.Visible = false;
                     break;
 
                 case "red":
-                    foreach (Guna2Panel colorDark in mainColor)
+
+                    mainColor = Color.FromArgb(160, 46, 32);
+                    scndColor = Color.FromArgb(218, 52, 77);
+                    trdColor = Color.FromArgb(255, 192, 192);
+                    background = Color.FromArgb(232, 147, 136);
+
+                    foreach (Guna2Panel colorDark in mainPanels)
                     {
 
-                        colorDark.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(160)))), ((int)(((byte)(46)))), ((int)(((byte)(32))))); ;
+                        colorDark.FillColor = mainColor;
+                    }
+                    foreach (Guna2Panel conteinerColor in conteinerPanels)
+                    {
+                        conteinerColor.FillColor = scndColor;
                     }
                     picBDarkSelected.Visible = false;
                     picBBlueSelected.Visible = false;
                     picBRedSelected.Visible = true;
                     picBLightSelected.Visible = false;
+                    picBOrangeThemeSelected.Visible = false;
                     break;
 
                 case "blue":
-                    foreach (Guna2Panel colorDark in mainColor)
+
+                    mainColor = Color.FromArgb(56, 78, 186);
+                    scndColor = Color.CornflowerBlue;
+                    trdColor = Color.LightSteelBlue;
+                    background = Color.LightSteelBlue;
+
+
+                    foreach (Guna2Panel colorDark in mainPanels)
                     {
-                        colorDark.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(56)))), ((int)(((byte)(78)))), ((int)(((byte)(186))))); ;
+                        colorDark.FillColor = mainColor;
+                    }
+                    foreach (Guna2Panel conteinerColor in conteinerPanels)
+                    {
+                        conteinerColor.FillColor = scndColor;
                     }
                     picBDarkSelected.Visible = false;
                     picBBlueSelected.Visible = true;
                     picBRedSelected.Visible = false;
                     picBLightSelected.Visible = false;
+                    picBOrangeThemeSelected.Visible = false;
                     break;
 
                 case "light":
-                    foreach (Guna2Panel colorDark in mainColor)
+                    mainColor = Color.FromArgb(124, 160, 153);
+                    scndColor = Color.FromArgb(113, 124, 137);
+                    trdColor = Color.FromArgb(122, 145, 141);
+                    background = Color.FromArgb(122, 145, 141);
+
+
+                    foreach (Guna2Panel colorDark in mainPanels)
                     {
-                        colorDark.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(124)))), ((int)(((byte)(160)))), ((int)(((byte)(153))))); ;
+                        colorDark.FillColor = mainColor;
+                    }
+                    foreach (Guna2Panel conteinerColor in conteinerPanels)
+                    {
+                        conteinerColor.FillColor = scndColor;
                     }
                     picBDarkSelected.Visible = false;
                     picBBlueSelected.Visible = false;
                     picBRedSelected.Visible = false;
                     picBLightSelected.Visible = true;
+                    picBOrangeThemeSelected.Visible = false;
                     break;
+
+                case "orange":
+
+
+                    mainColor = Color.FromArgb(243, 114, 44);
+                    scndColor = Color.FromArgb(228, 150, 96);
+                    trdColor = Color.FromArgb(230, 168, 114);
+                    background = Color.FromArgb(255, 151, 112);
+
+                    foreach (Guna2Panel colorDark in mainPanels)
+                    {
+                        colorDark.FillColor = mainColor;
+                    }
+                    foreach (Guna2Panel conteinerColor in conteinerPanels)
+                    {
+                        conteinerColor.FillColor = scndColor;
+                    }
+                    picBDarkSelected.Visible = false;
+                    picBBlueSelected.Visible = false;
+                    picBRedSelected.Visible = false;
+                    picBLightSelected.Visible = false;
+                    picBOrangeThemeSelected.Visible = true;
+                    break;
+
 
                 default:
                     Console.WriteLine("Opción no válida");
@@ -226,5 +311,7 @@ namespace Graphic
             picBSeePass.Visible = false;
             picBHidePass.Visible = true;
         }
+
+
     }
 }
